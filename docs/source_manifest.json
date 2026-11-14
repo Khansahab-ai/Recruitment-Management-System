@@ -1,0 +1,142 @@
+{
+  "project_name": "Recruitment Management System (RMS)",
+  "version": "1.0.0",
+  "fixed_seed": 20261022,
+  "data_generation_command": "python scripts/generate_data.py",
+  "data_loading_command": "python scripts/load_data.py",
+  "data_validation_command": "python data/validation/validate_data.py",
+  "reproducibility_command": "python scripts/verify_reproducibility.py",
+  "provenance_and_licensing": {
+    "data_type": "100% Synthetic / Programmatically Generated",
+    "personal_data_included": false,
+    "pii_disclosure": "None. All candidate names, emails, and phone numbers are generated using Faker with Indian locale (en_IN) and fixed deterministic seed.",
+    "public_data_used": false,
+    "public_reference_inspiration": "Standard ISO/IEC HR recruitment nomenclature and OpenAPI 3.1 schemas.",
+    "lawful_use_statement": "All datasets and entities were generated in compliance with privacy regulations. No confidential, proprietary, or web-scraped personal data was utilized."
+  },
+  "datasets": [
+    {
+      "entity": "Department",
+      "table": "department",
+      "csv": "data/generated/departments.csv",
+      "json": "data/generated/departments.json",
+      "rows": 10
+    },
+    {
+      "entity": "JobRequisition",
+      "table": "jobrequisition",
+      "csv": "data/generated/job_requisitions.csv",
+      "json": "data/generated/job_requisitions.json",
+      "rows": 100
+    },
+    {
+      "entity": "Skill",
+      "table": "skill",
+      "csv": "data/generated/skills.csv",
+      "json": "data/generated/skills.json",
+      "rows": 50
+    },
+    {
+      "entity": "Candidate",
+      "table": "candidate",
+      "csv": "data/generated/candidates.csv",
+      "json": "data/generated/candidates.json",
+      "rows": 2000
+    },
+    {
+      "entity": "CandidateSkill",
+      "table": "candidateskill",
+      "csv": "data/generated/candidate_skills.csv",
+      "json": "data/generated/candidate_skills.json",
+      "rows": 9035
+    },
+    {
+      "entity": "ResumeArtifact",
+      "table": "resumeartifact",
+      "csv": "data/generated/resume_artifacts.csv",
+      "json": "data/generated/resume_artifacts.json",
+      "rows": 2327
+    },
+    {
+      "entity": "Application",
+      "table": "application",
+      "csv": "data/generated/applications.csv",
+      "json": "data/generated/applications.json",
+      "rows": 3000
+    },
+    {
+      "entity": "ScreeningRule",
+      "table": "screeningrule",
+      "csv": "data/generated/screening_rules.csv",
+      "json": "data/generated/screening_rules.json",
+      "rows": 400
+    },
+    {
+      "entity": "Interviewer",
+      "table": "interviewer",
+      "csv": "data/generated/interviewers.csv",
+      "json": "data/generated/interviewers.json",
+      "rows": 50
+    },
+    {
+      "entity": "Interview",
+      "table": "interview",
+      "csv": "data/generated/interviews.csv",
+      "json": "data/generated/interviews.json",
+      "rows": 600
+    },
+    {
+      "entity": "InterviewAssignment",
+      "table": "interviewassignment",
+      "csv": "data/generated/interview_assignments.csv",
+      "json": "data/generated/interview_assignments.json",
+      "rows": 1200
+    },
+    {
+      "entity": "Feedback",
+      "table": "feedback",
+      "csv": "data/generated/feedback.csv",
+      "json": "data/generated/feedback.json",
+      "rows": 1000
+    },
+    {
+      "entity": "Offer",
+      "table": "offer",
+      "csv": "data/generated/offers.csv",
+      "json": "data/generated/offers.json",
+      "rows": 150
+    },
+    {
+      "entity": "OfferApprovalHistory",
+      "table": "offerapprovalhistory",
+      "csv": "data/generated/offer_approval_history.csv",
+      "json": "data/generated/offer_approval_history.json",
+      "rows": 150
+    },
+    {
+      "entity": "ApplicationStageHistory",
+      "table": "applicationstagehistory",
+      "csv": "data/generated/application_stage_history.csv",
+      "json": "data/generated/application_stage_history.json",
+      "rows": 7559
+    }
+  ],
+  "sql_seed_file": "data/generated/seed_data.sql",
+  "ground_truth_files": [
+    "data/ground_truth/ground_truth.json",
+    "data/ground_truth/ground_truth.csv",
+    "data/ground_truth/unavailable_interviewer_case.json",
+    "data/ground_truth/duplicate_application_case.json",
+    "data/ground_truth/missing_feedback_case.json",
+    "data/ground_truth/salary_outside_band_case.json",
+    "data/ground_truth/closed_requisition_active_applications.json"
+  ],
+  "validation_summary": {
+    "total_checks": 56,
+    "passed": 56,
+    "failed": 0,
+    "status": "SUCCESS",
+    "report_csv": "data/validation/validation_summary.csv",
+    "report_json": "data/validation/validation_summary.json"
+  }
+}

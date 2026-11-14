@@ -1,0 +1,13 @@
+{
+    "scenario_id": "EDGE-04",
+    "scenario_name": "OFFER_OUTSIDE_APPROVED_SALARY_BAND",
+    "description": "An offer is proposed with a salary above the approved requisition salary range.",
+    "application_id": 3,
+    "requisition_id": 43,
+    "approved_min_salary": 1150000.0,
+    "approved_max_salary": 2050000.0,
+    "attempted_offered_salary": 2460000.0,
+    "expected_outcome": "REJECTED_OUTSIDE_APPROVED_BAND",
+    "offer_persisted": false,
+    "is_business_exception": true
+}

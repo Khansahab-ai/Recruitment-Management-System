@@ -1,0 +1,51 @@
+skill_id,skill_name,category
+1,Python,Programming
+2,Java,Programming
+3,JavaScript,Programming
+4,C++,Programming
+5,C#,Programming
+6,SQL,Programming
+7,R,Programming
+8,Go,Programming
+9,TypeScript,Programming
+10,PHP,Programming
+11,Machine Learning,AI_ML
+12,Deep Learning,AI_ML
+13,NLP,AI_ML
+14,Computer Vision,AI_ML
+15,Generative AI,AI_ML
+16,LLMs,AI_ML
+17,TensorFlow,AI_ML
+18,PyTorch,AI_ML
+19,Scikit-learn,AI_ML
+20,LangChain,AI_ML
+21,Pandas,Data
+22,NumPy,Data
+23,Power BI,Data
+24,Tableau,Data
+25,Excel,Data
+26,Data Analysis,Data
+27,Statistics,Data
+28,Data Engineering,Data
+29,Spark,Data
+30,Data Visualization,Data
+31,AWS,Cloud_DevOps
+32,Azure,Cloud_DevOps
+33,GCP,Cloud_DevOps
+34,Docker,Cloud_DevOps
+35,Kubernetes,Cloud_DevOps
+36,Git,Cloud_DevOps
+37,Linux,Cloud_DevOps
+38,CI/CD,Cloud_DevOps
+39,Terraform,Cloud_DevOps
+40,Jenkins,Cloud_DevOps
+41,FastAPI,Web_Backend
+42,Django,Web_Backend
+43,Flask,Web_Backend
+44,React,Web_Backend
+45,Node.js,Web_Backend
+46,REST APIs,Web_Backend
+47,PostgreSQL,Web_Backend
+48,MongoDB,Web_Backend
+49,Redis,Web_Backend
+50,Microservices,Web_Backend

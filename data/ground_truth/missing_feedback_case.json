@@ -1,0 +1,13 @@
+{
+    "scenario_id": "EDGE-03",
+    "scenario_name": "MISSING_FEEDBACK_STAGE_ADVANCED",
+    "description": "An application advances despite one interviewer not submitting the required feedback.",
+    "interview_id": 1,
+    "application_id": 436,
+    "missing_interviewer_id": 2,
+    "expected_feedback_count": 2,
+    "actual_feedback_count": 1,
+    "application_status": "OFFER",
+    "expected_outcome": "FLAG_INCOMPLETE_FEEDBACK",
+    "is_business_exception": true
+}

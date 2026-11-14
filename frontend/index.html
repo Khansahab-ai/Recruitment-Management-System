@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recruitment Management System (RMS)</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Top Header -->
+  <header>
+    <div class="logo-group">
+      <div class="logo-badge">RMS</div>
+      <div class="logo-text">
+        <h1>Recruitment Management System</h1>
+        <span>End-to-End Enterprise Hiring & Traceability</span>
+      </div>
+    </div>
+    <div class="system-status">
+      <div class="status-indicator status-online" id="api-status">
+        <span class="status-dot"></span>
+        <span id="api-status-text">Backend Connected</span>
+      </div>
+      <a href="http://localhost:8000/docs" target="_blank" class="btn btn-secondary btn-sm" style="text-decoration: none;">
+        OpenAPI Docs ↗
+      </a>
+    </div>
+  </header>
+
+  <!-- Navigation Bar -->
+  <nav class="tab-bar">
+    <button class="tab-btn active" data-tab="tab-dashboard">📊 Pipeline Dashboard</button>
+    <button class="tab-btn" data-tab="tab-requisitions">📋 Requisitions</button>
+    <button class="tab-btn" data-tab="tab-applications">👥 Candidates & Apps</button>
+    <button class="tab-btn" data-tab="tab-screening">⚖️ Screening & Scoring</button>
+    <button class="tab-btn" data-tab="tab-interviews">📅 Interview Panels</button>
+    <button class="tab-btn" data-tab="tab-feedback">📝 Feedback</button>
+    <button class="tab-btn" data-tab="tab-offers">💼 Offers & Approvals</button>
+    <button class="tab-btn" data-tab="tab-exceptions">🚨 Exceptions & Audit</button>
+  </nav>
+
+  <!-- Main Content Area -->
+  <main class="container">
+
+    <!-- 1. DASHBOARD TAB -->
+    <section id="tab-dashboard" class="tab-content active">
+      <!-- KPI Cards -->
+      <div class="grid-4" id="kpi-grid">
+        <div class="kpi-card">
+          <div class="kpi-title">Job Requisitions</div>
+          <div class="kpi-value" id="kpi-reqs">--</div>
+          <div class="kpi-sub" id="kpi-reqs-sub">Open Positions</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-title">Applications Received</div>
+          <div class="kpi-value" id="kpi-apps">--</div>
+          <div class="kpi-sub">Across 2,000 Candidates</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-title">Interviews Conducted</div>
+          <div class="kpi-value" id="kpi-ints">--</div>
+          <div class="kpi-sub">Structured Evaluation Rounds</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-title">Offer Acceptance Rate</div>
+          <div class="kpi-value" id="kpi-offers">--</div>
+          <div class="kpi-sub" id="kpi-offers-sub">Avg Time-to-Hire: -- days</div>
+        </div>
+      </div>
+
+      <!-- Funnel & Department Performance -->
+      <div class="grid-2">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">Recruitment Pipeline Conversion Funnel</div>
+          </div>
+          <div class="funnel-container" id="funnel-container">
+            <!-- Loaded dynamically -->
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">Department Hiring Performance</div>
+          </div>
+          <div class="table-responsive">
+            <table class="data-table" id="dept-table">
+              <thead>
+                <tr>
+                  <th>Department</th>
+                  <th>Requisitions</th>
+                  <th>Open Roles</th>
+                  <th>Applications</th>
+                  <th>Offers</th>
+                </tr>
+              </thead>
+              <tbody id="dept-table-body">
+                <!-- Loaded dynamically -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. REQUISITIONS TAB -->
+    <section id="tab-requisitions" class="tab-content">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">Job Requisitions Catalog</div>
+          <button class="btn btn-sm" id="btn-create-req">+ New Requisition</button>
+        </div>
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Job Code</th>
+                <th>Job Title</th>
+                <th>Department</th>
+                <th>Openings</th>
+                <th>Salary Band</th>
+                <th>Required Exp</th>
+                <th>Status</th>
+                <th>Created</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="requisitions-table-body">
+              <!-- Loaded dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. APPLICATIONS TAB -->
+    <section id="tab-applications" class="tab-content">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">Candidate Applications Pipeline</div>
+          <div style="display: flex; gap: 0.5rem;">
+            <select class="form-control" id="filter-app-status" style="width: 170px;">
+              <option value="">All Stages</option>
+              <option value="APPLIED">Applied</option>
+              <option value="SCREENING">Screening</option>
+              <option value="SHORTLISTED">Shortlisted</option>
+              <option value="INTERVIEW">Interview</option>
+              <option value="OFFER">Offer</option>
+              <option value="REJECTED">Rejected</option>
+              <option value="WITHDRAWN">Withdrawn</option>
+            </select>
+          </div>
+        </div>
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>App Code</th>
+                <th>Candidate ID</th>
+                <th>Requisition</th>
+                <th>Applied Date</th>
+                <th>Screening Score</th>
+                <th>Current Stage</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="applications-table-body">
+              <!-- Loaded dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. SCREENING TAB -->
+    <section id="tab-screening" class="tab-content">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">Structured Screening & Scoring Workbench</div>
+        </div>
+        <div style="display: flex; gap: 1rem; margin-bottom: 1.25rem;">
+          <input type="number" id="screen-app-id" class="form-control" placeholder="Enter Application ID (e.g. 1)" style="max-width: 250px;">
+          <button class="btn" id="btn-run-screen">Evaluate Application</button>
+        </div>
+        <div id="screening-result-box" style="display: none;">
+          <div class="alert alert-success" id="screening-summary-alert"></div>
+          <div class="table-responsive">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Criteria Name</th>
+                  <th>Weight (%)</th>
+                  <th>Raw Score</th>
+                  <th>Weighted Contribution</th>
+                  <th>Status</th>
+                  <th>Evaluation Evidence</th>
+                </tr>
+              </thead>
+              <tbody id="screening-breakdown-body">
+                <!-- Loaded dynamically -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. INTERVIEWS TAB -->
+    <section id="tab-interviews" class="tab-content">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">Interview Panels & Scheduling</div>
+          <button class="btn btn-sm" id="btn-schedule-modal">+ Schedule Round</button>
+        </div>
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Interview Code</th>
+                <th>App ID</th>
+                <th>Round</th>
+                <th>Scheduled Window</th>
+                <th>Status</th>
+                <th>Assigned Panel</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="interviews-table-body">
+              <!-- Loaded dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. FEEDBACK TAB -->
+    <section id="tab-feedback" class="tab-content">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">Structured Panel Feedback</div>
+          <button class="btn btn-sm" id="btn-submit-feedback-modal">+ Submit Feedback</button>
+        </div>
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Feedback Code</th>
+                <th>Interview</th>
+                <th>Interviewer</th>
+                <th>Technical</th>
+                <th>Problem Solving</th>
+                <th>Communication</th>
+                <th>Overall</th>
+                <th>Recommendation</th>
+                <th>Submitted</th>
+              </tr>
+            </thead>
+            <tbody id="feedback-table-body">
+              <!-- Loaded dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- 7. OFFERS TAB -->
+    <section id="tab-offers" class="tab-content">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">Job Offers & Executive Approvals</div>
+          <button class="btn btn-sm" id="btn-propose-offer-modal">+ Propose Offer</button>
+        </div>
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Offer Code</th>
+                <th>App ID</th>
+                <th>Offered Salary</th>
+                <th>Joining Date</th>
+                <th>Status</th>
+                <th>Approval Trail</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="offers-table-body">
+              <!-- Loaded dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- 8. EXCEPTIONS TAB -->
+    <section id="tab-exceptions" class="tab-content">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">Policy Exceptions & Ground-Truth Anomaly Auditing</div>
+          <button class="btn btn-sm" id="btn-rescan-exceptions">↻ Re-scan Database</button>
+        </div>
+        <div class="alert alert-warning" id="audit-summary-alert">
+          Scanning database for the 5 documented business exception vectors...
+        </div>
+        <div id="anomalies-list">
+          <!-- Loaded dynamically -->
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Modal: Create Requisition -->
+  <div class="modal-overlay" id="modal-req">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3 style="font-size: 1.05rem;">Create Approved Job Requisition</h3>
+        <button style="border:none;background:none;font-size:1.2rem;cursor:pointer;" class="modal-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="form-create-req">
+          <div class="form-group">
+            <label>Job Title</label>
+            <input type="text" id="req-title" class="form-control" required placeholder="e.g. Senior Backend Engineer">
+          </div>
+          <div class="form-group">
+            <label>Department</label>
+            <select id="req-dept" class="form-control" required></select>
+          </div>
+          <div class="form-group">
+            <label>Openings</label>
+            <input type="number" id="req-openings" class="form-control" min="1" value="1" required>
+          </div>
+          <div style="display: flex; gap: 1rem;">
+            <div class="form-group" style="flex:1;">
+              <label>Min Salary (INR)</label>
+              <input type="number" id="req-min-sal" class="form-control" required value="1200000">
+            </div>
+            <div class="form-group" style="flex:1;">
+              <label>Max Salary (INR)</label>
+              <input type="number" id="req-max-sal" class="form-control" required value="1800000">
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Required Experience (Years)</label>
+            <input type="number" id="req-exp" class="form-control" step="0.5" value="3.0" required>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary modal-close">Cancel</button>
+        <button class="btn" id="btn-save-req">Create Requisition</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Propose Offer -->
+  <div class="modal-overlay" id="modal-offer">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3 style="font-size: 1.05rem;">Propose Job Offer</h3>
+        <button style="border:none;background:none;font-size:1.2rem;cursor:pointer;" class="modal-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="form-propose-offer">
+          <div class="form-group">
+            <label>Application ID</label>
+            <input type="number" id="offer-app-id" class="form-control" required placeholder="Application ID">
+          </div>
+          <div class="form-group">
+            <label>Offered Annual Salary (INR)</label>
+            <input type="number" id="offer-sal" class="form-control" required placeholder="e.g. 1500000">
+            <small style="color:var(--text-muted);font-size:0.75rem;">Must be strictly within approved requisition salary band.</small>
+          </div>
+          <div class="form-group">
+            <label>Anticipated Joining Date</label>
+            <input type="date" id="offer-joining" class="form-control">
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary modal-close">Cancel</button>
+        <button class="btn" id="btn-save-offer">Propose Offer</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Schedule Interview Round -->
+  <div class="modal-overlay" id="modal-interview">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3 style="font-size: 1.05rem;">Schedule Interview Round</h3>
+        <button style="border:none;background:none;font-size:1.2rem;cursor:pointer;" class="modal-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="form-schedule-interview">
+          <div class="form-group">
+            <label>Application ID</label>
+            <input type="number" id="int-app-id" class="form-control" required placeholder="e.g. 1">
+            <small style="color:var(--text-muted);font-size:0.75rem;">Candidate will progress to INTERVIEW stage automatically.</small>
+          </div>
+          <div class="form-group">
+            <label>Round Name</label>
+            <select id="int-round-name" class="form-control" required>
+              <option value="Technical Round 1">Technical Round 1</option>
+              <option value="Technical Round 2 (System Design)">Technical Round 2 (System Design)</option>
+              <option value="Coding Assessment">Coding Assessment</option>
+              <option value="Managerial & Cultural Fit">Managerial & Cultural Fit</option>
+              <option value="Executive HR Discussion">Executive HR Discussion</option>
+            </select>
+          </div>
+          <div style="display: flex; gap: 1rem;">
+            <div class="form-group" style="flex:1;">
+              <label>Start Date & Time</label>
+              <input type="datetime-local" id="int-start-time" class="form-control" required>
+            </div>
+            <div class="form-group" style="flex:1;">
+              <label>End Date & Time</label>
+              <input type="datetime-local" id="int-end-time" class="form-control" required>
+            </div>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary modal-close">Cancel</button>
+        <button class="btn" id="btn-save-interview">Schedule Round</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Submit Feedback -->
+  <div class="modal-overlay" id="modal-feedback">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3 style="font-size: 1.05rem;">Submit Interview Feedback</h3>
+        <button style="border:none;background:none;font-size:1.2rem;cursor:pointer;" class="modal-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="form-submit-feedback">
+          <div style="display: flex; gap: 1rem;">
+            <div class="form-group" style="flex:1;">
+              <label>Interview ID</label>
+              <input type="number" id="fb-int-id" class="form-control" required placeholder="Interview ID">
+            </div>
+            <div class="form-group" style="flex:1;">
+              <label>Interviewer ID</label>
+              <input type="number" id="fb-ivr-id" class="form-control" required placeholder="Interviewer ID">
+            </div>
+          </div>
+          <small style="color:var(--text-muted);font-size:0.75rem;display:block;margin-bottom:0.75rem;">Note: Interviewer must be assigned to this interview round.</small>
+          
+          <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.75rem;">
+            <div class="form-group">
+              <label>Technical (0-10)</label>
+              <input type="number" id="fb-tech" class="form-control" min="0" max="10" step="0.5" value="8" required>
+            </div>
+            <div class="form-group">
+              <label>Problem Solving (0-10)</label>
+              <input type="number" id="fb-problem" class="form-control" min="0" max="10" step="0.5" value="8" required>
+            </div>
+            <div class="form-group">
+              <label>Communication (0-10)</label>
+              <input type="number" id="fb-comm" class="form-control" min="0" max="10" step="0.5" value="8" required>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label>Recommendation</label>
+            <select id="fb-rec" class="form-control" required>
+              <option value="STRONG_HIRE">STRONG_HIRE</option>
+              <option value="HIRE" selected>HIRE</option>
+              <option value="HOLD">HOLD</option>
+              <option value="NO_HIRE">NO_HIRE</option>
+              <option value="STRONG_NO_HIRE">STRONG_NO_HIRE</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>Evaluation Comments</label>
+            <textarea id="fb-comments" class="form-control" rows="3" placeholder="Enter evaluation notes and strengths/weaknesses..."></textarea>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary modal-close">Cancel</button>
+        <button class="btn" id="btn-save-feedback">Submit Feedback</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

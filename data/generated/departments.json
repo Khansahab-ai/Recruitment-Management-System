@@ -1,0 +1,52 @@
+[
+    {
+        "department_id": 1,
+        "name": "Engineering",
+        "description": "Software and technology development"
+    },
+    {
+        "department_id": 2,
+        "name": "Human Resources",
+        "description": "Recruitment and employee management"
+    },
+    {
+        "department_id": 3,
+        "name": "Finance",
+        "description": "Financial planning and accounting"
+    },
+    {
+        "department_id": 4,
+        "name": "Marketing",
+        "description": "Brand management and marketing"
+    },
+    {
+        "department_id": 5,
+        "name": "Sales",
+        "description": "Business development and sales"
+    },
+    {
+        "department_id": 6,
+        "name": "Operations",
+        "description": "Business operations and delivery"
+    },
+    {
+        "department_id": 7,
+        "name": "Data Science",
+        "description": "Analytics and artificial intelligence"
+    },
+    {
+        "department_id": 8,
+        "name": "Product",
+        "description": "Product strategy and management"
+    },
+    {
+        "department_id": 9,
+        "name": "Customer Support",
+        "description": "Customer service and support"
+    },
+    {
+        "department_id": 10,
+        "name": "Information Technology",
+        "description": "Infrastructure and IT services"
+    }
+]

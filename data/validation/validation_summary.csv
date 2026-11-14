@@ -1,0 +1,57 @@
+check,status,details
+Primary key - Departments,PASS,"Column: department_id, Rows: 10"
+Primary key - Requisitions,PASS,"Column: requisition_id, Rows: 100"
+Primary key - Skills,PASS,"Column: skill_id, Rows: 50"
+Primary key - Candidates,PASS,"Column: candidate_id, Rows: 2000"
+Primary key - Candidate Skills,PASS,"Column: id, Rows: 9035"
+Primary key - Resume Artifacts,PASS,"Column: resume_id, Rows: 2327"
+Primary key - Applications,PASS,"Column: application_id, Rows: 3000"
+Primary key - Screening Rules,PASS,"Column: rule_id, Rows: 400"
+Primary key - Interviewers,PASS,"Column: interviewer_id, Rows: 50"
+Primary key - Interviews,PASS,"Column: interview_id, Rows: 600"
+Primary key - Interview Assignments,PASS,"Column: assignment_id, Rows: 1200"
+Primary key - Feedback,PASS,"Column: feedback_id, Rows: 1000"
+Primary key - Offers,PASS,"Column: offer_id, Rows: 150"
+Primary key - Approval History,PASS,"Column: approval_id, Rows: 150"
+Primary key - Application Stage History,PASS,"Column: id, Rows: 7559"
+Foreign key - Requisition -> Department,PASS,Invalid references: 0
+Foreign key - Interviewer -> Department,PASS,Invalid references: 0
+Foreign key - Candidate Skill -> Candidate,PASS,Invalid references: 0
+Foreign key - Candidate Skill -> Skill,PASS,Invalid references: 0
+Foreign key - Resume Artifact -> Candidate,PASS,Invalid references: 0
+Foreign key - Application -> Candidate,PASS,Invalid references: 0
+Foreign key - Application -> Requisition,PASS,Invalid references: 0
+Foreign key - Screening Rule -> Requisition,PASS,Invalid references: 0
+Foreign key - Interview -> Application,PASS,Invalid references: 0
+Foreign key - Assignment -> Interview,PASS,Invalid references: 0
+Foreign key - Assignment -> Interviewer,PASS,Invalid references: 0
+Foreign key - Feedback -> Interview,PASS,Invalid references: 0
+Foreign key - Feedback -> Interviewer,PASS,Invalid references: 0
+Foreign key - Offer -> Application,PASS,Invalid references: 0
+Foreign key - Approval History -> Offer,PASS,Invalid references: 0
+Foreign key - Stage History -> Application,PASS,Invalid references: 0
+Duplicate applications,PASS,Duplicate pairs: 0
+Duplicate interview assignments,PASS,Duplicate assignments: 0
+Duplicate interviewer feedback,PASS,Duplicate feedback records: 0
+Application status values,PASS,Invalid statuses: set()
+Requisition status values,PASS,Invalid statuses: set()
+Offer status values,PASS,Invalid statuses: set()
+Resume artifact file types,PASS,Invalid types: set()
+Resume artifact extraction status,PASS,Invalid statuses: set()
+Requisition salary range,PASS,Invalid salary ranges: 0
+Offer salary within approved band,PASS,Invalid offers: 0
+Screening weights total 100,PASS,Requisitions with invalid weights: 0
+Individual screening weights,PASS,Invalid rules: 0
+Application creation dates,PASS,Invalid applications: 0
+Interview start and end dates,PASS,Invalid interviews: 0
+Interview after application,PASS,Invalid interview sequences: 0
+Feedback submitted after interview,PASS,Invalid feedback dates: 0
+Offer joining dates,PASS,Invalid joining dates: 0
+Every application has history,PASS,Applications without history: 0
+Final history matches application status,PASS,Mismatches: 0
+Feedback belongs to assigned interviewer,PASS,Invalid feedback assignments: 0
+EDGE-01 Duplicate application scenario,PASS,Valid existing applications: 1
+EDGE-02 Unavailable interviewer,PASS,"Overlapping: True, Already assigned: True, New assignment persisted: False"
+EDGE-03 Missing feedback,PASS,"Expected: 2, Actual: 1"
+EDGE-04 Salary outside approved band,PASS,"Attempted salary: 2460000.0, Maximum: 2050000.0"
+EDGE-05 Closed requisition with active applications,PASS,Active applications: 22

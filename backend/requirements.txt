@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+psycopg[binary]
+alembic
+pydantic-settings
+python-multipart
+email-validator
+Faker
+pandas
+numpy
+httpx
+pytest

@@ -1,0 +1,1352 @@
+[
+    {
+        "offer_id": 1,
+        "offer_code": "OFF-2026-000001",
+        "application_id": 3,
+        "offered_salary": 1495346.61,
+        "joining_date": "2026-03-14T23:40:44+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-01-25T23:40:44+00:00"
+    },
+    {
+        "offer_id": 2,
+        "offer_code": "OFF-2026-000002",
+        "application_id": 101,
+        "offered_salary": 1107359.58,
+        "joining_date": "2026-05-04T18:13:43+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-03-08T18:13:43+00:00"
+    },
+    {
+        "offer_id": 3,
+        "offer_code": "OFF-2026-000003",
+        "application_id": 1529,
+        "offered_salary": 1345010.62,
+        "joining_date": "2026-08-21T10:00:43+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-06-16T10:00:43+00:00"
+    },
+    {
+        "offer_id": 4,
+        "offer_code": "OFF-2026-000004",
+        "application_id": 537,
+        "offered_salary": 589228.11,
+        "joining_date": "2026-10-11T06:08:21+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-08-06T06:08:21+00:00"
+    },
+    {
+        "offer_id": 5,
+        "offer_code": "OFF-2026-000005",
+        "application_id": 732,
+        "offered_salary": 731664.98,
+        "joining_date": "2026-05-10T16:22:19+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-02-26T16:22:19+00:00"
+    },
+    {
+        "offer_id": 6,
+        "offer_code": "OFF-2026-000006",
+        "application_id": 1116,
+        "offered_salary": 1092716.25,
+        "joining_date": "2026-06-02T14:19:59+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-03-15T14:19:59+00:00"
+    },
+    {
+        "offer_id": 7,
+        "offer_code": "OFF-2026-000007",
+        "application_id": 134,
+        "offered_salary": 561992.01,
+        "joining_date": "2026-05-03T07:56:38+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-02-16T07:56:38+00:00"
+    },
+    {
+        "offer_id": 8,
+        "offer_code": "OFF-2026-000008",
+        "application_id": 750,
+        "offered_salary": 1078936.99,
+        "joining_date": "2026-07-04T08:03:24+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-04-23T08:03:24+00:00"
+    },
+    {
+        "offer_id": 9,
+        "offer_code": "OFF-2026-000009",
+        "application_id": 129,
+        "offered_salary": 1313119.56,
+        "joining_date": "2026-08-17T01:07:46+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-06-04T01:07:46+00:00"
+    },
+    {
+        "offer_id": 10,
+        "offer_code": "OFF-2026-000010",
+        "application_id": 1454,
+        "offered_salary": 609444.43,
+        "joining_date": "2026-10-21T01:36:27+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-08-07T01:36:27+00:00"
+    },
+    {
+        "offer_id": 11,
+        "offer_code": "OFF-2026-000011",
+        "application_id": 1611,
+        "offered_salary": 1174304.05,
+        "joining_date": "2026-03-16T09:17:21+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-01-20T09:17:21+00:00"
+    },
+    {
+        "offer_id": 12,
+        "offer_code": "OFF-2026-000012",
+        "application_id": 745,
+        "offered_salary": 605457.81,
+        "joining_date": "2026-10-17T02:41:58+00:00",
+        "status": "SENT",
+        "created_at": "2026-08-04T02:41:58+00:00"
+    },
+    {
+        "offer_id": 13,
+        "offer_code": "OFF-2026-000013",
+        "application_id": 489,
+        "offered_salary": 583094.88,
+        "joining_date": "2026-04-08T06:44:43+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-03-06T06:44:43+00:00"
+    },
+    {
+        "offer_id": 14,
+        "offer_code": "OFF-2026-000014",
+        "application_id": 654,
+        "offered_salary": 1173408.76,
+        "joining_date": "2026-04-24T14:38:44+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-03-04T14:38:44+00:00"
+    },
+    {
+        "offer_id": 15,
+        "offer_code": "OFF-2026-000015",
+        "application_id": 1400,
+        "offered_salary": 617596.55,
+        "joining_date": "2026-09-18T16:55:28+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-08-16T16:55:28+00:00"
+    },
+    {
+        "offer_id": 16,
+        "offer_code": "OFF-2026-000016",
+        "application_id": 2788,
+        "offered_salary": 1562588.13,
+        "joining_date": "2026-06-25T06:45:38+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-04-23T06:45:38+00:00"
+    },
+    {
+        "offer_id": 17,
+        "offer_code": "OFF-2026-000017",
+        "application_id": 681,
+        "offered_salary": 1488640.33,
+        "joining_date": "2026-12-22T07:15:50+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-09-26T07:15:50+00:00"
+    },
+    {
+        "offer_id": 18,
+        "offer_code": "OFF-2026-000018",
+        "application_id": 2002,
+        "offered_salary": 340775.54,
+        "joining_date": "2026-08-13T08:32:25+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-06-21T08:32:25+00:00"
+    },
+    {
+        "offer_id": 19,
+        "offer_code": "OFF-2026-000019",
+        "application_id": 705,
+        "offered_salary": 1004448.38,
+        "joining_date": "2026-10-01T17:44:25+00:00",
+        "status": "SENT",
+        "created_at": "2026-08-17T17:44:25+00:00"
+    },
+    {
+        "offer_id": 20,
+        "offer_code": "OFF-2026-000020",
+        "application_id": 2158,
+        "offered_salary": 1287235.47,
+        "joining_date": "2026-04-15T13:04:19+00:00",
+        "status": "SENT",
+        "created_at": "2026-02-28T13:04:19+00:00"
+    },
+    {
+        "offer_id": 21,
+        "offer_code": "OFF-2026-000021",
+        "application_id": 1762,
+        "offered_salary": 864207.46,
+        "joining_date": "2026-07-07T15:08:53+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-05-04T15:08:53+00:00"
+    },
+    {
+        "offer_id": 22,
+        "offer_code": "OFF-2026-000022",
+        "application_id": 1935,
+        "offered_salary": 1353660.19,
+        "joining_date": "2026-08-10T22:03:44+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-06-07T22:03:44+00:00"
+    },
+    {
+        "offer_id": 23,
+        "offer_code": "OFF-2026-000023",
+        "application_id": 198,
+        "offered_salary": 842284.54,
+        "joining_date": "2026-09-17T01:59:51+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-07-27T01:59:51+00:00"
+    },
+    {
+        "offer_id": 24,
+        "offer_code": "OFF-2026-000024",
+        "application_id": 2912,
+        "offered_salary": 1398694.98,
+        "joining_date": "2026-04-04T11:25:01+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-03-04T11:25:01+00:00"
+    },
+    {
+        "offer_id": 25,
+        "offer_code": "OFF-2026-000025",
+        "application_id": 1393,
+        "offered_salary": 529453.68,
+        "joining_date": "2026-12-16T19:23:12+00:00",
+        "status": "SENT",
+        "created_at": "2026-09-28T19:23:12+00:00"
+    },
+    {
+        "offer_id": 26,
+        "offer_code": "OFF-2026-000026",
+        "application_id": 1933,
+        "offered_salary": 1120719.26,
+        "joining_date": "2026-07-08T23:15:58+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-05-27T23:15:58+00:00"
+    },
+    {
+        "offer_id": 27,
+        "offer_code": "OFF-2026-000027",
+        "application_id": 2237,
+        "offered_salary": 1059408.18,
+        "joining_date": "2026-11-12T10:45:38+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-09-14T10:45:38+00:00"
+    },
+    {
+        "offer_id": 28,
+        "offer_code": "OFF-2026-000028",
+        "application_id": 1249,
+        "offered_salary": 692100.34,
+        "joining_date": "2026-05-12T11:59:39+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-03-21T11:59:39+00:00"
+    },
+    {
+        "offer_id": 29,
+        "offer_code": "OFF-2026-000029",
+        "application_id": 2104,
+        "offered_salary": 1133709.27,
+        "joining_date": "2026-11-13T12:24:50+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-09-08T12:24:50+00:00"
+    },
+    {
+        "offer_id": 30,
+        "offer_code": "OFF-2026-000030",
+        "application_id": 629,
+        "offered_salary": 1425583.56,
+        "joining_date": "2026-06-20T19:34:37+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-04-29T19:34:37+00:00"
+    },
+    {
+        "offer_id": 31,
+        "offer_code": "OFF-2026-000031",
+        "application_id": 1205,
+        "offered_salary": 873845.86,
+        "joining_date": "2027-01-06T00:24:49+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-10-16T00:24:49+00:00"
+    },
+    {
+        "offer_id": 32,
+        "offer_code": "OFF-2026-000032",
+        "application_id": 2932,
+        "offered_salary": 411908.22,
+        "joining_date": "2026-05-07T07:01:50+00:00",
+        "status": "SENT",
+        "created_at": "2026-03-27T07:01:50+00:00"
+    },
+    {
+        "offer_id": 33,
+        "offer_code": "OFF-2026-000033",
+        "application_id": 2743,
+        "offered_salary": 781384.12,
+        "joining_date": "2026-03-20T00:08:56+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-01-01T00:08:56+00:00"
+    },
+    {
+        "offer_id": 34,
+        "offer_code": "OFF-2026-000034",
+        "application_id": 2124,
+        "offered_salary": 963079.64,
+        "joining_date": "2026-09-10T02:06:28+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-08-06T02:06:28+00:00"
+    },
+    {
+        "offer_id": 35,
+        "offer_code": "OFF-2026-000035",
+        "application_id": 2078,
+        "offered_salary": 990626.86,
+        "joining_date": "2026-08-21T18:16:24+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-06-26T18:16:24+00:00"
+    },
+    {
+        "offer_id": 36,
+        "offer_code": "OFF-2026-000036",
+        "application_id": 695,
+        "offered_salary": 851298.67,
+        "joining_date": "2026-04-16T06:30:04+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-02-19T06:30:04+00:00"
+    },
+    {
+        "offer_id": 37,
+        "offer_code": "OFF-2026-000037",
+        "application_id": 2014,
+        "offered_salary": 551650.02,
+        "joining_date": "2026-10-17T19:33:34+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-09-08T19:33:34+00:00"
+    },
+    {
+        "offer_id": 38,
+        "offer_code": "OFF-2026-000038",
+        "application_id": 812,
+        "offered_salary": 948868.18,
+        "joining_date": "2026-03-02T06:13:25+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-01-02T06:13:25+00:00"
+    },
+    {
+        "offer_id": 39,
+        "offer_code": "OFF-2026-000039",
+        "application_id": 1812,
+        "offered_salary": 1173128.65,
+        "joining_date": "2026-07-15T13:39:12+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-04-23T13:39:12+00:00"
+    },
+    {
+        "offer_id": 40,
+        "offer_code": "OFF-2026-000040",
+        "application_id": 2799,
+        "offered_salary": 1372754.93,
+        "joining_date": "2027-01-16T17:59:04+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-11-09T17:59:04+00:00"
+    },
+    {
+        "offer_id": 41,
+        "offer_code": "OFF-2026-000041",
+        "application_id": 1512,
+        "offered_salary": 669718.31,
+        "joining_date": "2026-04-27T15:07:47+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-02-05T15:07:47+00:00"
+    },
+    {
+        "offer_id": 42,
+        "offer_code": "OFF-2026-000042",
+        "application_id": 476,
+        "offered_salary": 708401.09,
+        "joining_date": "2026-11-30T08:03:56+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-10-26T08:03:56+00:00"
+    },
+    {
+        "offer_id": 43,
+        "offer_code": "OFF-2026-000043",
+        "application_id": 573,
+        "offered_salary": 763882.43,
+        "joining_date": "2026-11-13T00:29:27+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-09-12T00:29:27+00:00"
+    },
+    {
+        "offer_id": 44,
+        "offer_code": "OFF-2026-000044",
+        "application_id": 317,
+        "offered_salary": 666715.03,
+        "joining_date": "2026-05-25T10:16:02+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-03-11T10:16:02+00:00"
+    },
+    {
+        "offer_id": 45,
+        "offer_code": "OFF-2026-000045",
+        "application_id": 836,
+        "offered_salary": 993235.78,
+        "joining_date": "2026-06-07T16:09:52+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-04-25T16:09:52+00:00"
+    },
+    {
+        "offer_id": 46,
+        "offer_code": "OFF-2026-000046",
+        "application_id": 229,
+        "offered_salary": 1201428.43,
+        "joining_date": "2026-07-26T15:49:55+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-05-01T15:49:55+00:00"
+    },
+    {
+        "offer_id": 47,
+        "offer_code": "OFF-2026-000047",
+        "application_id": 1407,
+        "offered_salary": 1064892.78,
+        "joining_date": "2026-04-07T02:36:53+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-01-23T02:36:53+00:00"
+    },
+    {
+        "offer_id": 48,
+        "offer_code": "OFF-2026-000048",
+        "application_id": 334,
+        "offered_salary": 900277.55,
+        "joining_date": "2026-04-14T04:30:23+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-02-15T04:30:23+00:00"
+    },
+    {
+        "offer_id": 49,
+        "offer_code": "OFF-2026-000049",
+        "application_id": 2512,
+        "offered_salary": 1058363.68,
+        "joining_date": "2026-10-27T21:04:36+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-08-31T21:04:36+00:00"
+    },
+    {
+        "offer_id": 50,
+        "offer_code": "OFF-2026-000050",
+        "application_id": 2688,
+        "offered_salary": 1559582.52,
+        "joining_date": "2026-12-09T22:57:39+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-09-25T22:57:39+00:00"
+    },
+    {
+        "offer_id": 51,
+        "offer_code": "OFF-2026-000051",
+        "application_id": 2714,
+        "offered_salary": 638936.24,
+        "joining_date": "2026-07-20T02:02:32+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-05-13T02:02:32+00:00"
+    },
+    {
+        "offer_id": 52,
+        "offer_code": "OFF-2026-000052",
+        "application_id": 487,
+        "offered_salary": 1315531.76,
+        "joining_date": "2026-09-01T13:24:44+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-07-31T13:24:44+00:00"
+    },
+    {
+        "offer_id": 53,
+        "offer_code": "OFF-2026-000053",
+        "application_id": 2979,
+        "offered_salary": 522996.9,
+        "joining_date": "2026-12-10T06:27:20+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-10-23T06:27:20+00:00"
+    },
+    {
+        "offer_id": 54,
+        "offer_code": "OFF-2026-000054",
+        "application_id": 2874,
+        "offered_salary": 932442.71,
+        "joining_date": "2026-07-30T05:05:02+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-05-11T05:05:02+00:00"
+    },
+    {
+        "offer_id": 55,
+        "offer_code": "OFF-2026-000055",
+        "application_id": 394,
+        "offered_salary": 1037462.53,
+        "joining_date": "2026-11-11T00:17:05+00:00",
+        "status": "SENT",
+        "created_at": "2026-09-15T00:17:05+00:00"
+    },
+    {
+        "offer_id": 56,
+        "offer_code": "OFF-2026-000056",
+        "application_id": 2974,
+        "offered_salary": 570913.04,
+        "joining_date": "2026-05-21T02:04:49+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-04-04T02:04:49+00:00"
+    },
+    {
+        "offer_id": 57,
+        "offer_code": "OFF-2026-000057",
+        "application_id": 849,
+        "offered_salary": 803604.12,
+        "joining_date": "2026-03-22T06:09:07+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-02-10T06:09:07+00:00"
+    },
+    {
+        "offer_id": 58,
+        "offer_code": "OFF-2026-000058",
+        "application_id": 1951,
+        "offered_salary": 1525015.43,
+        "joining_date": "2026-10-31T01:22:41+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-08-07T01:22:41+00:00"
+    },
+    {
+        "offer_id": 59,
+        "offer_code": "OFF-2026-000059",
+        "application_id": 793,
+        "offered_salary": 1002216.5,
+        "joining_date": "2026-05-28T21:05:19+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-02-27T21:05:19+00:00"
+    },
+    {
+        "offer_id": 60,
+        "offer_code": "OFF-2026-000060",
+        "application_id": 2095,
+        "offered_salary": 1504383.95,
+        "joining_date": "2026-08-20T22:26:23+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-06-27T22:26:23+00:00"
+    },
+    {
+        "offer_id": 61,
+        "offer_code": "OFF-2026-000061",
+        "application_id": 636,
+        "offered_salary": 1582099.56,
+        "joining_date": "2027-01-11T02:54:20+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-11-03T02:54:20+00:00"
+    },
+    {
+        "offer_id": 62,
+        "offer_code": "OFF-2026-000062",
+        "application_id": 1160,
+        "offered_salary": 758210.39,
+        "joining_date": "2026-04-08T03:57:35+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-02-18T03:57:35+00:00"
+    },
+    {
+        "offer_id": 63,
+        "offer_code": "OFF-2026-000063",
+        "application_id": 756,
+        "offered_salary": 1035211.36,
+        "joining_date": "2026-08-07T18:00:00+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-06-06T18:00:00+00:00"
+    },
+    {
+        "offer_id": 64,
+        "offer_code": "OFF-2026-000064",
+        "application_id": 1831,
+        "offered_salary": 798755.57,
+        "joining_date": "2026-03-18T03:01:21+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-01-22T03:01:21+00:00"
+    },
+    {
+        "offer_id": 65,
+        "offer_code": "OFF-2026-000065",
+        "application_id": 870,
+        "offered_salary": 723371.72,
+        "joining_date": "2026-11-19T19:13:21+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-10-14T19:13:21+00:00"
+    },
+    {
+        "offer_id": 66,
+        "offer_code": "OFF-2026-000066",
+        "application_id": 1705,
+        "offered_salary": 906261.41,
+        "joining_date": "2026-03-17T22:42:48+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-02-03T22:42:48+00:00"
+    },
+    {
+        "offer_id": 67,
+        "offer_code": "OFF-2026-000067",
+        "application_id": 1028,
+        "offered_salary": 654054.06,
+        "joining_date": "2026-06-13T11:45:06+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-05-05T11:45:06+00:00"
+    },
+    {
+        "offer_id": 68,
+        "offer_code": "OFF-2026-000068",
+        "application_id": 2584,
+        "offered_salary": 690041.76,
+        "joining_date": "2026-08-11T20:32:32+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-06-08T20:32:32+00:00"
+    },
+    {
+        "offer_id": 69,
+        "offer_code": "OFF-2026-000069",
+        "application_id": 2945,
+        "offered_salary": 1078970.67,
+        "joining_date": "2026-05-11T16:42:24+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-03-19T16:42:24+00:00"
+    },
+    {
+        "offer_id": 70,
+        "offer_code": "OFF-2026-000070",
+        "application_id": 254,
+        "offered_salary": 995083.13,
+        "joining_date": "2026-09-02T04:02:24+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-06-25T04:02:24+00:00"
+    },
+    {
+        "offer_id": 71,
+        "offer_code": "OFF-2026-000071",
+        "application_id": 949,
+        "offered_salary": 852241.48,
+        "joining_date": "2027-01-07T21:12:49+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-10-16T21:12:49+00:00"
+    },
+    {
+        "offer_id": 72,
+        "offer_code": "OFF-2026-000072",
+        "application_id": 1755,
+        "offered_salary": 402896.74,
+        "joining_date": "2026-10-31T17:54:24+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-09-20T17:54:24+00:00"
+    },
+    {
+        "offer_id": 73,
+        "offer_code": "OFF-2026-000073",
+        "application_id": 912,
+        "offered_salary": 902135.88,
+        "joining_date": "2026-04-15T13:40:29+00:00",
+        "status": "SENT",
+        "created_at": "2026-02-28T13:40:29+00:00"
+    },
+    {
+        "offer_id": 74,
+        "offer_code": "OFF-2026-000074",
+        "application_id": 1717,
+        "offered_salary": 754185.28,
+        "joining_date": "2026-06-24T01:49:57+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-05-06T01:49:57+00:00"
+    },
+    {
+        "offer_id": 75,
+        "offer_code": "OFF-2026-000075",
+        "application_id": 2766,
+        "offered_salary": 932392.53,
+        "joining_date": "2026-07-15T01:16:50+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-04-22T01:16:50+00:00"
+    },
+    {
+        "offer_id": 76,
+        "offer_code": "OFF-2026-000076",
+        "application_id": 2674,
+        "offered_salary": 859822.78,
+        "joining_date": "2026-04-01T09:25:16+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-01-31T09:25:16+00:00"
+    },
+    {
+        "offer_id": 77,
+        "offer_code": "OFF-2026-000077",
+        "application_id": 258,
+        "offered_salary": 927719.0,
+        "joining_date": "2026-08-05T23:08:50+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-07-06T23:08:50+00:00"
+    },
+    {
+        "offer_id": 78,
+        "offer_code": "OFF-2026-000078",
+        "application_id": 775,
+        "offered_salary": 767064.74,
+        "joining_date": "2026-09-29T00:11:33+00:00",
+        "status": "SENT",
+        "created_at": "2026-07-07T00:11:33+00:00"
+    },
+    {
+        "offer_id": 79,
+        "offer_code": "OFF-2026-000079",
+        "application_id": 2160,
+        "offered_salary": 1187494.65,
+        "joining_date": "2026-05-09T15:36:14+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-03-26T15:36:14+00:00"
+    },
+    {
+        "offer_id": 80,
+        "offer_code": "OFF-2026-000080",
+        "application_id": 2782,
+        "offered_salary": 435671.93,
+        "joining_date": "2026-08-07T23:59:14+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-06-12T23:59:14+00:00"
+    },
+    {
+        "offer_id": 81,
+        "offer_code": "OFF-2026-000081",
+        "application_id": 191,
+        "offered_salary": 983822.79,
+        "joining_date": "2026-11-21T08:12:44+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-09-04T08:12:44+00:00"
+    },
+    {
+        "offer_id": 82,
+        "offer_code": "OFF-2026-000082",
+        "application_id": 1981,
+        "offered_salary": 1297022.59,
+        "joining_date": "2026-08-29T07:05:45+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-06-19T07:05:45+00:00"
+    },
+    {
+        "offer_id": 83,
+        "offer_code": "OFF-2026-000083",
+        "application_id": 77,
+        "offered_salary": 1162108.91,
+        "joining_date": "2026-04-16T08:27:04+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-02-11T08:27:04+00:00"
+    },
+    {
+        "offer_id": 84,
+        "offer_code": "OFF-2026-000084",
+        "application_id": 2444,
+        "offered_salary": 1225508.32,
+        "joining_date": "2026-06-21T14:03:35+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-04-04T14:03:35+00:00"
+    },
+    {
+        "offer_id": 85,
+        "offer_code": "OFF-2026-000085",
+        "application_id": 867,
+        "offered_salary": 1206286.33,
+        "joining_date": "2026-05-30T21:23:23+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-04-26T21:23:23+00:00"
+    },
+    {
+        "offer_id": 86,
+        "offer_code": "OFF-2026-000086",
+        "application_id": 641,
+        "offered_salary": 861977.85,
+        "joining_date": "2026-04-13T20:28:00+00:00",
+        "status": "SENT",
+        "created_at": "2026-03-10T20:28:00+00:00"
+    },
+    {
+        "offer_id": 87,
+        "offer_code": "OFF-2026-000087",
+        "application_id": 1866,
+        "offered_salary": 909764.24,
+        "joining_date": "2026-12-05T09:27:35+00:00",
+        "status": "SENT",
+        "created_at": "2026-10-05T09:27:35+00:00"
+    },
+    {
+        "offer_id": 88,
+        "offer_code": "OFF-2026-000088",
+        "application_id": 406,
+        "offered_salary": 1313607.73,
+        "joining_date": "2026-11-27T05:47:48+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-09-30T05:47:48+00:00"
+    },
+    {
+        "offer_id": 89,
+        "offer_code": "OFF-2026-000089",
+        "application_id": 1742,
+        "offered_salary": 918745.52,
+        "joining_date": "2026-10-02T23:11:11+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-08-27T23:11:11+00:00"
+    },
+    {
+        "offer_id": 90,
+        "offer_code": "OFF-2026-000090",
+        "application_id": 667,
+        "offered_salary": 693891.05,
+        "joining_date": "2026-10-27T19:03:26+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-09-03T19:03:26+00:00"
+    },
+    {
+        "offer_id": 91,
+        "offer_code": "OFF-2026-000091",
+        "application_id": 2280,
+        "offered_salary": 1472324.1,
+        "joining_date": "2026-03-21T13:40:50+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-02-04T13:40:50+00:00"
+    },
+    {
+        "offer_id": 92,
+        "offer_code": "OFF-2026-000092",
+        "application_id": 2882,
+        "offered_salary": 1125588.13,
+        "joining_date": "2026-05-15T13:49:31+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-03-27T13:49:31+00:00"
+    },
+    {
+        "offer_id": 93,
+        "offer_code": "OFF-2026-000093",
+        "application_id": 778,
+        "offered_salary": 895508.86,
+        "joining_date": "2026-10-13T18:07:16+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-07-24T18:07:16+00:00"
+    },
+    {
+        "offer_id": 94,
+        "offer_code": "OFF-2026-000094",
+        "application_id": 294,
+        "offered_salary": 1323044.43,
+        "joining_date": "2026-02-28T05:24:38+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-01-04T05:24:38+00:00"
+    },
+    {
+        "offer_id": 95,
+        "offer_code": "OFF-2026-000095",
+        "application_id": 2288,
+        "offered_salary": 1228372.21,
+        "joining_date": "2026-05-04T05:02:31+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-03-01T05:02:31+00:00"
+    },
+    {
+        "offer_id": 96,
+        "offer_code": "OFF-2026-000096",
+        "application_id": 1079,
+        "offered_salary": 1009721.17,
+        "joining_date": "2026-12-16T02:26:02+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-09-24T02:26:02+00:00"
+    },
+    {
+        "offer_id": 97,
+        "offer_code": "OFF-2026-000097",
+        "application_id": 1422,
+        "offered_salary": 930645.69,
+        "joining_date": "2026-05-22T05:13:29+00:00",
+        "status": "SENT",
+        "created_at": "2026-02-28T05:13:29+00:00"
+    },
+    {
+        "offer_id": 98,
+        "offer_code": "OFF-2026-000098",
+        "application_id": 852,
+        "offered_salary": 655880.37,
+        "joining_date": "2026-08-01T12:11:34+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-05-12T12:11:34+00:00"
+    },
+    {
+        "offer_id": 99,
+        "offer_code": "OFF-2026-000099",
+        "application_id": 233,
+        "offered_salary": 820047.75,
+        "joining_date": "2026-10-15T20:13:06+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-09-02T20:13:06+00:00"
+    },
+    {
+        "offer_id": 100,
+        "offer_code": "OFF-2026-000100",
+        "application_id": 551,
+        "offered_salary": 536159.86,
+        "joining_date": "2026-05-01T11:46:50+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-02-22T11:46:50+00:00"
+    },
+    {
+        "offer_id": 101,
+        "offer_code": "OFF-2026-000101",
+        "application_id": 806,
+        "offered_salary": 697849.1,
+        "joining_date": "2026-05-06T05:43:53+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-03-09T05:43:53+00:00"
+    },
+    {
+        "offer_id": 102,
+        "offer_code": "OFF-2026-000102",
+        "application_id": 2559,
+        "offered_salary": 711651.59,
+        "joining_date": "2026-02-10T22:17:36+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-01-02T22:17:36+00:00"
+    },
+    {
+        "offer_id": 103,
+        "offer_code": "OFF-2026-000103",
+        "application_id": 560,
+        "offered_salary": 1988874.19,
+        "joining_date": "2026-09-11T22:17:04+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-08-04T22:17:04+00:00"
+    },
+    {
+        "offer_id": 104,
+        "offer_code": "OFF-2026-000104",
+        "application_id": 945,
+        "offered_salary": 1322150.85,
+        "joining_date": "2026-08-15T10:03:06+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-06-19T10:03:06+00:00"
+    },
+    {
+        "offer_id": 105,
+        "offer_code": "OFF-2026-000105",
+        "application_id": 1602,
+        "offered_salary": 858219.26,
+        "joining_date": "2026-12-05T04:15:20+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-09-07T04:15:20+00:00"
+    },
+    {
+        "offer_id": 106,
+        "offer_code": "OFF-2026-000106",
+        "application_id": 2167,
+        "offered_salary": 1398801.39,
+        "joining_date": "2027-01-19T00:04:19+00:00",
+        "status": "SENT",
+        "created_at": "2026-10-30T00:04:19+00:00"
+    },
+    {
+        "offer_id": 107,
+        "offer_code": "OFF-2026-000107",
+        "application_id": 2534,
+        "offered_salary": 1126674.73,
+        "joining_date": "2026-03-30T00:15:55+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-01-27T00:15:55+00:00"
+    },
+    {
+        "offer_id": 108,
+        "offer_code": "OFF-2026-000108",
+        "application_id": 943,
+        "offered_salary": 969040.27,
+        "joining_date": "2026-04-22T09:41:22+00:00",
+        "status": "SENT",
+        "created_at": "2026-01-31T09:41:22+00:00"
+    },
+    {
+        "offer_id": 109,
+        "offer_code": "OFF-2026-000109",
+        "application_id": 2777,
+        "offered_salary": 1284063.67,
+        "joining_date": "2026-09-07T08:01:45+00:00",
+        "status": "SENT",
+        "created_at": "2026-08-01T08:01:45+00:00"
+    },
+    {
+        "offer_id": 110,
+        "offer_code": "OFF-2026-000110",
+        "application_id": 2957,
+        "offered_salary": 1931737.76,
+        "joining_date": "2026-04-10T12:50:19+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-02-19T12:50:19+00:00"
+    },
+    {
+        "offer_id": 111,
+        "offer_code": "OFF-2026-000111",
+        "application_id": 1996,
+        "offered_salary": 689421.76,
+        "joining_date": "2026-12-08T03:27:12+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-09-15T03:27:12+00:00"
+    },
+    {
+        "offer_id": 112,
+        "offer_code": "OFF-2026-000112",
+        "application_id": 2096,
+        "offered_salary": 753228.64,
+        "joining_date": "2026-03-30T11:58:11+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-01-22T11:58:11+00:00"
+    },
+    {
+        "offer_id": 113,
+        "offer_code": "OFF-2026-000113",
+        "application_id": 271,
+        "offered_salary": 1240943.18,
+        "joining_date": "2026-10-17T17:21:50+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-08-09T17:21:50+00:00"
+    },
+    {
+        "offer_id": 114,
+        "offer_code": "OFF-2026-000114",
+        "application_id": 2968,
+        "offered_salary": 1881863.54,
+        "joining_date": "2026-10-02T04:12:08+00:00",
+        "status": "SENT",
+        "created_at": "2026-09-01T04:12:08+00:00"
+    },
+    {
+        "offer_id": 115,
+        "offer_code": "OFF-2026-000115",
+        "application_id": 1449,
+        "offered_salary": 1051470.35,
+        "joining_date": "2026-07-20T19:40:34+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-04-24T19:40:34+00:00"
+    },
+    {
+        "offer_id": 116,
+        "offer_code": "OFF-2026-000116",
+        "application_id": 251,
+        "offered_salary": 889789.61,
+        "joining_date": "2027-01-25T13:25:04+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-11-10T13:25:04+00:00"
+    },
+    {
+        "offer_id": 117,
+        "offer_code": "OFF-2026-000117",
+        "application_id": 1841,
+        "offered_salary": 971880.04,
+        "joining_date": "2026-09-18T17:38:34+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-07-23T17:38:34+00:00"
+    },
+    {
+        "offer_id": 118,
+        "offer_code": "OFF-2026-000118",
+        "application_id": 2459,
+        "offered_salary": 1580663.27,
+        "joining_date": "2026-12-23T20:36:58+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-11-11T20:36:58+00:00"
+    },
+    {
+        "offer_id": 119,
+        "offer_code": "OFF-2026-000119",
+        "application_id": 1140,
+        "offered_salary": 1290965.54,
+        "joining_date": "2026-04-21T18:03:01+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-01-31T18:03:01+00:00"
+    },
+    {
+        "offer_id": 120,
+        "offer_code": "OFF-2026-000120",
+        "application_id": 1640,
+        "offered_salary": 530862.01,
+        "joining_date": "2026-07-12T04:05:25+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-06-12T04:05:25+00:00"
+    },
+    {
+        "offer_id": 121,
+        "offer_code": "OFF-2026-000121",
+        "application_id": 2268,
+        "offered_salary": 1227521.06,
+        "joining_date": "2026-08-23T09:25:14+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-07-21T09:25:14+00:00"
+    },
+    {
+        "offer_id": 122,
+        "offer_code": "OFF-2026-000122",
+        "application_id": 214,
+        "offered_salary": 728454.17,
+        "joining_date": "2026-03-26T05:48:06+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-01-25T05:48:06+00:00"
+    },
+    {
+        "offer_id": 123,
+        "offer_code": "OFF-2026-000123",
+        "application_id": 13,
+        "offered_salary": 1136164.47,
+        "joining_date": "2026-04-25T23:18:00+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-01-31T23:18:00+00:00"
+    },
+    {
+        "offer_id": 124,
+        "offer_code": "OFF-2026-000124",
+        "application_id": 544,
+        "offered_salary": 1319944.05,
+        "joining_date": "2026-04-09T11:55:46+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-01-28T11:55:46+00:00"
+    },
+    {
+        "offer_id": 125,
+        "offer_code": "OFF-2026-000125",
+        "application_id": 840,
+        "offered_salary": 898713.66,
+        "joining_date": "2026-08-08T21:46:15+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-06-21T21:46:15+00:00"
+    },
+    {
+        "offer_id": 126,
+        "offer_code": "OFF-2026-000126",
+        "application_id": 1511,
+        "offered_salary": 648814.53,
+        "joining_date": "2026-07-29T19:40:50+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-05-10T19:40:50+00:00"
+    },
+    {
+        "offer_id": 127,
+        "offer_code": "OFF-2026-000127",
+        "application_id": 557,
+        "offered_salary": 964441.22,
+        "joining_date": "2026-07-15T00:03:06+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-05-10T00:03:06+00:00"
+    },
+    {
+        "offer_id": 128,
+        "offer_code": "OFF-2026-000128",
+        "application_id": 187,
+        "offered_salary": 1231934.83,
+        "joining_date": "2026-11-05T23:15:31+00:00",
+        "status": "SENT",
+        "created_at": "2026-08-12T23:15:31+00:00"
+    },
+    {
+        "offer_id": 129,
+        "offer_code": "OFF-2026-000129",
+        "application_id": 131,
+        "offered_salary": 792146.37,
+        "joining_date": "2026-03-29T10:25:38+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-02-12T10:25:38+00:00"
+    },
+    {
+        "offer_id": 130,
+        "offer_code": "OFF-2026-000130",
+        "application_id": 1466,
+        "offered_salary": 1181478.83,
+        "joining_date": "2026-07-22T21:54:49+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-06-12T21:54:49+00:00"
+    },
+    {
+        "offer_id": 131,
+        "offer_code": "OFF-2026-000131",
+        "application_id": 445,
+        "offered_salary": 699174.37,
+        "joining_date": "2026-12-04T16:43:50+00:00",
+        "status": "SENT",
+        "created_at": "2026-09-13T16:43:50+00:00"
+    },
+    {
+        "offer_id": 132,
+        "offer_code": "OFF-2026-000132",
+        "application_id": 1977,
+        "offered_salary": 1153106.83,
+        "joining_date": "2026-05-19T14:25:20+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-03-20T14:25:20+00:00"
+    },
+    {
+        "offer_id": 133,
+        "offer_code": "OFF-2026-000133",
+        "application_id": 1538,
+        "offered_salary": 1193496.93,
+        "joining_date": "2026-11-04T00:31:49+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-08-07T00:31:49+00:00"
+    },
+    {
+        "offer_id": 134,
+        "offer_code": "OFF-2026-000134",
+        "application_id": 720,
+        "offered_salary": 896811.84,
+        "joining_date": "2026-06-21T17:55:11+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-05-10T17:55:11+00:00"
+    },
+    {
+        "offer_id": 135,
+        "offer_code": "OFF-2026-000135",
+        "application_id": 2381,
+        "offered_salary": 1424162.5,
+        "joining_date": "2026-10-15T21:19:32+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-07-29T21:19:32+00:00"
+    },
+    {
+        "offer_id": 136,
+        "offer_code": "OFF-2026-000136",
+        "application_id": 2498,
+        "offered_salary": 589671.07,
+        "joining_date": "2026-02-24T15:05:16+00:00",
+        "status": "PENDING_APPROVAL",
+        "created_at": "2026-01-20T15:05:16+00:00"
+    },
+    {
+        "offer_id": 137,
+        "offer_code": "OFF-2026-000137",
+        "application_id": 2424,
+        "offered_salary": 501657.8,
+        "joining_date": "2026-12-16T14:06:27+00:00",
+        "status": "SENT",
+        "created_at": "2026-10-13T14:06:27+00:00"
+    },
+    {
+        "offer_id": 138,
+        "offer_code": "OFF-2026-000138",
+        "application_id": 478,
+        "offered_salary": 506423.75,
+        "joining_date": "2026-12-13T18:03:53+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-10-16T18:03:53+00:00"
+    },
+    {
+        "offer_id": 139,
+        "offer_code": "OFF-2026-000139",
+        "application_id": 2802,
+        "offered_salary": 1773472.8,
+        "joining_date": "2026-08-15T23:37:06+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-05-29T23:37:06+00:00"
+    },
+    {
+        "offer_id": 140,
+        "offer_code": "OFF-2026-000140",
+        "application_id": 698,
+        "offered_salary": 511223.37,
+        "joining_date": "2026-10-10T06:55:54+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-08-12T06:55:54+00:00"
+    },
+    {
+        "offer_id": 141,
+        "offer_code": "OFF-2026-000141",
+        "application_id": 817,
+        "offered_salary": 794604.82,
+        "joining_date": "2026-04-21T13:14:54+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-03-08T13:14:54+00:00"
+    },
+    {
+        "offer_id": 142,
+        "offer_code": "OFF-2026-000142",
+        "application_id": 2431,
+        "offered_salary": 937208.31,
+        "joining_date": "2027-01-17T20:04:10+00:00",
+        "status": "SENT",
+        "created_at": "2026-10-28T20:04:10+00:00"
+    },
+    {
+        "offer_id": 143,
+        "offer_code": "OFF-2026-000143",
+        "application_id": 2443,
+        "offered_salary": 889322.79,
+        "joining_date": "2026-05-07T20:28:06+00:00",
+        "status": "REJECTED",
+        "created_at": "2026-03-10T20:28:06+00:00"
+    },
+    {
+        "offer_id": 144,
+        "offer_code": "OFF-2026-000144",
+        "application_id": 2586,
+        "offered_salary": 1076392.35,
+        "joining_date": "2026-04-16T11:07:10+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-02-15T11:07:10+00:00"
+    },
+    {
+        "offer_id": 145,
+        "offer_code": "OFF-2026-000145",
+        "application_id": 881,
+        "offered_salary": 947422.52,
+        "joining_date": "2026-08-27T21:06:22+00:00",
+        "status": "SENT",
+        "created_at": "2026-07-17T21:06:22+00:00"
+    },
+    {
+        "offer_id": 146,
+        "offer_code": "OFF-2026-000146",
+        "application_id": 980,
+        "offered_salary": 791419.59,
+        "joining_date": "2026-06-23T10:58:56+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-04-07T10:58:56+00:00"
+    },
+    {
+        "offer_id": 147,
+        "offer_code": "OFF-2026-000147",
+        "application_id": 2693,
+        "offered_salary": 879363.11,
+        "joining_date": "2026-04-07T03:46:39+00:00",
+        "status": "ACCEPTED",
+        "created_at": "2026-01-17T03:46:39+00:00"
+    },
+    {
+        "offer_id": 148,
+        "offer_code": "OFF-2026-000148",
+        "application_id": 2702,
+        "offered_salary": 1157842.35,
+        "joining_date": "2026-11-29T20:39:26+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-10-22T20:39:26+00:00"
+    },
+    {
+        "offer_id": 149,
+        "offer_code": "OFF-2026-000149",
+        "application_id": 2894,
+        "offered_salary": 868659.76,
+        "joining_date": "2026-09-12T09:31:27+00:00",
+        "status": "DECLINED",
+        "created_at": "2026-07-03T09:31:27+00:00"
+    },
+    {
+        "offer_id": 150,
+        "offer_code": "OFF-2026-000150",
+        "application_id": 734,
+        "offered_salary": 810642.13,
+        "joining_date": "2026-07-28T21:48:16+00:00",
+        "status": "APPROVED",
+        "created_at": "2026-06-07T21:48:16+00:00"
+    }
+]

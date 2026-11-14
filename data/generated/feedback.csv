@@ -1,0 +1,1001 @@
+feedback_id,feedback_code,interview_id,interviewer_id,technical_score,problem_solving_score,communication_score,overall_score,recommendation,comments,submitted_at
+1,FB-INT-2026-000254-IVR-000007,254,7,5.4,6.4,5.6,5.76,HOLD,Magnam explicabo aspernatur amet consequuntur enim.,2026-11-12T08:22:21+00:00
+2,FB-INT-2026-000335-IVR-000016,335,16,4.6,3.1,4.6,4.15,NO_HIRE,Beatae doloremque eius quasi odit itaque cumque.,2026-11-12T01:02:21+00:00
+3,FB-INT-2026-000318-IVR-000041,318,41,5.6,8.0,7.4,6.86,HOLD,Quaerat nihil fugiat sit dolore.,2026-10-30T01:07:34+00:00
+4,FB-INT-2026-000016-IVR-000004,16,4,5.0,3.8,8.4,5.66,HOLD,Animi adipisci officia molestiae.,2026-10-09T13:31:46+00:00
+5,FB-INT-2026-000290-IVR-000019,290,19,4.3,5.9,6.3,5.38,HOLD,Porro aliquam sunt assumenda exercitationem itaque aspernatur.,2026-11-07T12:54:08+00:00
+6,FB-INT-2026-000228-IVR-000029,228,29,6.6,9.1,7.9,7.74,HIRE,Necessitatibus error recusandae magnam quia.,2026-10-22T01:18:09+00:00
+7,FB-INT-2026-000544-IVR-000006,544,6,10.0,9.9,6.7,8.98,STRONG_HIRE,Aliquam vitae hic.,2026-11-12T03:24:11+00:00
+8,FB-INT-2026-000100-IVR-000007,100,7,9.9,6.6,9.8,8.88,STRONG_HIRE,Eligendi maiores sunt soluta ducimus porro mollitia.,2026-10-22T22:08:50+00:00
+9,FB-INT-2026-000381-IVR-000003,381,3,7.4,7.2,9.1,7.85,HIRE,Necessitatibus magni facilis corrupti maxime cupiditate veniam.,2026-11-03T11:39:21+00:00
+10,FB-INT-2026-000394-IVR-000042,394,42,7.4,3.3,10.0,6.95,HOLD,Sed eius error in eaque ipsam blanditiis blanditiis.,2026-11-13T19:54:33+00:00
+11,FB-INT-2026-000576-IVR-000049,576,49,8.0,6.0,4.0,6.2,HOLD,Earum perferendis aspernatur voluptate est cum.,2026-11-12T04:50:48+00:00
+12,FB-INT-2026-000475-IVR-000043,475,43,3.9,8.8,6.5,6.15,HOLD,Ipsa fugit odio similique exercitationem eligendi necessitatibus exercitationem.,2026-11-04T21:53:24+00:00
+13,FB-INT-2026-000562-IVR-000046,562,46,3.3,3.1,3.7,3.36,NO_HIRE,Dicta maiores quod libero sint quis earum sit.,2026-11-11T18:54:55+00:00
+14,FB-INT-2026-000180-IVR-000001,180,1,9.9,9.1,10.0,9.69,STRONG_HIRE,Labore delectus facilis necessitatibus.,2026-11-07T08:16:39+00:00
+15,FB-INT-2026-000425-IVR-000031,425,31,7.7,7.3,9.6,8.15,STRONG_HIRE,Eaque dignissimos repellendus quis.,2026-11-07T03:05:35+00:00
+16,FB-INT-2026-000509-IVR-000006,509,6,4.6,3.9,5.1,4.54,NO_HIRE,Eligendi voluptate voluptatum magnam eos tenetur.,2026-11-11T21:15:19+00:00
+17,FB-INT-2026-000181-IVR-000046,181,46,4.2,5.0,6.2,5.04,HOLD,Deserunt pariatur ab ab.,2026-11-13T16:50:51+00:00
+18,FB-INT-2026-000466-IVR-000031,466,31,5.1,9.1,3.7,5.88,HOLD,Reiciendis soluta veniam praesentium dolore minus.,2026-11-12T21:15:14+00:00
+19,FB-INT-2026-000404-IVR-000017,404,17,9.9,7.9,7.9,8.7,STRONG_HIRE,Sed dignissimos dolore doloremque sapiente a eius culpa.,2026-10-29T18:00:35+00:00
+20,FB-INT-2026-000012-IVR-000023,12,23,5.9,5.7,9.9,7.04,HIRE,Laboriosam numquam eligendi.,2026-08-20T01:29:40+00:00
+21,FB-INT-2026-000417-IVR-000014,417,14,8.2,3.4,8.8,6.94,HOLD,Modi quos quis.,2026-11-06T06:34:13+00:00
+22,FB-INT-2026-000405-IVR-000001,405,1,3.4,9.7,8.3,6.76,HOLD,Nihil ea eaque odio possimus consequuntur excepturi.,2026-10-29T11:23:55+00:00
+23,FB-INT-2026-000590-IVR-000043,590,43,9.8,4.5,3.6,6.35,HOLD,Placeat natus iste tenetur.,2026-11-13T22:45:10+00:00
+24,FB-INT-2026-000302-IVR-000024,302,24,8.5,8.5,9.8,8.89,STRONG_HIRE,Facere eligendi asperiores.,2026-11-13T14:54:07+00:00
+25,FB-INT-2026-000174-IVR-000033,174,33,8.1,9.6,4.5,7.47,HIRE,Atque iure voluptatem natus enim.,2026-11-12T06:57:35+00:00
+26,FB-INT-2026-000339-IVR-000048,339,48,5.3,7.6,6.9,6.47,HOLD,Ad optio deserunt libero.,2026-11-11T18:29:33+00:00
+27,FB-INT-2026-000164-IVR-000038,164,38,8.7,3.2,5.1,5.97,HOLD,Itaque hic beatae consequuntur.,2026-11-03T23:32:54+00:00
+28,FB-INT-2026-000170-IVR-000022,170,22,3.9,9.0,9.6,7.14,HIRE,Occaecati odit necessitatibus.,2026-11-13T05:47:15+00:00
+29,FB-INT-2026-000370-IVR-000020,370,20,8.0,7.4,3.8,6.56,HOLD,Laborum quod facilis.,2026-11-13T04:52:15+00:00
+30,FB-INT-2026-000270-IVR-000048,270,48,4.3,6.7,3.7,4.84,NO_HIRE,Iure delectus quo laudantium suscipit.,2026-11-13T01:16:48+00:00
+31,FB-INT-2026-000395-IVR-000027,395,27,7.9,4.1,3.6,5.47,HOLD,Voluptatibus temporibus inventore ab.,2026-11-12T20:02:47+00:00
+32,FB-INT-2026-000565-IVR-000013,565,13,3.9,4.9,9.1,5.76,HOLD,Et ullam mollitia veniam harum quas quas.,2026-11-13T18:42:28+00:00
+33,FB-INT-2026-000413-IVR-000040,413,40,7.8,7.0,8.0,7.62,HIRE,Fuga quia eos quaerat.,2026-11-09T12:08:05+00:00
+34,FB-INT-2026-000342-IVR-000010,342,10,7.3,9.7,5.5,7.48,HIRE,Veritatis consectetur blanditiis exercitationem tempora.,2026-10-29T23:12:35+00:00
+35,FB-INT-2026-000038-IVR-000003,38,3,8.4,3.7,4.5,5.82,HOLD,Laborum vel quae.,2026-11-13T21:07:53+00:00
+36,FB-INT-2026-000081-IVR-000032,81,32,9.7,8.0,8.8,8.92,STRONG_HIRE,Repudiandae sequi odit facere provident minus.,2026-09-24T11:48:17+00:00
+37,FB-INT-2026-000145-IVR-000002,145,2,6.7,6.5,8.0,7.03,HIRE,Suscipit mollitia neque tempora nisi.,2026-10-23T18:06:08+00:00
+38,FB-INT-2026-000001-IVR-000023,1,23,9.4,4.9,4.9,6.7,HOLD,Molestiae suscipit dolorum beatae ipsam.,2026-10-05T17:58:59+00:00
+39,FB-INT-2026-000331-IVR-000042,331,42,3.6,8.7,3.2,5.01,HOLD,Eos nostrum tempore facere provident.,2026-11-13T01:10:16+00:00
+40,FB-INT-2026-000448-IVR-000039,448,39,6.2,4.3,9.4,6.59,HOLD,Nobis voluptas rerum.,2026-11-01T07:18:29+00:00
+41,FB-INT-2026-000529-IVR-000021,529,21,5.1,9.5,8.4,7.41,HIRE,Ipsum sed asperiores.,2026-11-13T17:52:26+00:00
+42,FB-INT-2026-000321-IVR-000017,321,17,5.4,6.4,6.0,5.88,HOLD,Quis ab voluptatum veritatis eaque.,2026-11-12T20:10:40+00:00
+43,FB-INT-2026-000219-IVR-000025,219,25,9.0,8.9,3.4,7.29,HIRE,Exercitationem omnis neque vel ipsam a sint aut.,2026-10-11T09:26:14+00:00
+44,FB-INT-2026-000007-IVR-000024,7,24,5.8,6.5,8.0,6.67,HOLD,Ipsum quisquam omnis repellat rem molestias facilis minima.,2026-08-09T23:36:59+00:00
+45,FB-INT-2026-000305-IVR-000002,305,2,7.0,5.4,6.4,6.34,HOLD,Necessitatibus tempora atque eius nihil quibusdam.,2026-11-12T21:15:25+00:00
+46,FB-INT-2026-000363-IVR-000036,363,36,7.6,9.4,6.9,7.93,HIRE,Ex quibusdam repellat.,2026-10-27T23:34:02+00:00
+47,FB-INT-2026-000223-IVR-000040,223,40,6.3,7.1,4.7,6.06,HOLD,Nulla sapiente vitae temporibus totam placeat.,2026-11-13T05:49:43+00:00
+48,FB-INT-2026-000500-IVR-000002,500,2,7.1,9.3,5.0,7.13,HIRE,Ea mollitia sunt similique natus.,2026-11-08T06:30:17+00:00
+49,FB-INT-2026-000532-IVR-000025,532,25,5.0,5.6,7.4,5.9,HOLD,Accusamus vitae illo temporibus.,2026-11-13T16:52:45+00:00
+50,FB-INT-2026-000453-IVR-000024,453,24,4.7,9.7,4.3,6.08,HOLD,Minus magnam architecto eos.,2026-11-09T06:04:04+00:00
+51,FB-INT-2026-000285-IVR-000047,285,47,9.9,6.0,6.6,7.74,HIRE,Provident sit laborum dicta numquam.,2026-11-11T13:00:29+00:00
+52,FB-INT-2026-000047-IVR-000041,47,41,6.1,9.2,3.1,6.13,HOLD,Aliquid possimus molestias ut inventore.,2026-10-11T19:25:24+00:00
+53,FB-INT-2026-000188-IVR-000002,188,2,8.7,8.5,5.9,7.8,HIRE,Facilis id fugiat ut perferendis beatae.,2026-11-12T02:02:30+00:00
+54,FB-INT-2026-000366-IVR-000018,366,18,4.7,3.7,8.3,5.48,HOLD,Exercitationem occaecati vitae adipisci architecto repellendus.,2026-10-31T05:32:32+00:00
+55,FB-INT-2026-000582-IVR-000018,582,18,5.6,3.9,3.8,4.55,NO_HIRE,Expedita rem officia deserunt.,2026-11-13T21:25:02+00:00
+56,FB-INT-2026-000046-IVR-000043,46,43,5.7,8.7,3.7,6.0,HOLD,Illo nisi nobis asperiores veritatis qui.,2026-11-08T23:13:12+00:00
+57,FB-INT-2026-000578-IVR-000012,578,12,9.9,6.9,4.9,7.5,HIRE,Itaque vel quam labore.,2026-11-13T21:27:11+00:00
+58,FB-INT-2026-000194-IVR-000037,194,37,4.1,5.3,6.0,5.03,HOLD,Similique adipisci odio aut quos.,2026-10-29T16:28:49+00:00
+59,FB-INT-2026-000540-IVR-000027,540,27,4.1,5.9,3.1,4.34,NO_HIRE,Nobis minima quo accusamus maxime impedit iste quisquam.,2026-11-12T11:31:50+00:00
+60,FB-INT-2026-000322-IVR-000043,322,43,7.5,7.9,3.2,6.33,HOLD,Beatae ex nam quo voluptas.,2026-11-07T03:34:22+00:00
+61,FB-INT-2026-000336-IVR-000001,336,1,9.8,9.3,3.9,7.88,HIRE,Eos animi blanditiis reiciendis nam asperiores vero.,2026-11-13T23:10:10+00:00
+62,FB-INT-2026-000202-IVR-000020,202,20,7.9,5.6,3.7,5.95,HOLD,Deleniti deleniti nemo quis eligendi.,2026-11-12T11:40:43+00:00
+63,FB-INT-2026-000583-IVR-000001,583,1,5.3,7.0,9.7,7.13,HIRE,Possimus ea magnam laboriosam nam velit.,2026-11-13T22:24:22+00:00
+64,FB-INT-2026-000556-IVR-000013,556,13,5.0,6.1,8.0,6.23,HOLD,Culpa maxime sapiente corrupti magni doloribus nulla.,2026-11-13T11:25:53+00:00
+65,FB-INT-2026-000241-IVR-000021,241,21,6.5,4.8,7.7,6.35,HOLD,Dolores atque cupiditate quae suscipit.,2026-10-27T18:51:47+00:00
+66,FB-INT-2026-000399-IVR-000010,399,10,5.0,4.7,3.1,4.34,NO_HIRE,Recusandae iste numquam officiis cupiditate.,2026-11-13T01:36:56+00:00
+67,FB-INT-2026-000436-IVR-000030,436,30,6.3,7.4,4.2,6.0,HOLD,Eaque animi repellendus tempore adipisci tempora accusantium illum.,2026-11-10T20:28:40+00:00
+68,FB-INT-2026-000117-IVR-000021,117,21,6.6,8.6,8.7,7.83,HIRE,Ratione veritatis praesentium nostrum explicabo nemo.,2026-09-22T22:29:11+00:00
+69,FB-INT-2026-000072-IVR-000029,72,29,3.4,4.4,4.1,3.91,NO_HIRE,Consequatur voluptatum tempora dolores veniam veniam.,2026-10-22T11:48:25+00:00
+70,FB-INT-2026-000172-IVR-000017,172,17,9.9,8.0,9.7,9.27,STRONG_HIRE,Dolore autem voluptatum aperiam ratione omnis consectetur.,2026-11-01T03:55:40+00:00
+71,FB-INT-2026-000552-IVR-000013,552,13,3.5,8.4,3.1,4.85,NO_HIRE,Quaerat laudantium sunt quidem aspernatur cum tenetur.,2026-11-11T16:09:02+00:00
+72,FB-INT-2026-000495-IVR-000042,495,42,7.0,3.0,3.6,4.78,NO_HIRE,Neque laboriosam impedit ducimus neque enim.,2026-11-07T17:41:19+00:00
+73,FB-INT-2026-000221-IVR-000025,221,25,3.7,7.3,9.8,6.61,HOLD,Quasi temporibus ducimus adipisci occaecati.,2026-11-10T03:52:56+00:00
+74,FB-INT-2026-000193-IVR-000004,193,4,8.5,8.6,4.6,7.36,HIRE,Vel sunt unde soluta.,2026-11-02T23:01:10+00:00
+75,FB-INT-2026-000385-IVR-000029,385,29,7.8,5.2,6.8,6.72,HOLD,Magni esse fugit cumque eveniet aliquam.,2026-11-08T09:50:36+00:00
+76,FB-INT-2026-000143-IVR-000008,143,8,9.5,8.9,7.6,8.75,STRONG_HIRE,Deserunt quo officiis unde temporibus.,2026-09-04T05:05:16+00:00
+77,FB-INT-2026-000555-IVR-000016,555,16,3.5,5.0,7.5,5.15,HOLD,Ut beatae a laudantium aliquam ex.,2026-11-13T13:49:54+00:00
+78,FB-INT-2026-000268-IVR-000008,268,8,9.4,4.6,4.1,6.37,HOLD,Debitis doloremque quisquam eum deserunt molestias.,2026-10-18T13:41:37+00:00
+79,FB-INT-2026-000166-IVR-000011,166,11,3.7,8.7,7.3,6.28,HOLD,Quos reiciendis minus recusandae animi.,2026-11-10T20:42:10+00:00
+80,FB-INT-2026-000141-IVR-000017,141,17,7.4,6.2,6.3,6.71,HOLD,Nemo non et.,2026-11-12T12:29:23+00:00
+81,FB-INT-2026-000507-IVR-000014,507,14,8.8,6.4,5.8,7.18,HIRE,Doloribus deserunt maxime eum placeat.,2026-11-10T22:27:37+00:00
+82,FB-INT-2026-000120-IVR-000011,120,11,5.2,9.7,3.0,5.89,HOLD,Accusamus consectetur non expedita ad nesciunt.,2026-09-18T18:12:03+00:00
+83,FB-INT-2026-000152-IVR-000004,152,4,5.9,3.6,6.2,5.3,HOLD,In rerum ipsa libero occaecati deleniti.,2026-10-01T01:26:48+00:00
+84,FB-INT-2026-000372-IVR-000014,372,14,6.0,3.6,5.1,5.01,HOLD,Nemo aliquam distinctio voluptatem repellat.,2026-10-24T20:59:07+00:00
+85,FB-INT-2026-000073-IVR-000002,73,2,7.2,9.7,4.5,7.14,HIRE,Odio cum quia.,2026-09-12T07:39:07+00:00
+86,FB-INT-2026-000044-IVR-000017,44,17,9.6,6.7,6.8,7.89,HIRE,Rerum sunt molestias placeat et mollitia.,2026-10-20T03:34:28+00:00
+87,FB-INT-2026-000279-IVR-000027,279,27,8.9,4.0,8.0,7.16,HIRE,Laudantium eum ratione error facere beatae.,2026-11-12T00:13:07+00:00
+88,FB-INT-2026-000446-IVR-000019,446,19,5.0,4.7,7.9,5.78,HOLD,Eos hic facilis odio soluta labore voluptate.,2026-11-11T12:23:21+00:00
+89,FB-INT-2026-000037-IVR-000038,37,38,10.0,4.8,4.4,6.76,HOLD,Quis eius excepturi incidunt.,2026-09-17T08:41:07+00:00
+90,FB-INT-2026-000260-IVR-000008,260,8,7.6,5.1,5.9,6.34,HOLD,Ducimus reprehenderit reprehenderit blanditiis velit pariatur.,2026-10-17T19:16:08+00:00
+91,FB-INT-2026-000373-IVR-000021,373,21,3.7,8.8,5.0,5.62,HOLD,Impedit dicta amet quaerat incidunt dolorem.,2026-10-23T15:14:14+00:00
+92,FB-INT-2026-000150-IVR-000023,150,23,8.1,5.5,6.9,6.96,HOLD,Optio inventore beatae in culpa eum.,2026-11-01T17:53:08+00:00
+93,FB-INT-2026-000347-IVR-000048,347,48,4.6,5.6,8.8,6.16,HOLD,Alias nemo iste dignissimos beatae.,2026-11-12T22:32:30+00:00
+94,FB-INT-2026-000285-IVR-000020,285,20,5.5,5.9,10.0,6.97,HOLD,Quibusdam error occaecati beatae.,2026-11-09T18:07:59+00:00
+95,FB-INT-2026-000386-IVR-000016,386,16,6.7,7.2,9.0,7.54,HIRE,Maiores sapiente eaque voluptatum.,2026-10-27T16:07:38+00:00
+96,FB-INT-2026-000064-IVR-000002,64,2,9.9,3.1,7.5,7.14,HIRE,Saepe optio quisquam illum corporis mollitia atque.,2026-11-10T11:35:24+00:00
+97,FB-INT-2026-000202-IVR-000001,202,1,3.3,5.6,7.9,5.37,HOLD,Molestiae ad quisquam voluptas laborum distinctio.,2026-11-13T18:39:00+00:00
+98,FB-INT-2026-000467-IVR-000036,467,36,7.6,6.6,6.6,7.0,HIRE,Ad similique officiis.,2026-11-10T09:24:48+00:00
+99,FB-INT-2026-000428-IVR-000004,428,4,8.6,7.2,5.1,7.13,HIRE,Enim reprehenderit rem quia.,2026-11-11T22:49:03+00:00
+100,FB-INT-2026-000115-IVR-000002,115,2,8.9,3.2,8.9,7.19,HIRE,Nesciunt vero delectus deleniti.,2026-11-11T17:41:23+00:00
+101,FB-INT-2026-000205-IVR-000017,205,17,8.2,7.3,8.7,8.08,STRONG_HIRE,Doloremque quidem exercitationem ex quo.,2026-09-23T18:13:54+00:00
+102,FB-INT-2026-000338-IVR-000020,338,20,3.3,6.5,7.4,5.49,HOLD,Quidem doloribus tempore illum at.,2026-10-23T14:25:43+00:00
+103,FB-INT-2026-000266-IVR-000011,266,11,5.1,7.9,9.5,7.26,HIRE,Molestias inventore tempora explicabo magnam facilis reprehenderit.,2026-09-27T11:05:21+00:00
+104,FB-INT-2026-000576-IVR-000007,576,7,9.7,5.6,4.7,6.97,HOLD,Saepe facere autem provident.,2026-11-12T04:26:38+00:00
+105,FB-INT-2026-000214-IVR-000040,214,40,6.6,8.1,8.6,7.65,HIRE,Et modi cupiditate quibusdam doloribus dolorem.,2026-11-10T20:08:03+00:00
+106,FB-INT-2026-000071-IVR-000046,71,46,3.3,4.0,4.6,3.9,NO_HIRE,Non exercitationem adipisci labore vitae nam reprehenderit.,2026-11-08T04:15:10+00:00
+107,FB-INT-2026-000262-IVR-000048,262,48,8.8,9.8,8.8,9.1,STRONG_HIRE,Iusto sit iste ad ipsam dolore sit.,2026-10-29T04:26:50+00:00
+108,FB-INT-2026-000027-IVR-000011,27,11,9.1,4.8,8.2,7.54,HIRE,Hic illo necessitatibus veritatis libero iure.,2026-08-16T11:03:08+00:00
+109,FB-INT-2026-000421-IVR-000027,421,27,6.0,5.5,4.3,5.34,HOLD,Aliquid blanditiis explicabo culpa blanditiis.,2026-11-07T17:49:00+00:00
+110,FB-INT-2026-000533-IVR-000018,533,18,9.6,9.6,5.7,8.43,STRONG_HIRE,Eaque tempora id.,2026-11-11T04:27:48+00:00
+111,FB-INT-2026-000242-IVR-000024,242,24,8.8,6.9,3.5,6.64,HOLD,Modi id harum explicabo a nam.,2026-11-11T15:10:11+00:00
+112,FB-INT-2026-000472-IVR-000013,472,13,5.6,9.9,9.6,8.09,STRONG_HIRE,Dolorum ducimus harum illum.,2026-11-12T18:13:55+00:00
+113,FB-INT-2026-000407-IVR-000004,407,4,3.7,4.2,4.7,4.15,NO_HIRE,Nobis veritatis ex.,2026-11-04T11:59:35+00:00
+114,FB-INT-2026-000066-IVR-000043,66,43,7.3,5.6,5.3,6.19,HOLD,Aliquid molestias modi placeat distinctio.,2026-10-02T01:46:44+00:00
+115,FB-INT-2026-000535-IVR-000015,535,15,8.2,9.6,4.1,7.39,HIRE,Adipisci recusandae nobis repudiandae expedita.,2026-11-11T17:25:36+00:00
+116,FB-INT-2026-000502-IVR-000009,502,9,8.1,9.6,5.6,7.8,HIRE,Cupiditate architecto corrupti exercitationem saepe at quis.,2026-11-10T22:04:22+00:00
+117,FB-INT-2026-000399-IVR-000012,399,12,6.5,9.7,4.0,6.71,HOLD,Quos eveniet repellendus omnis sapiente aliquam nisi excepturi.,2026-11-13T19:49:34+00:00
+118,FB-INT-2026-000289-IVR-000017,289,17,8.0,3.2,5.2,5.72,HOLD,Dolores unde modi saepe ab vitae.,2026-10-12T04:36:00+00:00
+119,FB-INT-2026-000176-IVR-000024,176,24,3.1,4.7,9.0,5.35,HOLD,Libero eveniet dolorum quod eaque.,2026-10-28T23:37:37+00:00
+120,FB-INT-2026-000430-IVR-000031,430,31,9.4,3.8,3.6,5.98,HOLD,Aperiam veniam aut ipsa ab.,2026-11-12T15:30:38+00:00
+121,FB-INT-2026-000132-IVR-000040,132,40,9.8,6.4,3.7,6.95,HOLD,Sit impedit illum corrupti commodi mollitia reiciendis.,2026-11-06T09:20:37+00:00
+122,FB-INT-2026-000230-IVR-000025,230,25,6.0,8.7,8.4,7.53,HIRE,Magni cupiditate facere cum placeat quo.,2026-10-30T01:16:11+00:00
+123,FB-INT-2026-000079-IVR-000046,79,46,7.6,9.8,9.5,8.83,STRONG_HIRE,Placeat iste sunt tenetur.,2026-10-06T12:46:07+00:00
+124,FB-INT-2026-000360-IVR-000031,360,31,4.5,5.8,6.6,5.52,HOLD,Praesentium est molestiae nemo ipsam deleniti veritatis.,2026-10-31T20:11:11+00:00
+125,FB-INT-2026-000200-IVR-000021,200,21,7.1,9.9,6.7,7.82,HIRE,Esse autem dolores eligendi provident pariatur modi.,2026-11-07T08:46:02+00:00
+126,FB-INT-2026-000367-IVR-000029,367,29,8.4,4.4,4.8,6.12,HOLD,Voluptatum repudiandae sunt vitae.,2026-11-07T03:59:49+00:00
+127,FB-INT-2026-000146-IVR-000008,146,8,7.4,8.9,9.9,8.6,STRONG_HIRE,Quae maiores magnam magnam voluptas quam cumque.,2026-10-26T19:56:05+00:00
+128,FB-INT-2026-000147-IVR-000023,147,23,9.1,7.0,9.9,8.71,STRONG_HIRE,Placeat repudiandae odio.,2026-11-06T07:50:43+00:00
+129,FB-INT-2026-000158-IVR-000039,158,39,5.8,9.1,9.5,7.9,HIRE,Dolorum optio placeat vitae quas aperiam.,2026-11-07T16:36:58+00:00
+130,FB-INT-2026-000248-IVR-000004,248,4,9.7,4.5,8.6,7.81,HIRE,Fugit amet amet nobis dolores illo.,2026-11-12T07:12:42+00:00
+131,FB-INT-2026-000320-IVR-000004,320,4,5.9,3.9,3.2,4.49,NO_HIRE,Soluta nobis ea est.,2026-10-22T04:59:51+00:00
+132,FB-INT-2026-000332-IVR-000041,332,41,9.9,4.8,3.5,6.45,HOLD,Blanditiis quos culpa dolor non.,2026-10-28T04:43:32+00:00
+133,FB-INT-2026-000579-IVR-000036,579,36,9.7,5.5,5.1,7.06,HIRE,Sed dolorem natus itaque.,2026-11-12T11:45:10+00:00
+134,FB-INT-2026-000452-IVR-000002,452,2,8.5,3.9,3.4,5.59,HOLD,Perspiciatis est magni aperiam molestias explicabo consectetur.,2026-11-13T12:14:59+00:00
+135,FB-INT-2026-000538-IVR-000032,538,32,9.6,8.4,6.8,8.4,STRONG_HIRE,Laborum mollitia expedita at quibusdam.,2026-11-13T05:13:52+00:00
+136,FB-INT-2026-000089-IVR-000021,89,21,4.6,9.3,5.6,6.31,HOLD,Magnam nam nemo numquam.,2026-10-02T16:04:29+00:00
+137,FB-INT-2026-000418-IVR-000031,418,31,8.9,5.0,7.8,7.4,HIRE,Ex fugiat tempora nostrum enim officia sapiente earum.,2026-11-11T18:18:01+00:00
+138,FB-INT-2026-000185-IVR-000016,185,16,7.7,4.8,3.7,5.63,HOLD,Eveniet maiores nesciunt sed consectetur ea.,2026-08-30T12:29:32+00:00
+139,FB-INT-2026-000097-IVR-000015,97,15,7.5,7.1,3.7,6.24,HOLD,Blanditiis inventore dolore facere.,2026-10-25T17:12:12+00:00
+140,FB-INT-2026-000440-IVR-000007,440,7,3.1,7.3,8.1,5.86,HOLD,Quidem saepe provident deserunt quod.,2026-10-29T16:04:15+00:00
+141,FB-INT-2026-000515-IVR-000046,515,46,9.6,4.7,8.6,7.83,HIRE,Amet dolorem deleniti earum.,2026-11-07T02:18:57+00:00
+142,FB-INT-2026-000107-IVR-000024,107,24,6.6,8.6,9.7,8.13,STRONG_HIRE,Officiis eveniet explicabo expedita.,2026-10-12T16:57:17+00:00
+143,FB-INT-2026-000403-IVR-000048,403,48,3.4,5.7,5.3,4.66,NO_HIRE,Ea doloremque dolores possimus necessitatibus iusto hic in.,2026-11-13T15:41:49+00:00
+144,FB-INT-2026-000271-IVR-000037,271,37,5.6,9.9,3.2,6.17,HOLD,Earum sit eligendi.,2026-10-24T07:15:46+00:00
+145,FB-INT-2026-000475-IVR-000046,475,46,4.7,8.5,4.7,5.84,HOLD,Quis inventore voluptatum expedita.,2026-11-02T04:36:46+00:00
+146,FB-INT-2026-000296-IVR-000008,296,8,7.0,4.2,3.9,5.23,HOLD,Consequuntur magnam nobis occaecati sequi itaque dolores.,2026-11-06T13:41:15+00:00
+147,FB-INT-2026-000114-IVR-000001,114,1,4.2,5.9,6.5,5.4,HOLD,Eveniet impedit ducimus perspiciatis dolorem.,2026-10-05T09:21:53+00:00
+148,FB-INT-2026-000588-IVR-000012,588,12,3.0,9.5,7.8,6.39,HOLD,Modi nulla quibusdam vel fugit.,2026-11-13T10:13:49+00:00
+149,FB-INT-2026-000162-IVR-000047,162,47,9.2,9.0,5.5,8.03,STRONG_HIRE,Modi molestias cumque autem reiciendis maiores.,2026-09-18T05:47:47+00:00
+150,FB-INT-2026-000479-IVR-000017,479,17,4.9,7.0,9.6,6.94,HOLD,Deserunt expedita ipsum.,2026-11-04T13:18:28+00:00
+151,FB-INT-2026-000234-IVR-000001,234,1,6.1,9.8,3.7,6.49,HOLD,Dolorum a cumque ipsum facilis error eaque.,2026-11-13T23:11:55+00:00
+152,FB-INT-2026-000408-IVR-000047,408,47,9.3,8.1,6.7,8.16,STRONG_HIRE,Magni quaerat et sunt.,2026-11-12T19:17:53+00:00
+153,FB-INT-2026-000505-IVR-000023,505,23,5.4,8.1,8.8,7.23,HIRE,Amet nihil dolores ipsam explicabo laboriosam facere.,2026-11-12T16:09:55+00:00
+154,FB-INT-2026-000521-IVR-000002,521,2,8.6,3.9,6.8,6.65,HOLD,Vel nihil sequi inventore deleniti facere.,2026-11-10T01:18:52+00:00
+155,FB-INT-2026-000067-IVR-000006,67,6,9.7,6.7,5.9,7.66,HIRE,Odit modi error nihil aliquam sapiente reiciendis.,2026-07-31T01:35:10+00:00
+156,FB-INT-2026-000582-IVR-000010,582,10,6.5,5.6,7.4,6.5,HOLD,Quidem nostrum nulla amet.,2026-11-13T21:18:34+00:00
+157,FB-INT-2026-000228-IVR-000012,228,12,7.8,9.9,5.6,7.77,HIRE,Fugiat delectus eaque soluta nemo ab.,2026-10-13T21:43:39+00:00
+158,FB-INT-2026-000403-IVR-000021,403,21,8.9,6.2,3.4,6.44,HOLD,Expedita qui minus velit voluptas adipisci.,2026-11-13T11:03:47+00:00
+159,FB-INT-2026-000434-IVR-000015,434,15,5.3,9.0,9.5,7.67,HIRE,Possimus architecto neque voluptas.,2026-11-08T12:55:48+00:00
+160,FB-INT-2026-000089-IVR-000019,89,19,3.1,6.1,5.4,4.69,NO_HIRE,Quidem ea atque eaque.,2026-10-17T04:51:10+00:00
+161,FB-INT-2026-000257-IVR-000007,257,7,4.5,6.3,7.7,6.0,HOLD,Eaque alias recusandae dolore eius eius autem blanditiis.,2026-10-16T18:38:20+00:00
+162,FB-INT-2026-000092-IVR-000009,92,9,4.9,5.0,9.4,6.28,HOLD,Magni labore doloremque.,2026-10-24T15:43:21+00:00
+163,FB-INT-2026-000144-IVR-000008,144,8,6.0,3.1,7.2,5.49,HOLD,Pariatur error quidem laudantium iste sed.,2026-11-09T13:37:42+00:00
+164,FB-INT-2026-000201-IVR-000013,201,13,5.3,4.8,9.2,6.32,HOLD,Sequi occaecati dicta amet quos deserunt.,2026-10-30T03:40:19+00:00
+165,FB-INT-2026-000261-IVR-000017,261,17,9.5,5.1,8.4,7.85,HIRE,Culpa occaecati corporis itaque.,2026-11-12T00:48:52+00:00
+166,FB-INT-2026-000103-IVR-000008,103,8,9.3,5.3,8.4,7.83,HIRE,Dignissimos repellendus aliquid omnis reiciendis.,2026-11-06T01:48:45+00:00
+167,FB-INT-2026-000588-IVR-000019,588,19,6.4,9.5,5.2,6.97,HOLD,Quis consequatur hic magni vero perspiciatis.,2026-11-13T19:31:53+00:00
+168,FB-INT-2026-000304-IVR-000013,304,13,7.7,5.1,9.7,7.52,HIRE,Optio esse perferendis asperiores ratione.,2026-10-27T02:45:35+00:00
+169,FB-INT-2026-000216-IVR-000041,216,41,5.9,3.6,6.7,5.45,HOLD,Aut corporis doloribus expedita autem ut vel.,2026-10-16T00:35:35+00:00
+170,FB-INT-2026-000217-IVR-000040,217,40,9.8,5.1,9.9,8.42,STRONG_HIRE,Perspiciatis repudiandae nihil ea.,2026-10-24T08:38:09+00:00
+171,FB-INT-2026-000057-IVR-000042,57,42,6.9,7.5,8.6,7.59,HIRE,Quibusdam ipsam magni dolor omnis.,2026-11-09T14:14:57+00:00
+172,FB-INT-2026-000283-IVR-000048,283,48,8.3,9.1,3.5,7.1,HIRE,Eaque voluptate perspiciatis quibusdam laudantium in quisquam.,2026-11-12T13:29:07+00:00
+173,FB-INT-2026-000371-IVR-000039,371,39,4.2,3.3,7.1,4.8,NO_HIRE,Adipisci facilis sapiente excepturi cupiditate officiis incidunt nobis.,2026-11-08T07:22:15+00:00
+174,FB-INT-2026-000359-IVR-000015,359,15,6.5,4.5,7.0,6.05,HOLD,Rem sit deleniti ex mollitia iste inventore.,2026-10-23T10:24:57+00:00
+175,FB-INT-2026-000090-IVR-000030,90,30,3.5,4.6,6.9,4.85,NO_HIRE,Corporis libero distinctio occaecati.,2026-08-21T16:42:52+00:00
+176,FB-INT-2026-000093-IVR-000032,93,32,7.2,9.5,8.3,8.22,STRONG_HIRE,Odit velit atque rem fuga.,2026-10-12T16:03:16+00:00
+177,FB-INT-2026-000418-IVR-000015,418,15,3.5,4.8,9.6,5.72,HOLD,Sequi deleniti animi eius cumque vel dignissimos soluta.,2026-11-09T04:06:06+00:00
+178,FB-INT-2026-000491-IVR-000029,491,29,4.8,6.0,6.3,5.61,HOLD,Ut reiciendis nobis at.,2026-11-13T09:32:35+00:00
+179,FB-INT-2026-000286-IVR-000040,286,40,4.2,3.2,4.6,4.02,NO_HIRE,Repudiandae voluptatem dolore neque veniam.,2026-10-26T15:05:39+00:00
+180,FB-INT-2026-000107-IVR-000019,107,19,9.6,7.2,7.7,8.31,STRONG_HIRE,Laboriosam illo voluptatum ratione accusantium quia.,2026-10-01T17:17:41+00:00
+181,FB-INT-2026-000587-IVR-000041,587,41,3.5,4.5,9.8,5.69,HOLD,Nisi mollitia quo error sunt.,2026-11-13T21:49:01+00:00
+182,FB-INT-2026-000085-IVR-000021,85,21,5.6,5.6,6.5,5.87,HOLD,Amet rem ad et voluptatem assumenda.,2026-10-08T10:53:43+00:00
+183,FB-INT-2026-000552-IVR-000022,552,22,9.1,5.4,9.7,8.17,STRONG_HIRE,Similique doloremque nulla magni.,2026-11-09T13:18:07+00:00
+184,FB-INT-2026-000247-IVR-000024,247,24,6.8,4.0,9.0,6.62,HOLD,Animi voluptatum reiciendis enim harum vero adipisci blanditiis.,2026-11-10T01:43:24+00:00
+185,FB-INT-2026-000501-IVR-000019,501,19,6.1,6.7,4.9,5.92,HOLD,Mollitia vel dignissimos animi.,2026-11-11T04:04:22+00:00
+186,FB-INT-2026-000512-IVR-000043,512,43,4.1,7.1,5.7,5.48,HOLD,Omnis optio earum laborum illum maiores occaecati.,2026-11-12T05:13:30+00:00
+187,FB-INT-2026-000375-IVR-000023,375,23,8.0,6.2,6.2,6.92,HOLD,Alias assumenda dolores architecto repellat esse rerum.,2026-10-31T04:53:04+00:00
+188,FB-INT-2026-000067-IVR-000013,67,13,8.9,6.9,6.5,7.58,HIRE,Saepe cumque sunt fugiat consequuntur.,2026-08-28T06:25:16+00:00
+189,FB-INT-2026-000599-IVR-000014,599,14,4.7,5.7,3.1,4.52,NO_HIRE,Molestiae quaerat harum architecto ut fuga.,2026-11-13T22:41:44+00:00
+190,FB-INT-2026-000334-IVR-000008,334,8,8.3,3.6,5.3,5.99,HOLD,Inventore fugiat similique quo.,2026-10-10T19:14:08+00:00
+191,FB-INT-2026-000402-IVR-000030,402,30,4.8,4.0,9.3,5.91,HOLD,Corporis dolor exercitationem sint.,2026-10-23T06:17:21+00:00
+192,FB-INT-2026-000299-IVR-000003,299,3,6.2,7.2,7.9,7.01,HIRE,Vero porro alias dolor dolores vel rem.,2026-11-01T08:04:30+00:00
+193,FB-INT-2026-000599-IVR-000015,599,15,8.7,5.6,6.3,7.05,HIRE,Molestias iure unde deleniti neque dolore officiis.,2026-11-13T23:59:29+00:00
+194,FB-INT-2026-000441-IVR-000002,441,2,4.3,4.6,7.1,5.23,HOLD,Repudiandae molestias repellendus dolorum.,2026-11-11T03:29:20+00:00
+195,FB-INT-2026-000464-IVR-000022,464,22,3.7,6.5,5.1,4.96,NO_HIRE,Error velit illo libero quo illo itaque.,2026-11-09T10:08:44+00:00
+196,FB-INT-2026-000128-IVR-000008,128,8,3.5,8.1,6.3,5.72,HOLD,Esse alias repellat tenetur dolorem voluptatum.,2026-11-09T15:56:50+00:00
+197,FB-INT-2026-000435-IVR-000049,435,49,4.3,9.6,8.6,7.18,HIRE,Id perspiciatis id id repellat delectus libero.,2026-11-04T00:37:32+00:00
+198,FB-INT-2026-000595-IVR-000042,595,42,4.4,5.5,9.3,6.2,HOLD,Ipsum vel beatae officiis minima tempora.,2026-11-13T16:38:42+00:00
+199,FB-INT-2026-000213-IVR-000015,213,15,7.5,9.0,8.6,8.28,STRONG_HIRE,Explicabo delectus sequi dolores adipisci aliquam adipisci.,2026-09-15T14:39:48+00:00
+200,FB-INT-2026-000531-IVR-000036,531,36,6.3,9.7,5.0,6.93,HOLD,Nisi dolorum tenetur nulla nobis accusamus aliquam.,2026-11-13T14:30:35+00:00
+201,FB-INT-2026-000367-IVR-000012,367,12,5.0,9.2,6.6,6.74,HOLD,Iusto ipsa totam natus fuga veniam assumenda.,2026-10-28T06:23:17+00:00
+202,FB-INT-2026-000329-IVR-000041,329,41,3.2,6.9,9.3,6.14,HOLD,Sint quod doloremque saepe occaecati.,2026-10-31T03:49:44+00:00
+203,FB-INT-2026-000146-IVR-000029,146,29,7.5,4.2,9.5,7.11,HIRE,Cumque voluptatem dolorem temporibus.,2026-09-21T16:46:27+00:00
+204,FB-INT-2026-000326-IVR-000040,326,40,3.1,8.1,8.3,6.16,HOLD,Recusandae laborum tempora magnam nihil repellat.,2026-10-30T01:42:32+00:00
+205,FB-INT-2026-000236-IVR-000019,236,19,8.4,8.3,8.8,8.49,STRONG_HIRE,Blanditiis delectus vel voluptates odit est.,2026-11-09T21:20:12+00:00
+206,FB-INT-2026-000226-IVR-000049,226,49,7.6,6.1,7.9,7.24,HIRE,Totam assumenda reiciendis modi deserunt mollitia eos.,2026-09-29T23:38:10+00:00
+207,FB-INT-2026-000073-IVR-000049,73,49,8.5,4.5,9.6,7.63,HIRE,Suscipit dolorem reiciendis hic optio saepe aut.,2026-06-27T13:50:59+00:00
+208,FB-INT-2026-000551-IVR-000032,551,32,5.3,7.3,5.8,6.05,HOLD,Necessitatibus neque a nobis.,2026-11-13T10:58:33+00:00
+209,FB-INT-2026-000250-IVR-000039,250,39,9.3,4.6,4.2,6.36,HOLD,Aperiam mollitia reprehenderit fugiat.,2026-10-08T04:40:38+00:00
+210,FB-INT-2026-000361-IVR-000042,361,42,5.2,5.2,6.8,5.68,HOLD,Cum libero eaque illum voluptates.,2026-10-28T05:54:14+00:00
+211,FB-INT-2026-000596-IVR-000017,596,17,6.9,8.9,4.5,6.78,HOLD,Quae praesentium ad dolorem voluptate.,2026-11-13T21:49:27+00:00
+212,FB-INT-2026-000374-IVR-000011,374,11,3.3,4.9,5.8,4.53,NO_HIRE,Minus ratione autem assumenda eius molestias pariatur.,2026-11-10T17:41:36+00:00
+213,FB-INT-2026-000363-IVR-000030,363,30,3.9,3.6,7.0,4.74,NO_HIRE,Voluptas quam fuga.,2026-10-21T01:44:58+00:00
+214,FB-INT-2026-000361-IVR-000044,361,44,9.6,7.8,7.5,8.43,STRONG_HIRE,Unde ad officia.,2026-11-13T13:16:39+00:00
+215,FB-INT-2026-000577-IVR-000031,577,31,7.0,9.9,6.9,7.84,HIRE,Soluta eligendi ut placeat consequuntur itaque provident quae.,2026-11-13T16:08:02+00:00
+216,FB-INT-2026-000244-IVR-000019,244,19,8.9,6.6,5.7,7.25,HIRE,Occaecati repudiandae sunt.,2026-10-17T03:20:05+00:00
+217,FB-INT-2026-000050-IVR-000002,50,2,3.9,6.5,3.6,4.59,NO_HIRE,Explicabo illum necessitatibus facilis doloribus.,2026-09-12T16:52:58+00:00
+218,FB-INT-2026-000547-IVR-000004,547,4,6.3,9.6,4.1,6.63,HOLD,Mollitia laborum impedit incidunt eius.,2026-11-10T12:52:39+00:00
+219,FB-INT-2026-000057-IVR-000017,57,17,7.5,7.4,5.3,6.81,HOLD,Mollitia accusamus asperiores officia.,2026-10-18T05:50:22+00:00
+220,FB-INT-2026-000183-IVR-000015,183,15,9.9,3.2,9.5,7.77,HIRE,Eos modi dolores hic labore.,2026-10-27T01:09:54+00:00
+221,FB-INT-2026-000259-IVR-000016,259,16,4.8,3.2,8.5,5.43,HOLD,Sint libero facere adipisci.,2026-11-11T10:13:32+00:00
+222,FB-INT-2026-000160-IVR-000046,160,46,6.3,3.5,6.6,5.55,HOLD,Aliquam esse dolore fugiat id porro recusandae.,2026-11-12T12:38:44+00:00
+223,FB-INT-2026-000443-IVR-000047,443,47,4.9,7.4,4.6,5.56,HOLD,Fugiat iusto saepe nam vero.,2026-11-11T15:45:58+00:00
+224,FB-INT-2026-000369-IVR-000036,369,36,9.2,5.6,8.6,7.94,HIRE,Impedit accusamus molestias veniam cupiditate.,2026-11-10T15:23:07+00:00
+225,FB-INT-2026-000496-IVR-000033,496,33,9.2,5.9,5.9,7.22,HIRE,Impedit sint qui excepturi corporis porro.,2026-11-13T23:11:24+00:00
+226,FB-INT-2026-000316-IVR-000043,316,43,8.4,9.1,5.4,7.71,HIRE,Enim at non nulla quaerat.,2026-10-10T08:58:54+00:00
+227,FB-INT-2026-000058-IVR-000025,58,25,9.6,9.6,9.8,9.66,STRONG_HIRE,Sequi fugit rerum nulla iure fugiat.,2026-09-10T09:11:04+00:00
+228,FB-INT-2026-000346-IVR-000012,346,12,4.2,4.8,7.7,5.43,HOLD,Repudiandae laborum eligendi vitae blanditiis esse quis.,2026-11-12T20:09:51+00:00
+229,FB-INT-2026-000161-IVR-000027,161,27,6.3,3.8,8.0,6.06,HOLD,Tenetur vel quis dolores necessitatibus.,2026-11-08T14:27:26+00:00
+230,FB-INT-2026-000028-IVR-000031,28,31,7.0,5.9,8.3,7.06,HIRE,Hic iusto recusandae ipsum doloremque sit labore expedita.,2026-04-21T14:41:14+00:00
+231,FB-INT-2026-000541-IVR-000047,541,47,8.6,4.7,8.7,7.46,HIRE,Iste vero perferendis ex aspernatur commodi quasi.,2026-11-13T04:47:56+00:00
+232,FB-INT-2026-000369-IVR-000016,369,16,8.4,5.9,3.5,6.18,HOLD,Tempore tempora vero officia expedita corrupti.,2026-11-13T21:00:47+00:00
+233,FB-INT-2026-000224-IVR-000038,224,38,4.3,9.9,6.8,6.73,HOLD,Odio odit blanditiis occaecati adipisci voluptas dicta similique.,2026-11-06T02:44:11+00:00
+234,FB-INT-2026-000485-IVR-000041,485,41,3.2,4.0,8.0,4.88,NO_HIRE,Necessitatibus nemo distinctio earum voluptatem sapiente.,2026-11-13T21:34:22+00:00
+235,FB-INT-2026-000193-IVR-000029,193,29,7.0,4.0,5.2,5.56,HOLD,Ratione possimus provident.,2026-10-21T22:58:54+00:00
+236,FB-INT-2026-000519-IVR-000010,519,10,7.9,8.5,6.0,7.51,HIRE,Ipsa non ex hic neque natus.,2026-11-08T15:54:07+00:00
+237,FB-INT-2026-000022-IVR-000043,22,43,8.5,7.3,7.4,7.81,HIRE,Fugiat corporis ipsa amet iusto nemo recusandae.,2026-09-24T23:21:54+00:00
+238,FB-INT-2026-000540-IVR-000046,540,46,6.5,5.6,4.3,5.57,HOLD,Sint sit velit vitae provident facere necessitatibus tempora.,2026-11-12T10:32:05+00:00
+239,FB-INT-2026-000029-IVR-000010,29,10,9.8,6.3,6.7,7.82,HIRE,Nihil asperiores repellendus quaerat officiis officia laudantium.,2026-07-28T23:08:39+00:00
+240,FB-INT-2026-000462-IVR-000040,462,40,8.3,7.9,4.8,7.13,HIRE,Nulla ex a voluptates necessitatibus.,2026-11-10T20:55:15+00:00
+241,FB-INT-2026-000380-IVR-000020,380,20,4.3,7.8,7.6,6.34,HOLD,Quas tenetur aut.,2026-11-10T19:26:03+00:00
+242,FB-INT-2026-000493-IVR-000016,493,16,7.9,7.0,9.5,8.11,STRONG_HIRE,Culpa placeat quas repudiandae ex natus.,2026-11-12T19:25:15+00:00
+243,FB-INT-2026-000275-IVR-000009,275,9,5.5,4.9,4.8,5.11,HOLD,Cumque tempore possimus laborum ipsum necessitatibus.,2026-11-12T17:00:03+00:00
+244,FB-INT-2026-000468-IVR-000040,468,40,4.1,9.7,4.2,5.81,HOLD,Explicabo reiciendis laudantium sint magni quia.,2026-11-12T19:46:52+00:00
+245,FB-INT-2026-000205-IVR-000036,205,36,5.1,5.4,8.5,6.21,HOLD,Temporibus a alias nulla quibusdam.,2026-11-01T15:29:39+00:00
+246,FB-INT-2026-000429-IVR-000006,429,6,4.5,3.0,4.4,4.02,NO_HIRE,Odit cupiditate dolorum est neque commodi.,2026-11-12T06:29:02+00:00
+247,FB-INT-2026-000564-IVR-000013,564,13,7.3,4.6,9.8,7.24,HIRE,Accusantium corporis laudantium.,2026-11-13T16:07:21+00:00
+248,FB-INT-2026-000520-IVR-000006,520,6,3.7,9.8,7.8,6.76,HOLD,Nisi fugit cumque impedit eligendi.,2026-11-11T16:19:58+00:00
+249,FB-INT-2026-000034-IVR-000019,34,19,4.2,9.3,6.7,6.48,HOLD,Facilis eligendi beatae aliquid aliquid ut.,2026-10-11T23:21:58+00:00
+250,FB-INT-2026-000012-IVR-000038,12,38,6.7,5.8,8.8,7.06,HIRE,Fugiat fugiat quo harum ad nulla vel eligendi.,2026-05-11T02:48:33+00:00
+251,FB-INT-2026-000283-IVR-000016,283,16,8.2,5.9,10.0,8.05,STRONG_HIRE,Voluptatem omnis consequatur dolore laudantium.,2026-11-06T07:06:26+00:00
+252,FB-INT-2026-000397-IVR-000032,397,32,7.5,9.1,3.0,6.63,HOLD,Molestiae ex suscipit ipsum ipsum nulla.,2026-11-04T11:50:25+00:00
+253,FB-INT-2026-000416-IVR-000036,416,36,5.7,3.2,8.3,5.73,HOLD,Maiores amet porro consequatur suscipit ex nisi explicabo.,2026-11-11T23:46:00+00:00
+254,FB-INT-2026-000229-IVR-000001,229,1,6.5,9.2,4.1,6.59,HOLD,Sunt nemo deleniti qui.,2026-11-13T02:37:32+00:00
+255,FB-INT-2026-000511-IVR-000023,511,23,7.4,3.5,8.8,6.65,HOLD,Illo enim natus quos provident.,2026-11-06T14:22:18+00:00
+256,FB-INT-2026-000177-IVR-000009,177,9,3.9,6.4,4.5,4.83,NO_HIRE,Distinctio adipisci possimus.,2026-11-08T03:06:25+00:00
+257,FB-INT-2026-000282-IVR-000021,282,21,9.9,5.9,6.6,7.71,HIRE,Incidunt iste corporis.,2026-11-02T14:59:44+00:00
+258,FB-INT-2026-000330-IVR-000039,330,39,7.4,7.8,4.0,6.5,HOLD,Natus esse iure molestiae repellat.,2026-11-12T07:29:53+00:00
+259,FB-INT-2026-000343-IVR-000030,343,30,7.8,3.3,5.3,5.7,HOLD,Facere sapiente delectus quaerat cupiditate nihil iusto.,2026-11-03T01:08:51+00:00
+260,FB-INT-2026-000274-IVR-000006,274,6,7.1,9.2,3.4,6.62,HOLD,Esse alias eos necessitatibus est sunt expedita.,2026-11-06T05:56:28+00:00
+261,FB-INT-2026-000237-IVR-000016,237,16,4.5,7.5,6.7,6.06,HOLD,Vero tempore placeat illum.,2026-11-03T21:15:06+00:00
+262,FB-INT-2026-000207-IVR-000040,207,40,9.4,4.9,9.0,7.93,HIRE,Exercitationem aut commodi ad culpa laborum.,2026-11-09T01:14:37+00:00
+263,FB-INT-2026-000387-IVR-000019,387,19,6.5,9.1,3.9,6.5,HOLD,Dolores molestiae deserunt recusandae.,2026-10-26T09:01:06+00:00
+264,FB-INT-2026-000518-IVR-000048,518,48,4.8,9.7,9.3,7.62,HIRE,Dicta vitae aperiam quidem consequatur exercitationem.,2026-11-08T05:54:16+00:00
+265,FB-INT-2026-000428-IVR-000038,428,38,5.8,3.8,4.9,4.93,NO_HIRE,Nisi aut eaque nam beatae.,2026-10-29T20:13:41+00:00
+266,FB-INT-2026-000447-IVR-000016,447,16,8.5,5.0,3.8,6.04,HOLD,Quia corporis fugiat eligendi cum asperiores repudiandae.,2026-11-08T11:02:52+00:00
+267,FB-INT-2026-000372-IVR-000016,372,16,7.9,9.1,3.4,6.91,HOLD,Non soluta atque enim.,2026-10-27T07:37:13+00:00
+268,FB-INT-2026-000463-IVR-000011,463,11,3.2,5.2,8.2,5.3,HOLD,Facere vel minus adipisci saepe a.,2026-11-11T19:13:30+00:00
+269,FB-INT-2026-000317-IVR-000001,317,1,3.4,5.8,8.4,5.62,HOLD,Iure nisi autem repellendus eius quos.,2026-11-07T06:18:55+00:00
+270,FB-INT-2026-000033-IVR-000004,33,4,6.4,8.3,3.2,6.01,HOLD,Consequuntur quo sint in esse inventore veniam.,2026-11-01T04:28:27+00:00
+271,FB-INT-2026-000035-IVR-000023,35,23,9.5,4.0,4.8,6.44,HOLD,Corporis corrupti aperiam beatae at eveniet.,2026-10-03T20:32:49+00:00
+272,FB-INT-2026-000005-IVR-000014,5,14,6.7,6.7,5.7,6.4,HOLD,Ea mollitia praesentium porro.,2026-11-02T23:06:29+00:00
+273,FB-INT-2026-000353-IVR-000029,353,29,7.8,6.0,9.8,7.86,HIRE,Laudantium tempora veritatis modi enim fuga voluptatem.,2026-10-25T08:55:58+00:00
+274,FB-INT-2026-000090-IVR-000006,90,6,4.2,8.1,3.2,5.07,HOLD,Ea sunt sit illum.,2026-09-17T14:24:38+00:00
+275,FB-INT-2026-000374-IVR-000044,374,44,3.2,3.5,3.4,3.35,NO_HIRE,Exercitationem molestias ratione perspiciatis delectus.,2026-11-09T03:10:19+00:00
+276,FB-INT-2026-000162-IVR-000040,162,40,6.8,8.1,9.2,7.91,HIRE,Dolorem nobis ex corrupti.,2026-09-11T14:24:47+00:00
+277,FB-INT-2026-000553-IVR-000012,553,12,6.9,7.8,3.2,6.06,HOLD,Dignissimos dolore ipsa ad aperiam.,2026-11-13T17:32:13+00:00
+278,FB-INT-2026-000293-IVR-000019,293,19,8.5,4.2,3.5,5.71,HOLD,Dolor sapiente magnam numquam fugit unde.,2026-10-05T00:13:24+00:00
+279,FB-INT-2026-000118-IVR-000017,118,17,3.3,8.0,6.5,5.67,HOLD,Maiores maxime beatae quam blanditiis.,2026-11-10T01:22:34+00:00
+280,FB-INT-2026-000047-IVR-000031,47,31,9.8,7.6,4.2,7.46,HIRE,Veritatis odio consequatur repellat aliquam quam.,2026-08-05T20:40:46+00:00
+281,FB-INT-2026-000070-IVR-000044,70,44,9.2,9.8,5.6,8.3,STRONG_HIRE,Hic aliquam qui quaerat maiores a.,2026-11-11T08:36:41+00:00
+282,FB-INT-2026-000079-IVR-000002,79,2,9.1,4.3,9.0,7.63,HIRE,Soluta ipsum aut recusandae neque nemo deserunt officia.,2026-07-15T19:04:16+00:00
+283,FB-INT-2026-000554-IVR-000014,554,14,4.0,9.8,3.9,5.71,HOLD,Sit odio vero minus quo commodi repellat.,2026-11-12T04:17:48+00:00
+284,FB-INT-2026-000099-IVR-000015,99,15,6.1,4.1,6.3,5.56,HOLD,Repellat itaque deleniti iure aut nam adipisci.,2026-10-23T14:41:38+00:00
+285,FB-INT-2026-000136-IVR-000010,136,10,5.4,8.1,6.9,6.66,HOLD,Adipisci ab sequi quidem.,2026-10-01T13:52:23+00:00
+286,FB-INT-2026-000010-IVR-000001,10,1,8.1,5.5,8.2,7.35,HIRE,Maxime ipsa veritatis ab non amet quos deserunt.,2026-07-19T06:27:03+00:00
+287,FB-INT-2026-000449-IVR-000040,449,40,6.2,7.9,7.2,7.01,HIRE,Maxime perspiciatis accusamus consequatur nostrum.,2026-11-10T23:40:35+00:00
+288,FB-INT-2026-000238-IVR-000024,238,24,6.3,4.7,4.0,5.13,HOLD,Fugit eveniet fugit consequatur reiciendis aspernatur necessitatibus corrupti.,2026-11-12T07:19:17+00:00
+289,FB-INT-2026-000231-IVR-000033,231,33,8.5,7.5,5.0,7.15,HIRE,Dolorum voluptates facilis excepturi illum.,2026-10-11T02:08:32+00:00
+290,FB-INT-2026-000243-IVR-000041,243,41,5.8,9.2,4.5,6.43,HOLD,Deleniti voluptatem quia suscipit illum eius consectetur.,2026-11-06T23:53:01+00:00
+291,FB-INT-2026-000221-IVR-000039,221,39,9.3,7.2,5.5,7.53,HIRE,Nulla voluptatibus facere sint ullam blanditiis facilis magnam.,2026-11-10T02:23:01+00:00
+292,FB-INT-2026-000470-IVR-000001,470,1,8.7,5.6,4.0,6.36,HOLD,Deleniti velit iste minus quod neque.,2026-11-10T00:45:59+00:00
+293,FB-INT-2026-000485-IVR-000014,485,14,10.0,8.2,7.4,8.68,STRONG_HIRE,Quidem molestiae porro enim id tempora modi.,2026-11-13T12:56:06+00:00
+294,FB-INT-2026-000593-IVR-000033,593,33,6.4,8.7,7.4,7.39,HIRE,Quo maiores eum fugiat vel.,2026-11-13T23:49:40+00:00
+295,FB-INT-2026-000323-IVR-000020,323,20,5.1,4.2,7.6,5.58,HOLD,Laudantium itaque consectetur quisquam omnis facilis minus.,2026-11-12T03:18:02+00:00
+296,FB-INT-2026-000591-IVR-000043,591,43,5.6,5.1,7.2,5.93,HOLD,Minus nisi eius quod.,2026-11-13T18:59:35+00:00
+297,FB-INT-2026-000191-IVR-000002,191,2,6.2,3.4,3.7,4.61,NO_HIRE,Natus corrupti corporis sapiente.,2026-10-21T07:27:07+00:00
+298,FB-INT-2026-000398-IVR-000004,398,4,5.3,7.8,4.6,5.84,HOLD,Dolore officiis praesentium.,2026-11-09T00:01:47+00:00
+299,FB-INT-2026-000514-IVR-000003,514,3,6.3,4.5,4.0,5.07,HOLD,Saepe non similique ipsa illum.,2026-11-13T22:32:00+00:00
+300,FB-INT-2026-000498-IVR-000044,498,44,8.5,3.6,8.2,6.94,HOLD,Pariatur officiis quasi ipsum iusto vero.,2026-11-09T06:48:21+00:00
+301,FB-INT-2026-000341-IVR-000049,341,49,7.9,3.3,6.6,6.13,HOLD,Nesciunt delectus occaecati aspernatur mollitia quisquam dolore deleniti.,2026-10-19T00:30:02+00:00
+302,FB-INT-2026-000280-IVR-000039,280,39,5.7,6.5,6.0,6.03,HOLD,Consequuntur praesentium dolorum laboriosam fuga eum fuga officia.,2026-11-10T16:59:21+00:00
+303,FB-INT-2026-000513-IVR-000049,513,49,3.8,6.6,7.1,5.63,HOLD,Sunt eos consequatur amet nostrum nisi commodi nostrum.,2026-11-11T18:27:53+00:00
+304,FB-INT-2026-000188-IVR-000048,188,48,3.3,7.8,9.9,6.63,HOLD,Animi quia doloremque.,2026-11-06T22:43:14+00:00
+305,FB-INT-2026-000316-IVR-000031,316,31,4.8,4.0,3.7,4.23,NO_HIRE,Facere officia commodi dolores deleniti.,2026-10-11T11:13:25+00:00
+306,FB-INT-2026-000578-IVR-000006,578,6,8.7,6.5,7.7,7.74,HIRE,Repellendus vitae sapiente voluptatem perspiciatis.,2026-11-13T09:55:52+00:00
+307,FB-INT-2026-000095-IVR-000046,95,46,6.5,4.5,5.2,5.51,HOLD,Accusamus eius vero et vel.,2026-09-22T12:45:35+00:00
+308,FB-INT-2026-000163-IVR-000013,163,13,7.6,8.5,4.6,6.97,HOLD,Officia quia occaecati temporibus nesciunt exercitationem.,2026-09-08T07:37:13+00:00
+309,FB-INT-2026-000116-IVR-000019,116,19,5.9,7.0,6.8,6.5,HOLD,Quas labore eos asperiores incidunt quaerat.,2026-10-15T18:53:55+00:00
+310,FB-INT-2026-000553-IVR-000010,553,10,4.5,8.1,5.7,5.94,HOLD,Possimus dolor sed illo deleniti.,2026-11-12T07:40:43+00:00
+311,FB-INT-2026-000139-IVR-000003,139,3,6.0,9.0,6.7,7.11,HIRE,Earum amet quae autem similique suscipit a.,2026-10-25T20:41:02+00:00
+312,FB-INT-2026-000111-IVR-000012,111,12,8.7,3.8,3.9,5.79,HOLD,Voluptatem ullam fugit odio quasi quos fuga.,2026-10-29T05:08:25+00:00
+313,FB-INT-2026-000235-IVR-000014,235,14,9.0,6.9,6.0,7.47,HIRE,Quos animi voluptas.,2026-09-22T10:50:04+00:00
+314,FB-INT-2026-000558-IVR-000032,558,32,3.3,9.9,5.1,5.82,HOLD,Repudiandae asperiores cum minus voluptates.,2026-11-13T12:36:49+00:00
+315,FB-INT-2026-000145-IVR-000006,145,6,9.0,9.3,8.1,8.82,STRONG_HIRE,Laboriosam ducimus voluptatum aliquid tenetur minus nemo.,2026-10-30T13:24:07+00:00
+316,FB-INT-2026-000252-IVR-000041,252,41,7.2,4.5,8.7,6.84,HOLD,Iure mollitia eos molestias.,2026-11-01T17:32:37+00:00
+317,FB-INT-2026-000084-IVR-000001,84,1,4.4,6.7,4.1,5.0,HOLD,Autem quaerat explicabo et aut.,2026-10-16T00:56:16+00:00
+318,FB-INT-2026-000352-IVR-000037,352,37,5.7,3.2,5.1,4.77,NO_HIRE,Sit velit distinctio corrupti.,2026-10-15T03:19:33+00:00
+319,FB-INT-2026-000543-IVR-000023,543,23,4.3,8.3,5.8,5.95,HOLD,Quidem quaerat delectus debitis.,2026-11-12T13:56:38+00:00
+320,FB-INT-2026-000280-IVR-000033,280,33,4.4,7.8,8.4,6.62,HOLD,Asperiores omnis magni.,2026-10-23T11:55:56+00:00
+321,FB-INT-2026-000209-IVR-000030,209,30,7.1,6.7,9.1,7.58,HIRE,Possimus voluptatum quas dignissimos est unde possimus.,2026-09-12T08:58:17+00:00
+322,FB-INT-2026-000509-IVR-000047,509,47,4.7,5.4,7.6,5.78,HOLD,Repellat hic ea ea officia.,2026-11-07T02:56:52+00:00
+323,FB-INT-2026-000290-IVR-000013,290,13,3.0,9.1,6.4,5.85,HOLD,Recusandae praesentium tempora vero.,2026-10-23T16:24:25+00:00
+324,FB-INT-2026-000455-IVR-000023,455,23,4.7,4.9,6.4,5.27,HOLD,Quas hic consectetur neque nulla consequatur placeat.,2026-11-12T15:04:23+00:00
+325,FB-INT-2026-000490-IVR-000027,490,27,6.9,7.3,6.3,6.84,HOLD,Sit distinctio rerum deserunt delectus excepturi beatae soluta.,2026-11-12T06:49:09+00:00
+326,FB-INT-2026-000258-IVR-000040,258,40,9.3,6.5,6.2,7.53,HIRE,Eaque placeat minima pariatur ullam.,2026-11-13T15:56:29+00:00
+327,FB-INT-2026-000315-IVR-000040,315,40,5.5,5.4,3.4,4.84,NO_HIRE,Dolore quaerat repudiandae ab consequuntur culpa unde.,2026-10-22T19:22:45+00:00
+328,FB-INT-2026-000042-IVR-000007,42,7,9.3,7.4,6.8,7.98,HIRE,Eum molestiae quas voluptas eveniet ipsam.,2026-09-18T20:54:11+00:00
+329,FB-INT-2026-000442-IVR-000018,442,18,6.5,4.1,3.6,4.91,NO_HIRE,Deserunt aspernatur quibusdam.,2026-11-04T20:44:49+00:00
+330,FB-INT-2026-000237-IVR-000012,237,12,4.0,7.2,6.9,5.83,HOLD,Blanditiis placeat maxime perferendis reiciendis labore alias natus.,2026-11-06T22:46:21+00:00
+331,FB-INT-2026-000486-IVR-000029,486,29,6.8,5.7,3.5,5.48,HOLD,Quidem earum necessitatibus deleniti fuga provident fuga soluta.,2026-11-09T14:29:16+00:00
+332,FB-INT-2026-000101-IVR-000041,101,41,8.8,4.0,5.2,6.28,HOLD,Blanditiis autem ad illum culpa unde adipisci.,2026-11-12T03:55:40+00:00
+333,FB-INT-2026-000382-IVR-000007,382,7,7.9,3.9,4.2,5.59,HOLD,Distinctio doloremque voluptatibus facere eaque eaque.,2026-11-06T13:12:49+00:00
+334,FB-INT-2026-000600-IVR-000024,600,24,10.0,7.4,8.6,8.8,STRONG_HIRE,Quaerat minima officiis soluta ipsum animi aperiam doloremque.,2026-11-13T23:55:07+00:00
+335,FB-INT-2026-000122-IVR-000032,122,32,9.8,5.8,3.3,6.65,HOLD,Officiis quam expedita.,2026-10-18T19:41:07+00:00
+336,FB-INT-2026-000279-IVR-000008,279,8,5.5,7.9,3.2,5.53,HOLD,Iste aliquam architecto veritatis.,2026-11-11T00:40:58+00:00
+337,FB-INT-2026-000014-IVR-000020,14,20,8.5,4.8,8.1,7.27,HIRE,Qui quas dicta officia.,2026-08-31T02:44:29+00:00
+338,FB-INT-2026-000032-IVR-000031,32,31,4.0,3.9,9.0,5.47,HOLD,Itaque dolores omnis repudiandae numquam.,2026-06-21T07:05:04+00:00
+339,FB-INT-2026-000201-IVR-000032,201,32,6.2,7.1,8.2,7.07,HIRE,Mollitia inventore qui similique quasi dignissimos facere.,2026-10-02T05:40:27+00:00
+340,FB-INT-2026-000270-IVR-000013,270,13,5.5,6.8,9.5,7.09,HIRE,Quod fugit non aliquid ea.,2026-11-12T04:41:36+00:00
+341,FB-INT-2026-000503-IVR-000009,503,9,8.7,5.0,3.3,5.97,HOLD,Vero velit quo aspernatur.,2026-11-10T22:16:59+00:00
+342,FB-INT-2026-000533-IVR-000027,533,27,4.4,5.8,3.8,4.64,NO_HIRE,Deleniti magnam delectus excepturi pariatur et.,2026-11-10T21:34:50+00:00
+343,FB-INT-2026-000312-IVR-000011,312,11,5.8,6.1,8.0,6.55,HOLD,Labore suscipit tempora nesciunt.,2026-11-02T07:44:14+00:00
+344,FB-INT-2026-000233-IVR-000002,233,2,9.9,7.9,3.8,7.47,HIRE,Dignissimos corrupti ipsum.,2026-11-05T23:08:37+00:00
+345,FB-INT-2026-000109-IVR-000049,109,49,6.6,9.3,3.5,6.48,HOLD,Fugiat corporis voluptates accusamus voluptatibus.,2026-10-26T12:53:24+00:00
+346,FB-INT-2026-000511-IVR-000046,511,46,3.2,7.2,9.5,6.29,HOLD,Culpa quod iste mollitia commodi amet illum.,2026-11-05T18:49:29+00:00
+347,FB-INT-2026-000106-IVR-000003,106,3,3.0,5.1,7.2,4.89,NO_HIRE,Doloribus enim repellendus nisi.,2026-10-31T08:53:53+00:00
+348,FB-INT-2026-000137-IVR-000009,137,9,6.6,9.8,3.6,6.66,HOLD,Tempora minima nostrum soluta.,2026-10-26T19:24:12+00:00
+349,FB-INT-2026-000013-IVR-000024,13,24,6.6,4.8,4.7,5.49,HOLD,Quidem pariatur ullam soluta nobis maxime.,2026-06-16T20:37:39+00:00
+350,FB-INT-2026-000284-IVR-000047,284,47,8.8,6.5,4.4,6.79,HOLD,Quia provident in labore porro.,2026-10-31T19:16:43+00:00
+351,FB-INT-2026-000392-IVR-000037,392,37,4.0,9.7,8.6,7.09,HIRE,Rerum eum tempore doloribus quas quod.,2026-10-31T13:58:58+00:00
+352,FB-INT-2026-000248-IVR-000003,248,3,3.4,4.9,8.6,5.41,HOLD,Fugit nulla at illo optio eos vero quibusdam.,2026-11-12T07:09:15+00:00
+353,FB-INT-2026-000052-IVR-000008,52,8,7.4,4.9,4.1,5.66,HOLD,Assumenda minima blanditiis.,2026-08-27T19:48:00+00:00
+354,FB-INT-2026-000192-IVR-000043,192,43,4.9,5.5,9.7,6.52,HOLD,Eaque recusandae odio praesentium sint.,2026-11-08T23:06:38+00:00
+355,FB-INT-2026-000340-IVR-000020,340,20,8.6,8.1,7.6,8.15,STRONG_HIRE,Labore quaerat accusamus amet sed.,2026-10-16T21:21:34+00:00
+356,FB-INT-2026-000143-IVR-000010,143,10,7.4,4.8,5.1,5.93,HOLD,Distinctio dicta laudantium laborum molestias unde.,2026-09-08T08:22:10+00:00
+357,FB-INT-2026-000536-IVR-000029,536,29,6.5,7.2,8.8,7.4,HIRE,Dolores nisi voluptatum.,2026-11-10T17:42:10+00:00
+358,FB-INT-2026-000597-IVR-000016,597,16,9.1,9.1,8.3,8.86,STRONG_HIRE,Recusandae ipsum inventore magnam culpa harum.,2026-11-13T20:37:18+00:00
+359,FB-INT-2026-000564-IVR-000048,564,48,5.7,8.7,5.1,6.42,HOLD,Laborum quis nisi repellat libero similique.,2026-11-13T17:12:41+00:00
+360,FB-INT-2026-000461-IVR-000012,461,12,6.1,6.7,7.5,6.7,HOLD,Libero nostrum delectus dolore dolorum.,2026-11-09T19:00:17+00:00
+361,FB-INT-2026-000088-IVR-000002,88,2,9.7,3.0,7.8,7.12,HIRE,Consequuntur impedit eius fugiat reiciendis similique alias ipsa.,2026-11-03T19:11:01+00:00
+362,FB-INT-2026-000060-IVR-000029,60,29,5.9,4.8,8.3,6.29,HOLD,Explicabo doloribus quam recusandae delectus saepe.,2026-08-28T11:07:38+00:00
+363,FB-INT-2026-000397-IVR-000044,397,44,5.6,9.5,3.2,6.05,HOLD,Illum tenetur sint tempore assumenda culpa.,2026-11-04T00:12:23+00:00
+364,FB-INT-2026-000251-IVR-000025,251,25,5.9,3.6,7.6,5.72,HOLD,Facere iusto possimus earum.,2026-10-29T04:15:38+00:00
+365,FB-INT-2026-000338-IVR-000024,338,24,8.9,4.4,7.7,7.19,HIRE,Aperiam quidem quasi natus eligendi.,2026-11-10T06:37:38+00:00
+366,FB-INT-2026-000273-IVR-000008,273,8,3.9,8.0,5.3,5.55,HOLD,Distinctio quos doloremque earum est.,2026-11-13T22:38:26+00:00
+367,FB-INT-2026-000489-IVR-000027,489,27,9.8,7.2,3.9,7.25,HIRE,Earum perspiciatis iusto fugiat cupiditate sed vitae.,2026-11-04T20:23:05+00:00
+368,FB-INT-2026-000504-IVR-000036,504,36,4.7,5.0,5.9,5.15,HOLD,Possimus est eveniet laboriosam aut tempora.,2026-11-08T01:53:23+00:00
+369,FB-INT-2026-000243-IVR-000025,243,25,9.4,7.7,7.5,8.32,STRONG_HIRE,Tempora dolor assumenda exercitationem.,2026-11-10T07:44:21+00:00
+370,FB-INT-2026-000384-IVR-000036,384,36,9.0,3.4,5.6,6.3,HOLD,Doloremque possimus dolores velit qui adipisci.,2026-10-29T21:02:46+00:00
+371,FB-INT-2026-000159-IVR-000020,159,20,6.9,5.3,3.9,5.52,HOLD,Beatae dolor doloremque ducimus animi modi nostrum.,2026-11-12T21:29:20+00:00
+372,FB-INT-2026-000539-IVR-000043,539,43,8.9,6.9,4.3,6.92,HOLD,Soluta hic in quos.,2026-11-13T16:48:12+00:00
+373,FB-INT-2026-000566-IVR-000029,566,29,8.7,4.5,5.8,6.57,HOLD,Porro eligendi deleniti maxime molestias.,2026-11-10T19:18:52+00:00
+374,FB-INT-2026-000594-IVR-000033,594,33,9.2,7.7,5.0,7.49,HIRE,Maiores voluptatem praesentium iure sit voluptatem hic.,2026-11-13T20:42:52+00:00
+375,FB-INT-2026-000383-IVR-000017,383,17,9.5,5.3,5.3,6.98,HOLD,Illo voluptates ea fugit.,2026-11-10T08:11:57+00:00
+376,FB-INT-2026-000056-IVR-000024,56,24,5.5,7.3,3.9,5.56,HOLD,Veritatis tenetur quaerat vel.,2026-09-08T01:17:22+00:00
+377,FB-INT-2026-000526-IVR-000047,526,47,8.1,3.9,4.0,5.61,HOLD,Nisi magni aperiam impedit vitae ipsam.,2026-11-11T05:39:12+00:00
+378,FB-INT-2026-000181-IVR-000044,181,44,5.0,5.9,9.4,6.59,HOLD,Quia nobis similique ex fugiat.,2026-10-26T12:09:45+00:00
+379,FB-INT-2026-000600-IVR-000039,600,39,6.3,8.7,5.2,6.69,HOLD,Eligendi voluptatum beatae quis.,2026-11-13T23:45:30+00:00
+380,FB-INT-2026-000417-IVR-000003,417,3,7.8,4.0,4.3,5.61,HOLD,Suscipit repudiandae commodi provident beatae similique.,2026-11-06T14:26:16+00:00
+381,FB-INT-2026-000038-IVR-000041,38,41,9.1,8.4,3.6,7.24,HIRE,Eaque praesentium esse repudiandae.,2026-11-13T23:49:35+00:00
+382,FB-INT-2026-000586-IVR-000017,586,17,4.0,3.0,9.0,5.2,HOLD,Eos nam accusamus quibusdam earum repudiandae omnis.,2026-11-13T15:54:50+00:00
+383,FB-INT-2026-000257-IVR-000014,257,14,8.4,9.7,4.5,7.62,HIRE,Enim accusamus maiores debitis.,2026-10-31T11:01:36+00:00
+384,FB-INT-2026-000506-IVR-000004,506,4,9.5,6.8,5.1,7.37,HIRE,Autem iure officiis repellat molestiae dolorum laudantium.,2026-11-13T03:15:06+00:00
+385,FB-INT-2026-000358-IVR-000007,358,7,5.7,9.9,7.0,7.35,HIRE,Error nesciunt ipsa error voluptatibus alias corporis.,2026-11-10T16:53:13+00:00
+386,FB-INT-2026-000306-IVR-000038,306,38,7.5,8.9,6.1,7.5,HIRE,Laboriosam a magnam doloremque.,2026-11-07T00:20:36+00:00
+387,FB-INT-2026-000108-IVR-000013,108,13,4.6,5.4,3.4,4.48,NO_HIRE,Dolorum harum neque enim.,2026-11-01T23:24:13+00:00
+388,FB-INT-2026-000061-IVR-000033,61,33,4.7,4.5,9.8,6.17,HOLD,Provident ut consectetur pariatur assumenda.,2026-10-31T06:00:51+00:00
+389,FB-INT-2026-000196-IVR-000018,196,18,8.9,9.0,8.3,8.75,STRONG_HIRE,Sed eveniet id reiciendis voluptatem.,2026-11-01T04:13:08+00:00
+390,FB-INT-2026-000043-IVR-000031,43,31,3.5,8.2,6.8,5.9,HOLD,Aliquam maiores voluptas magnam provident labore.,2026-08-22T07:25:18+00:00
+391,FB-INT-2026-000269-IVR-000033,269,33,5.2,5.7,3.9,4.96,NO_HIRE,Non expedita aliquid saepe iste laborum.,2026-11-11T20:37:09+00:00
+392,FB-INT-2026-000149-IVR-000019,149,19,7.8,5.6,6.7,6.81,HOLD,Tempora velit possimus.,2026-11-01T12:41:30+00:00
+393,FB-INT-2026-000031-IVR-000047,31,47,4.7,8.9,9.6,7.43,HIRE,Eveniet natus atque occaecati nihil.,2026-10-15T12:46:59+00:00
+394,FB-INT-2026-000035-IVR-000017,35,17,6.6,4.1,3.8,5.01,HOLD,Quas in fugit quidem quasi.,2026-09-08T23:01:25+00:00
+395,FB-INT-2026-000144-IVR-000015,144,15,6.1,4.8,8.5,6.43,HOLD,Sequi odio ipsum soluta.,2026-11-06T08:29:32+00:00
+396,FB-INT-2026-000129-IVR-000022,129,22,5.7,3.8,6.3,5.31,HOLD,Voluptate tempora dicta quia illo.,2026-11-04T06:24:56+00:00
+397,FB-INT-2026-000534-IVR-000004,534,4,9.8,3.8,4.6,6.44,HOLD,Error modi fugiat dicta magni corrupti ipsa nam.,2026-11-11T04:25:54+00:00
+398,FB-INT-2026-000293-IVR-000048,293,48,6.0,5.8,9.7,7.05,HIRE,Distinctio officia occaecati asperiores consectetur illum consequatur.,2026-10-16T07:56:35+00:00
+399,FB-INT-2026-000229-IVR-000022,229,22,9.7,4.4,8.7,7.81,HIRE,Nulla dicta debitis voluptas labore ad.,2026-11-13T08:59:35+00:00
+400,FB-INT-2026-000393-IVR-000047,393,47,8.3,5.9,4.2,6.35,HOLD,Saepe omnis totam cum.,2026-11-11T19:53:26+00:00
+401,FB-INT-2026-000358-IVR-000042,358,42,3.2,7.2,5.9,5.21,HOLD,Impedit perferendis eaque quaerat hic quisquam voluptates.,2026-11-12T07:12:50+00:00
+402,FB-INT-2026-000154-IVR-000041,154,41,5.5,4.4,4.3,4.81,NO_HIRE,Veniam veritatis sapiente libero veritatis doloremque.,2026-11-09T00:36:22+00:00
+403,FB-INT-2026-000273-IVR-000039,273,39,7.4,6.3,9.5,7.7,HIRE,Sint tempore beatae dicta laudantium rem voluptate.,2026-11-13T22:15:10+00:00
+404,FB-INT-2026-000577-IVR-000048,577,48,9.3,3.8,6.8,6.9,HOLD,Consequuntur vel nihil animi numquam temporibus iusto accusantium.,2026-11-12T22:34:23+00:00
+405,FB-INT-2026-000502-IVR-000012,502,12,3.6,5.5,9.1,5.82,HOLD,Occaecati nemo veniam.,2026-11-06T17:12:14+00:00
+406,FB-INT-2026-000291-IVR-000014,291,14,5.6,6.0,7.0,6.14,HOLD,Mollitia ipsum atque omnis corrupti sint et.,2026-11-10T04:50:42+00:00
+407,FB-INT-2026-000245-IVR-000038,245,38,4.9,4.8,3.6,4.48,NO_HIRE,Excepturi pariatur vero nisi numquam voluptate.,2026-11-01T12:08:57+00:00
+408,FB-INT-2026-000477-IVR-000041,477,41,3.5,5.8,3.8,4.28,NO_HIRE,Excepturi minus dolor veniam dolores.,2026-11-11T15:53:26+00:00
+409,FB-INT-2026-000018-IVR-000031,18,31,7.0,8.8,4.5,6.79,HOLD,Expedita consectetur suscipit.,2026-10-31T08:36:22+00:00
+410,FB-INT-2026-000359-IVR-000022,359,22,8.1,9.1,5.6,7.65,HIRE,Deserunt mollitia soluta debitis molestiae minus.,2026-10-23T17:10:08+00:00
+411,FB-INT-2026-000424-IVR-000024,424,24,4.0,5.4,4.2,4.48,NO_HIRE,Porro maxime consectetur harum natus quibusdam.,2026-11-10T11:17:17+00:00
+412,FB-INT-2026-000131-IVR-000009,131,9,7.2,6.1,3.5,5.76,HOLD,Culpa optio nesciunt facilis vitae.,2026-09-24T11:53:53+00:00
+413,FB-INT-2026-000065-IVR-000001,65,1,9.8,4.3,9.7,8.12,STRONG_HIRE,Deleniti aliquid fugiat quisquam recusandae ipsum.,2026-08-07T23:44:54+00:00
+414,FB-INT-2026-000070-IVR-000025,70,25,9.3,7.9,6.0,7.89,HIRE,Nobis dolor quas ut laborum quo omnis.,2026-08-12T00:39:28+00:00
+415,FB-INT-2026-000407-IVR-000020,407,20,8.7,9.9,6.8,8.49,STRONG_HIRE,Id mollitia eos deserunt.,2026-10-28T08:14:22+00:00
+416,FB-INT-2026-000447-IVR-000004,447,4,4.4,4.4,6.4,5.0,HOLD,Nulla vero molestias quam soluta culpa assumenda quod.,2026-11-13T06:04:14+00:00
+417,FB-INT-2026-000182-IVR-000020,182,20,3.7,5.9,7.3,5.44,HOLD,Eius tempora adipisci tenetur blanditiis.,2026-11-11T19:06:24+00:00
+418,FB-INT-2026-000286-IVR-000033,286,33,5.5,9.8,8.3,7.63,HIRE,Tempora animi porro natus vitae magnam incidunt.,2026-11-10T02:14:40+00:00
+419,FB-INT-2026-000010-IVR-000037,10,37,7.7,8.2,3.3,6.53,HOLD,Perspiciatis sit veniam aliquam quis quos.,2026-11-02T09:29:44+00:00
+420,FB-INT-2026-000446-IVR-000039,446,39,5.1,6.6,5.2,5.58,HOLD,Minus deserunt est aspernatur at.,2026-11-12T11:49:22+00:00
+421,FB-INT-2026-000104-IVR-000021,104,21,9.9,6.9,7.1,8.16,STRONG_HIRE,Dolorem tenetur nam in perferendis.,2026-11-01T13:08:17+00:00
+422,FB-INT-2026-000314-IVR-000020,314,20,9.4,7.0,8.2,8.32,STRONG_HIRE,Temporibus cumque dolore tempora.,2026-10-22T23:27:56+00:00
+423,FB-INT-2026-000439-IVR-000024,439,24,8.4,6.6,7.4,7.56,HIRE,Ullam dolore delectus suscipit aspernatur iusto sapiente.,2026-11-12T08:08:17+00:00
+424,FB-INT-2026-000494-IVR-000037,494,37,5.4,4.1,7.1,5.52,HOLD,Illum suscipit non repellendus totam.,2026-11-12T01:28:44+00:00
+425,FB-INT-2026-000165-IVR-000011,165,11,6.6,7.3,4.9,6.3,HOLD,Ipsum velit mollitia.,2026-10-07T05:17:57+00:00
+426,FB-INT-2026-000182-IVR-000031,182,31,8.1,5.2,4.8,6.24,HOLD,Tenetur ducimus commodi.,2026-11-04T13:13:46+00:00
+427,FB-INT-2026-000013-IVR-000012,13,12,7.8,9.5,6.8,8.01,STRONG_HIRE,Sequi eaque id beatae esse laborum.,2026-06-20T00:44:58+00:00
+428,FB-INT-2026-000415-IVR-000025,415,25,9.9,6.9,3.4,7.05,HIRE,Quod unde architecto eveniet pariatur autem.,2026-11-11T23:06:14+00:00
+429,FB-INT-2026-000558-IVR-000039,558,39,7.2,9.0,8.0,7.98,HIRE,Qui esse animi vel amet eaque.,2026-11-12T07:49:01+00:00
+430,FB-INT-2026-000184-IVR-000038,184,38,8.1,9.5,8.1,8.52,STRONG_HIRE,Quaerat nisi doloribus blanditiis.,2026-10-31T20:56:15+00:00
+431,FB-INT-2026-000008-IVR-000024,8,24,8.8,5.2,7.2,7.24,HIRE,Placeat esse rem ut delectus impedit qui fugit.,2026-09-04T01:10:17+00:00
+432,FB-INT-2026-000171-IVR-000019,171,19,5.0,6.6,7.5,6.23,HOLD,Ab ipsa voluptates soluta nihil.,2026-11-09T03:48:26+00:00
+433,FB-INT-2026-000313-IVR-000048,313,48,9.1,9.7,6.5,8.5,STRONG_HIRE,Illo vero provident quia nemo expedita.,2026-11-11T14:06:09+00:00
+434,FB-INT-2026-000058-IVR-000036,58,36,3.8,8.7,9.1,6.86,HOLD,Ducimus natus pariatur aliquam iste.,2026-09-21T15:24:17+00:00
+435,FB-INT-2026-000341-IVR-000020,341,20,9.1,9.7,5.7,8.26,STRONG_HIRE,Ratione earum neque hic maiores earum provident reiciendis.,2026-10-24T01:25:05+00:00
+436,FB-INT-2026-000278-IVR-000015,278,15,5.4,7.0,9.2,7.02,HIRE,Incidunt tempora dignissimos ipsam officia.,2026-11-02T06:35:12+00:00
+437,FB-INT-2026-000135-IVR-000022,135,22,9.9,6.3,8.1,8.28,STRONG_HIRE,Necessitatibus nostrum quaerat accusamus eum laudantium.,2026-11-01T14:24:50+00:00
+438,FB-INT-2026-000384-IVR-000006,384,6,4.3,8.3,8.4,6.73,HOLD,Nulla atque commodi ipsum.,2026-11-09T00:14:20+00:00
+439,FB-INT-2026-000015-IVR-000013,15,13,3.2,9.7,7.4,6.41,HOLD,Tempore pariatur sunt unde temporibus impedit quasi.,2026-11-11T16:52:37+00:00
+440,FB-INT-2026-000434-IVR-000020,434,20,8.3,6.7,6.9,7.4,HIRE,Quis voluptates quos distinctio enim delectus.,2026-11-09T11:21:13+00:00
+441,FB-INT-2026-000321-IVR-000003,321,3,8.3,6.8,7.7,7.67,HIRE,Maiores facilis dolor.,2026-11-12T16:48:42+00:00
+442,FB-INT-2026-000063-IVR-000010,63,10,6.2,8.2,4.7,6.35,HOLD,Id unde nisi voluptatem illum neque aspernatur.,2026-10-31T20:11:26+00:00
+443,FB-INT-2026-000568-IVR-000019,568,19,7.9,9.0,9.8,8.8,STRONG_HIRE,Aspernatur cupiditate dolorum fugiat nulla.,2026-11-13T02:24:41+00:00
+444,FB-INT-2026-000317-IVR-000023,317,23,8.1,6.8,5.1,6.81,HOLD,Adipisci nobis itaque rem deleniti.,2026-11-09T11:42:37+00:00
+445,FB-INT-2026-000271-IVR-000017,271,17,4.1,8.2,4.5,5.45,HOLD,Culpa vitae at quod dicta eos.,2026-11-03T19:16:07+00:00
+446,FB-INT-2026-000074-IVR-000025,74,25,7.9,3.9,4.7,5.74,HOLD,In iure error nihil ipsam quia velit dolor.,2026-11-13T14:50:39+00:00
+447,FB-INT-2026-000524-IVR-000008,524,8,3.1,7.3,4.2,4.69,NO_HIRE,Explicabo repellendus magni dolor quaerat aut.,2026-11-13T17:17:41+00:00
+448,FB-INT-2026-000565-IVR-000032,565,32,6.0,6.4,8.3,6.81,HOLD,Expedita deleniti ab vero.,2026-11-13T09:44:42+00:00
+449,FB-INT-2026-000457-IVR-000039,457,39,9.7,4.4,7.8,7.54,HIRE,Nemo quod corrupti quis nihil ullam debitis.,2026-11-02T16:12:22+00:00
+450,FB-INT-2026-000350-IVR-000010,350,10,7.4,5.0,6.6,6.44,HOLD,Exercitationem beatae illo odit doloremque atque expedita provident.,2026-11-08T04:58:17+00:00
+451,FB-INT-2026-000069-IVR-000029,69,29,7.8,4.7,6.0,6.33,HOLD,Veritatis recusandae soluta aliquam impedit.,2026-09-18T04:35:03+00:00
+452,FB-INT-2026-000406-IVR-000032,406,32,9.7,6.6,7.2,8.02,STRONG_HIRE,Eum nesciunt quidem voluptatem magnam est illo veniam.,2026-11-11T11:26:35+00:00
+453,FB-INT-2026-000396-IVR-000019,396,19,4.0,9.4,7.7,6.73,HOLD,Accusamus adipisci iure corrupti praesentium neque.,2026-11-09T03:17:26+00:00
+454,FB-INT-2026-000264-IVR-000037,264,37,5.1,6.0,5.2,5.4,HOLD,Sint aliquam veritatis exercitationem incidunt similique.,2026-10-31T03:41:04+00:00
+455,FB-INT-2026-000033-IVR-000031,33,31,9.8,4.3,6.8,7.25,HIRE,Velit eligendi veritatis unde minus blanditiis.,2026-10-31T17:29:57+00:00
+456,FB-INT-2026-000195-IVR-000042,195,42,6.4,3.8,9.7,6.61,HOLD,Aliquam minima est commodi ex ducimus pariatur saepe.,2026-10-10T23:49:58+00:00
+457,FB-INT-2026-000032-IVR-000033,32,33,3.7,4.0,7.0,4.78,NO_HIRE,Est animi numquam aliquam.,2026-09-17T22:39:46+00:00
+458,FB-INT-2026-000045-IVR-000001,45,1,5.8,7.4,6.1,6.37,HOLD,Necessitatibus in reprehenderit a voluptates veritatis vitae minus.,2026-11-13T07:46:22+00:00
+459,FB-INT-2026-000272-IVR-000046,272,46,5.9,7.4,9.4,7.4,HIRE,Dignissimos ipsam placeat.,2026-11-11T01:24:41+00:00
+460,FB-INT-2026-000055-IVR-000039,55,39,9.5,6.2,9.1,8.39,STRONG_HIRE,Dignissimos ducimus architecto praesentium doloribus voluptas error dolor.,2026-11-06T05:41:49+00:00
+461,FB-INT-2026-000211-IVR-000008,211,8,8.4,5.7,4.9,6.54,HOLD,Repellendus pariatur labore quae illo quam.,2026-11-12T18:19:07+00:00
+462,FB-INT-2026-000227-IVR-000008,227,8,9.4,6.9,5.9,7.6,HIRE,Hic et vel officiis facere cum.,2026-11-04T07:44:27+00:00
+463,FB-INT-2026-000459-IVR-000031,459,31,8.3,8.3,4.0,7.01,HIRE,Earum expedita perferendis excepturi eius iste.,2026-11-11T10:48:21+00:00
+464,FB-INT-2026-000335-IVR-000032,335,32,5.5,3.4,9.0,5.92,HOLD,Nulla veniam quisquam est sint fugiat.,2026-11-05T18:45:14+00:00
+465,FB-INT-2026-000030-IVR-000038,30,38,3.0,4.5,7.3,4.74,NO_HIRE,Distinctio ex accusantium animi ea officiis debitis.,2026-10-11T02:09:04+00:00
+466,FB-INT-2026-000113-IVR-000049,113,49,6.7,5.5,5.6,6.01,HOLD,Labore sint praesentium excepturi praesentium officia.,2026-11-02T09:05:59+00:00
+467,FB-INT-2026-000433-IVR-000020,433,20,9.9,7.2,8.1,8.55,STRONG_HIRE,Cumque libero animi similique illo animi.,2026-11-11T02:52:06+00:00
+468,FB-INT-2026-000381-IVR-000043,381,43,9.7,7.3,7.0,8.17,STRONG_HIRE,Ea cum ut nesciunt odio.,2026-10-30T12:14:28+00:00
+469,FB-INT-2026-000308-IVR-000019,308,19,6.7,5.2,3.4,5.26,HOLD,Ducimus magni natus rem esse.,2026-11-06T20:20:27+00:00
+470,FB-INT-2026-000598-IVR-000018,598,18,7.5,7.3,6.4,7.11,HIRE,Nisi accusamus nostrum praesentium soluta neque autem.,2026-11-13T23:33:10+00:00
+471,FB-INT-2026-000240-IVR-000003,240,3,4.9,9.1,9.4,7.51,HIRE,Consequuntur dicta excepturi ipsum ipsa quis exercitationem.,2026-09-24T23:07:05+00:00
+472,FB-INT-2026-000266-IVR-000008,266,8,5.7,6.8,8.1,6.75,HOLD,Officiis quia autem nisi tempora.,2026-10-03T16:00:03+00:00
+473,FB-INT-2026-000451-IVR-000017,451,17,7.9,5.8,6.1,6.73,HOLD,Id corrupti praesentium natus aliquid molestias fugiat.,2026-11-13T10:20:04+00:00
+474,FB-INT-2026-000136-IVR-000046,136,46,7.6,8.8,4.3,6.97,HOLD,Molestias esse saepe quisquam voluptatem voluptatem.,2026-10-22T13:07:14+00:00
+475,FB-INT-2026-000430-IVR-000027,430,27,5.5,6.2,3.2,5.02,HOLD,Amet eos tempore corporis.,2026-11-12T18:39:51+00:00
+476,FB-INT-2026-000580-IVR-000027,580,27,5.4,7.4,3.3,5.37,HOLD,Occaecati eveniet porro quis modi delectus aspernatur.,2026-11-13T17:45:43+00:00
+477,FB-INT-2026-000522-IVR-000048,522,48,8.5,8.1,4.4,7.15,HIRE,Incidunt aliquam itaque accusantium.,2026-11-12T04:07:44+00:00
+478,FB-INT-2026-000036-IVR-000048,36,48,4.6,6.0,7.0,5.74,HOLD,Debitis suscipit nemo nihil.,2026-09-10T08:45:59+00:00
+479,FB-INT-2026-000086-IVR-000002,86,2,5.4,9.3,9.4,7.77,HIRE,Exercitationem delectus accusantium eius blanditiis necessitatibus.,2026-11-05T19:00:01+00:00
+480,FB-INT-2026-000295-IVR-000013,295,13,5.3,9.1,5.6,6.53,HOLD,Possimus occaecati magni ut occaecati consectetur.,2026-10-20T21:09:26+00:00
+481,FB-INT-2026-000462-IVR-000012,462,12,6.8,6.6,6.5,6.65,HOLD,Reiciendis quasi cum ducimus molestias corporis temporibus.,2026-11-13T16:41:39+00:00
+482,FB-INT-2026-000510-IVR-000008,510,8,3.3,6.9,4.2,4.65,NO_HIRE,Laboriosam rerum rem magnam exercitationem ex.,2026-11-13T21:44:59+00:00
+483,FB-INT-2026-000459-IVR-000030,459,30,4.8,7.9,4.8,5.73,HOLD,Iusto magnam inventore quos exercitationem.,2026-11-04T05:09:35+00:00
+484,FB-INT-2026-000208-IVR-000004,208,4,4.8,4.9,3.7,4.5,NO_HIRE,Neque perspiciatis officiis aperiam repudiandae quibusdam.,2026-11-11T13:40:39+00:00
+485,FB-INT-2026-000309-IVR-000010,309,10,5.7,6.7,4.0,5.49,HOLD,Saepe voluptatum eligendi officiis voluptatum eos nam.,2026-10-12T04:14:14+00:00
+486,FB-INT-2026-000465-IVR-000047,465,47,9.4,7.0,6.7,7.87,HIRE,Molestiae quia ducimus tempora suscipit.,2026-11-12T11:37:04+00:00
+487,FB-INT-2026-000026-IVR-000038,26,38,7.1,8.7,6.8,7.49,HIRE,Placeat explicabo repellat similique alias necessitatibus.,2026-11-11T21:29:03+00:00
+488,FB-INT-2026-000225-IVR-000001,225,1,6.4,3.5,6.4,5.53,HOLD,Minus consectetur recusandae sed amet.,2026-11-07T08:21:29+00:00
+489,FB-INT-2026-000548-IVR-000027,548,27,3.1,6.3,6.8,5.17,HOLD,In molestiae ullam at magni aliquam.,2026-11-11T07:43:19+00:00
+490,FB-INT-2026-000423-IVR-000031,423,31,3.9,7.7,8.7,6.48,HOLD,Repudiandae odit in neque recusandae aut explicabo.,2026-11-12T06:13:16+00:00
+491,FB-INT-2026-000222-IVR-000021,222,21,8.3,7.3,3.3,6.5,HOLD,Ullam esse ab aliquam.,2026-10-17T14:19:07+00:00
+492,FB-INT-2026-000282-IVR-000004,282,4,3.4,7.0,5.8,5.2,HOLD,Assumenda quas corporis voluptatem dolores.,2026-11-05T13:12:11+00:00
+493,FB-INT-2026-000419-IVR-000002,419,2,9.2,5.7,5.5,7.04,HIRE,Assumenda possimus alias officiis rem.,2026-11-13T09:25:54+00:00
+494,FB-INT-2026-000327-IVR-000030,327,30,3.8,5.9,9.4,6.11,HOLD,Consectetur ducimus aspernatur tempora.,2026-11-12T18:59:24+00:00
+495,FB-INT-2026-000099-IVR-000011,99,11,5.2,5.1,5.4,5.23,HOLD,Amet nostrum recusandae.,2026-11-08T23:45:44+00:00
+496,FB-INT-2026-000499-IVR-000022,499,22,8.2,5.5,4.4,6.25,HOLD,Nulla eos iure iusto occaecati dignissimos.,2026-11-13T19:36:36+00:00
+497,FB-INT-2026-000281-IVR-000041,281,41,7.3,9.7,8.6,8.41,STRONG_HIRE,A maiores debitis nesciunt maiores nihil.,2026-11-02T22:00:45+00:00
+498,FB-INT-2026-000567-IVR-000016,567,16,6.3,6.1,5.2,5.91,HOLD,Corporis ullam dolorum accusantium omnis a quisquam.,2026-11-13T01:31:32+00:00
+499,FB-INT-2026-000125-IVR-000049,125,49,6.3,8.5,9.1,7.8,HIRE,Quod placeat adipisci id.,2026-10-29T18:15:17+00:00
+500,FB-INT-2026-000508-IVR-000038,508,38,7.8,6.6,3.2,6.06,HOLD,Sint in dolor quaerat perferendis dolores.,2026-11-12T05:49:00+00:00
+501,FB-INT-2026-000437-IVR-000013,437,13,3.0,5.6,4.9,4.35,NO_HIRE,Nobis ratione nemo facilis voluptas.,2026-10-30T10:41:49+00:00
+502,FB-INT-2026-000021-IVR-000049,21,49,6.1,6.2,6.1,6.13,HOLD,Expedita alias aperiam incidunt neque error.,2026-08-26T01:18:09+00:00
+503,FB-INT-2026-000234-IVR-000015,234,15,8.1,3.2,4.5,5.55,HOLD,Vero sapiente cupiditate cupiditate id sequi quos.,2026-11-13T23:20:50+00:00
+504,FB-INT-2026-000373-IVR-000015,373,15,7.1,5.3,3.5,5.48,HOLD,Et veniam impedit.,2026-10-18T14:11:14+00:00
+505,FB-INT-2026-000015-IVR-000040,15,40,9.0,5.2,8.9,7.83,HIRE,Odit architecto odio.,2026-11-13T14:37:52+00:00
+506,FB-INT-2026-000258-IVR-000048,258,48,7.9,8.2,7.0,7.72,HIRE,Nisi officiis nihil error qui.,2026-11-13T06:18:20+00:00
+507,FB-INT-2026-000585-IVR-000011,585,11,7.5,7.1,9.5,7.98,HIRE,Ea occaecati doloremque.,2026-11-13T21:20:39+00:00
+508,FB-INT-2026-000269-IVR-000021,269,21,3.0,4.7,6.7,4.62,NO_HIRE,Eius maiores provident modi vero esse eaque doloribus.,2026-11-07T05:40:04+00:00
+509,FB-INT-2026-000411-IVR-000019,411,19,3.3,3.3,7.7,4.62,NO_HIRE,Cum ipsum veritatis molestiae earum beatae saepe.,2026-11-05T07:02:48+00:00
+510,FB-INT-2026-000594-IVR-000010,594,10,4.5,7.2,7.8,6.3,HOLD,Nobis velit iste ad nemo fuga.,2026-11-13T18:54:07+00:00
+511,FB-INT-2026-000480-IVR-000022,480,22,6.9,3.2,9.4,6.54,HOLD,Sunt repudiandae laborum quos rerum facilis repudiandae.,2026-11-09T20:32:27+00:00
+512,FB-INT-2026-000254-IVR-000008,254,8,7.0,8.8,9.2,8.2,STRONG_HIRE,Totam natus minus perferendis corporis tempora aliquam.,2026-10-28T06:06:46+00:00
+513,FB-INT-2026-000103-IVR-000007,103,7,7.2,4.8,5.2,5.88,HOLD,Et veniam praesentium iusto voluptates.,2026-11-07T07:13:22+00:00
+514,FB-INT-2026-000412-IVR-000044,412,44,5.4,3.2,3.8,4.26,NO_HIRE,Eligendi temporibus temporibus.,2026-11-11T00:58:45+00:00
+515,FB-INT-2026-000377-IVR-000020,377,20,8.9,5.8,4.3,6.59,HOLD,Fugiat iste porro rerum quia.,2026-10-31T09:08:03+00:00
+516,FB-INT-2026-000346-IVR-000044,346,44,5.5,3.8,8.2,5.8,HOLD,Consequatur aspernatur natus officia quas.,2026-11-11T17:45:07+00:00
+517,FB-INT-2026-000123-IVR-000024,123,24,9.3,6.8,6.8,7.8,HIRE,Earum itaque voluptatum eveniet distinctio mollitia ullam.,2026-11-04T06:48:30+00:00
+518,FB-INT-2026-000021-IVR-000014,21,14,6.1,8.4,4.7,6.37,HOLD,Distinctio error totam eum.,2026-07-02T19:00:02+00:00
+519,FB-INT-2026-000493-IVR-000030,493,30,3.3,9.1,8.3,6.54,HOLD,Voluptatibus odio facilis recusandae perspiciatis adipisci perspiciatis itaque.,2026-11-10T20:14:35+00:00
+520,FB-INT-2026-000463-IVR-000032,463,32,7.7,9.2,6.5,7.79,HIRE,Tempore facilis ad sequi nulla.,2026-11-03T06:29:26+00:00
+521,FB-INT-2026-000147-IVR-000017,147,17,3.4,9.7,3.3,5.26,HOLD,Facilis soluta enim eos.,2026-11-06T05:53:31+00:00
+522,FB-INT-2026-000467-IVR-000002,467,2,7.6,3.0,5.2,5.5,HOLD,Reiciendis quod repellendus hic officiis deserunt itaque.,2026-11-09T22:32:40+00:00
+523,FB-INT-2026-000440-IVR-000019,440,19,7.8,3.6,5.8,5.94,HOLD,Animi fugiat neque ut.,2026-11-05T13:37:19+00:00
+524,FB-INT-2026-000055-IVR-000021,55,21,9.3,8.4,6.4,8.16,STRONG_HIRE,Libero earum repellendus veritatis veniam unde.,2026-11-09T01:20:40+00:00
+525,FB-INT-2026-000398-IVR-000006,398,6,9.6,5.0,8.3,7.83,HIRE,Recusandae necessitatibus consequatur ut quibusdam.,2026-11-07T14:46:37+00:00
+526,FB-INT-2026-000025-IVR-000031,25,31,7.3,9.7,3.9,7.0,HIRE,Voluptate ad laborum sit soluta deleniti ipsa.,2026-09-24T06:08:49+00:00
+527,FB-INT-2026-000482-IVR-000012,482,12,6.8,4.2,8.2,6.44,HOLD,Voluptatum quae voluptatibus cupiditate asperiores tempore natus ex.,2026-11-08T17:41:58+00:00
+528,FB-INT-2026-000252-IVR-000020,252,20,8.4,3.6,7.2,6.6,HOLD,Eius debitis a incidunt.,2026-11-07T06:57:07+00:00
+529,FB-INT-2026-000489-IVR-000039,489,39,8.0,8.0,8.6,8.18,STRONG_HIRE,Harum sunt provident tenetur.,2026-11-09T04:31:26+00:00
+530,FB-INT-2026-000546-IVR-000039,546,39,8.8,8.3,4.7,7.42,HIRE,Repudiandae incidunt cumque.,2026-11-13T15:06:38+00:00
+531,FB-INT-2026-000260-IVR-000033,260,33,6.8,9.5,3.9,6.74,HOLD,Molestias sed architecto autem dolorum officia ad.,2026-10-27T04:05:59+00:00
+532,FB-INT-2026-000519-IVR-000025,519,25,7.9,9.1,5.4,7.51,HIRE,Nulla libero ea odit.,2026-11-08T05:42:33+00:00
+533,FB-INT-2026-000310-IVR-000003,310,3,9.0,6.3,7.6,7.77,HIRE,Tenetur incidunt esse cumque id hic ad libero.,2026-11-13T00:34:30+00:00
+534,FB-INT-2026-000368-IVR-000016,368,16,6.4,8.6,6.7,7.15,HIRE,Laboriosam labore soluta tempora modi minus natus.,2026-10-29T22:50:49+00:00
+535,FB-INT-2026-000340-IVR-000038,340,38,6.6,6.4,9.9,7.53,HIRE,Fuga incidunt nam exercitationem fugiat.,2026-10-14T04:00:56+00:00
+536,FB-INT-2026-000534-IVR-000019,534,19,8.9,4.7,3.0,5.87,HOLD,Ipsa esse ab autem architecto.,2026-11-11T22:18:58+00:00
+537,FB-INT-2026-000525-IVR-000046,525,46,9.5,6.9,7.5,8.12,STRONG_HIRE,Occaecati veniam omnis quia.,2026-11-11T13:02:27+00:00
+538,FB-INT-2026-000528-IVR-000016,528,16,5.4,3.2,5.4,4.74,NO_HIRE,Esse facere aspernatur sint dicta eaque quasi.,2026-11-10T20:44:56+00:00
+539,FB-INT-2026-000329-IVR-000046,329,46,6.1,6.4,9.5,7.21,HIRE,Quis corporis quod culpa omnis dicta asperiores.,2026-11-01T22:54:00+00:00
+540,FB-INT-2026-000563-IVR-000031,563,31,8.0,4.9,8.7,7.28,HIRE,Asperiores totam officiis cupiditate libero qui.,2026-11-13T12:12:13+00:00
+541,FB-INT-2026-000584-IVR-000003,584,3,4.0,6.4,5.9,5.29,HOLD,Repellat sit porro aut facilis.,2026-11-13T16:33:43+00:00
+542,FB-INT-2026-000527-IVR-000048,527,48,4.0,9.2,9.1,7.09,HIRE,Eveniet aperiam ullam asperiores.,2026-11-08T22:25:22+00:00
+543,FB-INT-2026-000516-IVR-000001,516,1,8.3,3.4,7.7,6.65,HOLD,Voluptate vero id iste dolore veniam.,2026-11-07T14:10:21+00:00
+544,FB-INT-2026-000156-IVR-000049,156,49,8.6,9.2,4.4,7.52,HIRE,Molestiae magnam sunt sed beatae a.,2026-09-22T04:59:40+00:00
+545,FB-INT-2026-000030-IVR-000009,30,9,4.3,4.7,4.6,4.51,NO_HIRE,Vitae ab debitis dolores facere explicabo.,2026-10-25T14:38:46+00:00
+546,FB-INT-2026-000413-IVR-000032,413,32,7.0,3.6,7.0,5.98,HOLD,Veniam neque deleniti ex qui maiores eius.,2026-11-10T03:30:38+00:00
+547,FB-INT-2026-000164-IVR-000015,164,15,6.3,5.3,4.1,5.34,HOLD,Numquam aliquam hic assumenda.,2026-09-27T09:19:33+00:00
+548,FB-INT-2026-000078-IVR-000029,78,29,6.4,6.2,4.5,5.77,HOLD,Tempora iste cum cum culpa.,2026-11-13T00:40:36+00:00
+549,FB-INT-2026-000402-IVR-000016,402,16,5.7,5.4,8.7,6.51,HOLD,Eveniet rerum nemo quod id.,2026-10-29T16:26:12+00:00
+550,FB-INT-2026-000126-IVR-000043,126,43,9.8,8.9,9.6,9.47,STRONG_HIRE,Enim eos voluptatem odio.,2026-10-07T17:11:09+00:00
+551,FB-INT-2026-000445-IVR-000038,445,38,4.1,7.2,9.1,6.53,HOLD,Repudiandae doloremque illo quis iste enim corrupti ullam.,2026-11-10T14:17:29+00:00
+552,FB-INT-2026-000179-IVR-000017,179,17,9.3,3.9,6.9,6.96,HOLD,Reprehenderit minus ipsa perferendis ad nostrum.,2026-10-30T07:04:00+00:00
+553,FB-INT-2026-000470-IVR-000017,470,17,8.4,9.7,3.3,7.26,HIRE,Rerum quibusdam sed esse dolores maxime ab.,2026-11-10T12:24:21+00:00
+554,FB-INT-2026-000288-IVR-000017,288,17,9.7,4.9,6.2,7.21,HIRE,Nulla dolorum dignissimos voluptate aperiam possimus voluptas.,2026-11-12T01:14:13+00:00
+555,FB-INT-2026-000008-IVR-000036,8,36,9.4,7.3,9.9,8.92,STRONG_HIRE,Deleniti iste nobis hic.,2026-07-30T07:04:22+00:00
+556,FB-INT-2026-000425-IVR-000004,425,4,7.8,4.8,9.5,7.41,HIRE,Sunt ut incidunt eaque iure corporis officiis.,2026-10-31T07:31:13+00:00
+557,FB-INT-2026-000542-IVR-000007,542,7,9.2,5.7,4.5,6.74,HOLD,Autem at nesciunt eius.,2026-11-13T04:19:22+00:00
+558,FB-INT-2026-000386-IVR-000022,386,22,3.8,7.7,5.2,5.39,HOLD,Omnis in veritatis labore distinctio quaerat.,2026-10-23T07:22:53+00:00
+559,FB-INT-2026-000116-IVR-000042,116,42,8.1,9.4,9.5,8.91,STRONG_HIRE,Facere fugit quidem.,2026-11-06T13:07:43+00:00
+560,FB-INT-2026-000232-IVR-000022,232,22,7.6,8.5,4.6,6.97,HOLD,Natus officia consequatur et earum accusantium.,2026-11-07T12:43:16+00:00
+561,FB-INT-2026-000039-IVR-000049,39,49,4.3,9.3,6.3,6.4,HOLD,Provident officiis iusto ut.,2026-10-08T22:04:58+00:00
+562,FB-INT-2026-000469-IVR-000019,469,19,7.3,7.3,7.1,7.24,HIRE,Est eius saepe reprehenderit dolorum porro.,2026-11-10T03:12:41+00:00
+563,FB-INT-2026-000048-IVR-000010,48,10,7.9,6.4,6.1,6.91,HOLD,Consectetur facilis vitae sequi.,2026-09-01T14:34:28+00:00
+564,FB-INT-2026-000287-IVR-000024,287,24,7.2,8.4,9.2,8.16,STRONG_HIRE,Reprehenderit at molestiae nihil.,2026-10-21T04:01:13+00:00
+565,FB-INT-2026-000550-IVR-000023,550,23,6.5,5.4,5.9,5.99,HOLD,Magnam porro tenetur fuga aliquid perspiciatis impedit.,2026-11-13T13:39:05+00:00
+566,FB-INT-2026-000218-IVR-000022,218,22,6.2,7.1,5.8,6.35,HOLD,Dolor dolore odio.,2026-10-24T20:24:48+00:00
+567,FB-INT-2026-000337-IVR-000039,337,39,4.6,8.5,8.0,6.79,HOLD,Recusandae assumenda perspiciatis eligendi ipsum quas optio.,2026-11-13T03:39:52+00:00
+568,FB-INT-2026-000156-IVR-000018,156,18,4.4,4.1,8.4,5.51,HOLD,Totam itaque facilis magni voluptatibus reprehenderit.,2026-10-21T21:12:22+00:00
+569,FB-INT-2026-000561-IVR-000009,561,9,8.4,5.8,7.1,7.23,HIRE,Itaque culpa soluta esse maxime explicabo.,2026-11-13T14:45:31+00:00
+570,FB-INT-2026-000110-IVR-000038,110,38,7.1,5.6,3.4,5.54,HOLD,Facere optio dolorem eaque sed exercitationem inventore.,2026-09-20T20:40:54+00:00
+571,FB-INT-2026-000573-IVR-000017,573,17,9.5,3.6,3.5,5.93,HOLD,Neque laborum maiores possimus earum cumque.,2026-11-12T18:26:10+00:00
+572,FB-INT-2026-000281-IVR-000033,281,33,7.2,6.7,3.6,5.97,HOLD,Voluptatibus corporis ipsum necessitatibus maiores nisi expedita.,2026-11-02T11:48:59+00:00
+573,FB-INT-2026-000378-IVR-000006,378,6,5.5,4.2,5.2,5.02,HOLD,Repellat nesciunt ab corrupti culpa totam.,2026-10-29T12:33:52+00:00
+574,FB-INT-2026-000095-IVR-000031,95,31,4.0,5.4,4.6,4.6,NO_HIRE,Voluptatem voluptatum fuga reiciendis eligendi esse.,2026-07-16T22:49:42+00:00
+575,FB-INT-2026-000457-IVR-000031,457,31,7.8,8.6,4.4,7.02,HIRE,Corporis beatae consequuntur voluptas mollitia vero reprehenderit.,2026-11-01T01:45:21+00:00
+576,FB-INT-2026-000056-IVR-000013,56,13,6.5,7.7,8.5,7.46,HIRE,Aspernatur rem fugiat repellendus error quaerat.,2026-07-28T05:37:13+00:00
+577,FB-INT-2026-000299-IVR-000016,299,16,8.0,9.4,8.9,8.69,STRONG_HIRE,Temporibus sit asperiores corrupti tempore quibusdam dignissimos.,2026-10-12T00:18:33+00:00
+578,FB-INT-2026-000026-IVR-000039,26,39,6.9,4.7,9.2,6.93,HOLD,Voluptate nulla quaerat ducimus eum.,2026-11-02T08:54:52+00:00
+579,FB-INT-2026-000497-IVR-000016,497,16,5.7,4.1,4.6,4.89,NO_HIRE,Quod dignissimos perferendis nostrum harum mollitia neque quaerat.,2026-11-08T19:28:32+00:00
+580,FB-INT-2026-000084-IVR-000041,84,41,6.5,8.7,6.1,7.04,HIRE,Sunt adipisci reiciendis molestias similique quo culpa sint.,2026-09-29T08:57:49+00:00
+581,FB-INT-2026-000118-IVR-000024,118,24,6.3,7.8,9.1,7.59,HIRE,Quia nostrum atque eligendi porro sint natus beatae.,2026-11-09T17:44:32+00:00
+582,FB-INT-2026-000230-IVR-000021,230,21,4.6,5.2,6.9,5.47,HOLD,Delectus at debitis quisquam quibusdam.,2026-10-28T00:51:56+00:00
+583,FB-INT-2026-000127-IVR-000004,127,4,4.8,5.6,6.6,5.58,HOLD,Beatae voluptate sit amet dolore adipisci tempora.,2026-11-08T09:49:50+00:00
+584,FB-INT-2026-000388-IVR-000022,388,22,6.7,8.2,4.5,6.49,HOLD,Cupiditate soluta recusandae sit dignissimos nobis.,2026-11-12T05:15:16+00:00
+585,FB-INT-2026-000150-IVR-000016,150,16,8.5,3.9,8.2,7.03,HIRE,Nobis nulla nobis asperiores explicabo eligendi sapiente.,2026-11-11T06:01:31+00:00
+586,FB-INT-2026-000065-IVR-000038,65,38,6.8,6.4,3.6,5.72,HOLD,Illum aliquam praesentium debitis ullam expedita.,2026-09-27T11:26:53+00:00
+587,FB-INT-2026-000308-IVR-000038,308,38,4.8,6.4,7.2,6.0,HOLD,Asperiores sit saepe alias.,2026-11-12T20:42:13+00:00
+588,FB-INT-2026-000153-IVR-000011,153,11,4.9,7.0,4.9,5.53,HOLD,Molestiae odit architecto illum enim.,2026-11-09T11:48:45+00:00
+589,FB-INT-2026-000152-IVR-000036,152,36,4.4,8.2,9.2,6.98,HOLD,Laboriosam velit iusto non illo corporis vel.,2026-09-20T01:33:53+00:00
+590,FB-INT-2026-000307-IVR-000001,307,1,7.6,4.3,3.4,5.35,HOLD,Quis quia nesciunt.,2026-11-03T16:57:04+00:00
+591,FB-INT-2026-000598-IVR-000006,598,6,3.8,5.8,8.1,5.69,HOLD,Doloribus ipsam quae.,2026-11-13T23:45:13+00:00
+592,FB-INT-2026-000450-IVR-000047,450,47,6.1,9.1,5.1,6.7,HOLD,Dicta soluta placeat vero.,2026-11-11T22:22:20+00:00
+593,FB-INT-2026-000173-IVR-000013,173,13,8.1,3.4,3.4,5.28,HOLD,Quod laudantium voluptatum ea tenetur aperiam nesciunt.,2026-10-09T22:15:18+00:00
+594,FB-INT-2026-000226-IVR-000008,226,8,6.2,8.0,8.2,7.34,HIRE,Vitae dolor necessitatibus laborum cupiditate omnis.,2026-09-27T16:26:20+00:00
+595,FB-INT-2026-000590-IVR-000048,590,48,9.3,4.5,3.2,6.03,HOLD,Perferendis perferendis minima fugiat quasi nulla.,2026-11-13T22:59:01+00:00
+596,FB-INT-2026-000541-IVR-000007,541,7,9.9,10.0,6.6,8.94,STRONG_HIRE,Corporis asperiores voluptate quam.,2026-11-08T17:53:08+00:00
+597,FB-INT-2026-000570-IVR-000004,570,4,4.9,4.6,7.0,5.44,HOLD,Repudiandae iste ratione natus.,2026-11-13T01:52:05+00:00
+598,FB-INT-2026-000171-IVR-000042,171,42,4.4,5.7,6.5,5.42,HOLD,Magnam consequuntur rerum id a earum.,2026-10-09T19:13:51+00:00
+599,FB-INT-2026-000579-IVR-000039,579,39,5.6,7.3,3.2,5.39,HOLD,Quam modi voluptatibus repellendus tenetur ea earum aperiam.,2026-11-12T18:33:46+00:00
+600,FB-INT-2026-000211-IVR-000020,211,20,6.1,6.7,6.2,6.31,HOLD,Architecto nobis nam quia nostrum.,2026-11-10T11:31:37+00:00
+601,FB-INT-2026-000554-IVR-000003,554,3,5.0,8.5,8.9,7.22,HIRE,Facilis sapiente blanditiis distinctio dolores laudantium.,2026-11-12T23:51:03+00:00
+602,FB-INT-2026-000365-IVR-000049,365,49,3.3,3.2,7.5,4.53,NO_HIRE,Beatae veniam placeat corporis facilis.,2026-11-13T10:48:16+00:00
+603,FB-INT-2026-000020-IVR-000049,20,49,9.5,7.3,3.8,7.13,HIRE,Sint aliquid fugit eius adipisci sint error maiores.,2026-09-12T09:08:38+00:00
+604,FB-INT-2026-000360-IVR-000003,360,3,5.7,6.4,7.1,6.33,HOLD,Et consequatur at veritatis.,2026-10-31T01:40:23+00:00
+605,FB-INT-2026-000449-IVR-000029,449,29,9.8,7.8,5.1,7.79,HIRE,Expedita distinctio maiores quas quas voluptas.,2026-11-11T08:03:18+00:00
+606,FB-INT-2026-000560-IVR-000049,560,49,9.6,7.0,3.4,6.96,HOLD,Molestiae unde alias in.,2026-11-13T14:52:56+00:00
+607,FB-INT-2026-000438-IVR-000039,438,39,9.8,6.7,9.5,8.78,STRONG_HIRE,Porro reprehenderit eum numquam.,2026-11-10T18:38:27+00:00
+608,FB-INT-2026-000474-IVR-000002,474,2,9.4,7.7,3.8,7.21,HIRE,Commodi iste dolor minus.,2026-11-13T23:07:37+00:00
+609,FB-INT-2026-000379-IVR-000029,379,29,6.6,4.5,7.8,6.33,HOLD,Enim impedit expedita porro sint ab.,2026-11-10T20:22:56+00:00
+610,FB-INT-2026-000239-IVR-000011,239,11,7.9,6.3,5.2,6.61,HOLD,Soluta temporibus illo sint recusandae omnis.,2026-11-09T22:25:46+00:00
+611,FB-INT-2026-000288-IVR-000036,288,36,4.1,9.8,6.9,6.65,HOLD,Eligendi dolorem fuga.,2026-11-13T17:33:11+00:00
+612,FB-INT-2026-000450-IVR-000009,450,9,3.2,5.1,6.0,4.61,NO_HIRE,Facere rerum quos.,2026-11-12T23:52:46+00:00
+613,FB-INT-2026-000539-IVR-000015,539,15,7.2,7.6,6.5,7.11,HIRE,Distinctio dignissimos recusandae sequi.,2026-11-13T16:20:41+00:00
+614,FB-INT-2026-000487-IVR-000015,487,15,6.1,4.1,5.2,5.23,HOLD,Iste vero sit architecto sapiente.,2026-11-13T10:56:19+00:00
+615,FB-INT-2026-000311-IVR-000002,311,2,9.0,8.6,6.2,8.04,STRONG_HIRE,Animi vitae amet aliquid explicabo facere ratione.,2026-11-02T10:49:05+00:00
+616,FB-INT-2026-000175-IVR-000041,175,41,4.9,8.5,9.4,7.33,HIRE,Voluptas dolores mollitia dignissimos facilis vel facere.,2026-11-13T03:00:25+00:00
+617,FB-INT-2026-000513-IVR-000008,513,8,3.2,3.4,4.9,3.77,NO_HIRE,Nemo similique tempore quisquam consectetur autem repellat.,2026-11-13T07:00:32+00:00
+618,FB-INT-2026-000319-IVR-000012,319,12,4.9,9.9,8.6,7.51,HIRE,Temporibus laborum tenetur quibusdam adipisci reprehenderit.,2026-11-06T03:47:03+00:00
+619,FB-INT-2026-000009-IVR-000019,9,19,4.7,6.4,4.3,5.09,HOLD,Voluptas ipsam molestiae molestiae sit odit.,2026-07-23T05:51:53+00:00
+620,FB-INT-2026-000587-IVR-000008,587,8,3.9,7.1,6.4,5.61,HOLD,Architecto labore error.,2026-11-13T07:52:38+00:00
+621,FB-INT-2026-000349-IVR-000015,349,15,8.3,7.4,5.4,7.16,HIRE,Sapiente provident dicta fuga.,2026-11-10T16:46:21+00:00
+622,FB-INT-2026-000313-IVR-000007,313,7,6.5,7.9,8.5,7.52,HIRE,Placeat adipisci velit nisi nesciunt ducimus vero.,2026-10-23T19:36:19+00:00
+623,FB-INT-2026-000240-IVR-000016,240,16,7.6,7.1,3.2,6.13,HOLD,Nisi amet error labore odio quas quasi.,2026-10-30T02:56:00+00:00
+624,FB-INT-2026-000312-IVR-000003,312,3,5.3,10.0,3.6,6.2,HOLD,Sunt dolorum quaerat iusto.,2026-10-20T00:43:53+00:00
+625,FB-INT-2026-000355-IVR-000020,355,20,8.7,4.3,4.8,6.21,HOLD,Asperiores ut animi.,2026-11-09T02:03:14+00:00
+626,FB-INT-2026-000481-IVR-000019,481,19,5.7,9.2,9.3,7.83,HIRE,Consectetur doloremque doloribus iure quibusdam nesciunt doloribus recusandae.,2026-11-08T21:01:27+00:00
+627,FB-INT-2026-000277-IVR-000016,277,16,5.6,9.3,6.9,7.1,HIRE,Quae blanditiis optio nihil eos.,2026-11-09T22:28:10+00:00
+628,FB-INT-2026-000572-IVR-000010,572,10,7.3,3.6,8.6,6.58,HOLD,Inventore itaque rerum officia.,2026-11-12T03:29:31+00:00
+629,FB-INT-2026-000059-IVR-000014,59,14,3.9,7.3,4.2,5.01,HOLD,Reiciendis iste nobis amet sed.,2026-07-29T08:15:00+00:00
+630,FB-INT-2026-000581-IVR-000018,581,18,8.7,7.8,5.6,7.5,HIRE,Dolores earum expedita repellendus impedit modi.,2026-11-13T03:09:11+00:00
+631,FB-INT-2026-000178-IVR-000048,178,48,4.1,5.5,5.0,4.79,NO_HIRE,Dolorum rem nisi repellendus.,2026-10-02T02:47:47+00:00
+632,FB-INT-2026-000468-IVR-000038,468,38,5.8,5.9,5.7,5.8,HOLD,Fuga possimus perspiciatis magnam labore.,2026-11-13T10:01:46+00:00
+633,FB-INT-2026-000049-IVR-000011,49,11,4.4,5.5,5.5,5.06,HOLD,Voluptas vitae perspiciatis nemo.,2026-11-11T10:44:02+00:00
+634,FB-INT-2026-000165-IVR-000040,165,40,4.4,6.6,8.8,6.38,HOLD,Laborum quibusdam doloremque asperiores nulla maiores.,2026-10-10T15:18:00+00:00
+635,FB-INT-2026-000542-IVR-000022,542,22,9.0,3.2,8.3,7.05,HIRE,Veniam in harum eveniet et officiis perferendis.,2026-11-12T07:32:25+00:00
+636,FB-INT-2026-000098-IVR-000047,98,47,6.9,9.9,7.1,7.86,HIRE,Suscipit assumenda minima nihil itaque sapiente.,2026-09-05T00:06:23+00:00
+637,FB-INT-2026-000039-IVR-000025,39,25,4.0,3.2,8.7,5.17,HOLD,Harum sapiente libero quia sapiente repellat labore.,2026-10-05T19:19:15+00:00
+638,FB-INT-2026-000410-IVR-000015,410,15,6.5,4.8,6.1,5.87,HOLD,Cum iste fuga unde repudiandae sunt officiis.,2026-11-07T03:19:50+00:00
+639,FB-INT-2026-000452-IVR-000009,452,9,9.9,3.7,8.7,7.68,HIRE,Dolore consequatur dolorum aliquam eligendi.,2026-11-10T05:04:17+00:00
+640,FB-INT-2026-000062-IVR-000017,62,17,3.8,3.7,5.8,4.37,NO_HIRE,Earum reprehenderit nisi esse quam numquam.,2026-11-11T00:43:41+00:00
+641,FB-INT-2026-000426-IVR-000017,426,17,7.2,9.1,9.8,8.55,STRONG_HIRE,Repellendus facilis adipisci fuga eos est impedit laborum.,2026-11-11T14:42:57+00:00
+642,FB-INT-2026-000586-IVR-000032,586,32,4.5,5.0,4.8,4.74,NO_HIRE,Maiores ex dignissimos soluta voluptatum laboriosam repudiandae atque.,2026-11-13T11:55:00+00:00
+643,FB-INT-2026-000110-IVR-000033,110,33,3.7,9.3,5.5,5.92,HOLD,Voluptas dolore beatae ipsum.,2026-08-17T05:25:34+00:00
+644,FB-INT-2026-000040-IVR-000018,40,18,7.8,9.2,6.7,7.89,HIRE,Eaque at voluptatem placeat voluptatum quis molestias qui.,2026-10-13T23:10:07+00:00
+645,FB-INT-2026-000595-IVR-000047,595,47,3.9,9.9,9.9,7.5,HIRE,Voluptatem delectus iste officia quam sequi.,2026-11-13T16:24:33+00:00
+646,FB-INT-2026-000023-IVR-000011,23,11,9.8,9.6,4.9,8.27,STRONG_HIRE,Autem voluptatum occaecati ea aspernatur mollitia totam.,2026-11-08T00:08:20+00:00
+647,FB-INT-2026-000474-IVR-000043,474,43,6.9,3.3,6.8,5.79,HOLD,Qui sunt praesentium molestiae.,2026-11-11T02:04:00+00:00
+648,FB-INT-2026-000127-IVR-000030,127,30,7.0,8.1,8.9,7.9,HIRE,Ullam perferendis quos quos necessitatibus harum voluptatibus fuga.,2026-11-07T16:03:39+00:00
+649,FB-INT-2026-000431-IVR-000006,431,6,6.2,8.8,3.2,6.08,HOLD,Laboriosam neque aliquam consequuntur placeat animi.,2026-11-12T03:42:46+00:00
+650,FB-INT-2026-000376-IVR-000021,376,21,7.5,4.3,8.7,6.9,HOLD,Animi provident aut unde ab corrupti.,2026-11-05T02:13:39+00:00
+651,FB-INT-2026-000076-IVR-000001,76,1,3.8,4.2,5.7,4.49,NO_HIRE,Fugiat accusantium quibusdam iure ad quidem.,2026-11-01T17:29:55+00:00
+652,FB-INT-2026-000081-IVR-000007,81,7,10.0,3.9,5.3,6.76,HOLD,Quibusdam aliquid ratione nisi.,2026-10-15T18:18:25+00:00
+653,FB-INT-2026-000289-IVR-000013,289,13,6.1,9.5,7.4,7.51,HIRE,Consectetur illum totam.,2026-10-06T16:51:33+00:00
+654,FB-INT-2026-000190-IVR-000003,190,3,8.7,5.9,7.8,7.59,HIRE,Quibusdam fuga repellendus iure deserunt alias.,2026-11-10T21:58:22+00:00
+655,FB-INT-2026-000232-IVR-000006,232,6,7.2,5.7,8.6,7.17,HIRE,Molestiae alias veritatis a quisquam quae.,2026-11-06T01:40:59+00:00
+656,FB-INT-2026-000461-IVR-000049,461,49,6.1,9.4,7.5,7.51,HIRE,Alias officia adipisci eaque labore.,2026-11-04T12:50:23+00:00
+657,FB-INT-2026-000345-IVR-000009,345,9,8.0,8.0,4.9,7.07,HIRE,Numquam culpa recusandae amet ratione unde.,2026-11-08T17:38:03+00:00
+658,FB-INT-2026-000555-IVR-000042,555,42,7.5,3.7,4.7,5.52,HOLD,Nisi quos id.,2026-11-12T04:16:31+00:00
+659,FB-INT-2026-000215-IVR-000039,215,39,9.7,9.2,4.6,8.02,STRONG_HIRE,Distinctio nulla ipsum.,2026-11-09T07:59:50+00:00
+660,FB-INT-2026-000536-IVR-000011,536,11,7.1,4.3,7.3,6.32,HOLD,Voluptate eligendi aliquid.,2026-11-09T11:59:04+00:00
+661,FB-INT-2026-000276-IVR-000002,276,2,5.6,5.8,8.5,6.53,HOLD,Maxime odit natus illo amet.,2026-10-09T03:15:24+00:00
+662,FB-INT-2026-000177-IVR-000013,177,13,3.6,9.0,9.4,6.96,HOLD,Commodi commodi magnam repellat.,2026-11-12T13:39:47+00:00
+663,FB-INT-2026-000546-IVR-000021,546,21,8.6,6.8,8.3,7.97,HIRE,Magni inventore veniam laborum.,2026-11-13T03:29:19+00:00
+664,FB-INT-2026-000262-IVR-000017,262,17,5.6,5.1,8.9,6.44,HOLD,Sed adipisci explicabo dolorem sunt mollitia asperiores deleniti.,2026-10-13T18:09:24+00:00
+665,FB-INT-2026-000348-IVR-000023,348,23,8.9,9.1,8.4,8.81,STRONG_HIRE,Nobis quos reiciendis reprehenderit est.,2026-11-11T00:51:24+00:00
+666,FB-INT-2026-000439-IVR-000019,439,19,3.1,3.9,5.6,4.09,NO_HIRE,Eaque accusamus perferendis dicta quos distinctio doloremque fugit.,2026-11-05T08:17:06+00:00
+667,FB-INT-2026-000082-IVR-000043,82,43,5.3,6.4,3.1,4.97,NO_HIRE,Molestias veritatis ut et.,2026-09-29T10:22:08+00:00
+668,FB-INT-2026-000139-IVR-000036,139,36,7.7,6.3,3.8,6.11,HOLD,Dolorum neque odio culpa perferendis temporibus.,2026-10-24T03:28:38+00:00
+669,FB-INT-2026-000199-IVR-000033,199,33,6.6,3.8,4.4,5.1,HOLD,Quos repellendus eius tempore nihil blanditiis neque consequuntur.,2026-10-21T22:27:05+00:00
+670,FB-INT-2026-000024-IVR-000049,24,49,7.7,5.3,5.1,6.2,HOLD,Qui corporis ipsum aliquid magnam.,2026-10-04T00:52:03+00:00
+671,FB-INT-2026-000324-IVR-000025,324,25,7.4,9.5,7.9,8.18,STRONG_HIRE,Iste excepturi cumque animi.,2026-11-03T10:19:20+00:00
+672,FB-INT-2026-000204-IVR-000009,204,9,5.8,3.1,4.4,4.57,NO_HIRE,Et enim exercitationem incidunt corrupti.,2026-10-22T11:55:42+00:00
+673,FB-INT-2026-000334-IVR-000049,334,49,6.9,7.9,6.3,7.02,HIRE,Dolorum soluta voluptate esse.,2026-10-15T15:45:07+00:00
+674,FB-INT-2026-000389-IVR-000031,389,31,6.8,5.7,8.7,7.04,HIRE,Provident beatae pariatur nostrum deserunt.,2026-11-13T15:50:18+00:00
+675,FB-INT-2026-000003-IVR-000047,3,47,3.7,6.3,6.7,5.38,HOLD,Assumenda ad et eaque.,2026-07-12T20:30:33+00:00
+676,FB-INT-2026-000203-IVR-000002,203,2,5.1,9.1,4.9,6.24,HOLD,Cupiditate facere saepe dolores.,2026-11-12T19:50:45+00:00
+677,FB-INT-2026-000339-IVR-000015,339,15,3.8,8.9,6.7,6.2,HOLD,Itaque quam consectetur laudantium molestiae maiores.,2026-11-12T16:46:32+00:00
+678,FB-INT-2026-000481-IVR-000006,481,6,6.2,6.3,8.0,6.77,HOLD,Non soluta nulla explicabo autem.,2026-11-09T01:29:41+00:00
+679,FB-INT-2026-000124-IVR-000031,124,31,3.8,5.1,7.3,5.24,HOLD,Perferendis deleniti at voluptatum.,2026-11-04T15:36:30+00:00
+680,FB-INT-2026-000315-IVR-000002,315,2,7.9,6.8,3.6,6.28,HOLD,Illo perferendis voluptate eveniet molestias laboriosam animi ex.,2026-10-20T16:54:24+00:00
+681,FB-INT-2026-000488-IVR-000042,488,42,8.6,6.5,4.8,6.83,HOLD,Vitae recusandae sunt accusantium.,2026-11-13T13:21:21+00:00
+682,FB-INT-2026-000092-IVR-000033,92,33,10.0,6.8,9.0,8.74,STRONG_HIRE,Recusandae quo officiis ullam aliquam quam.,2026-11-05T01:14:10+00:00
+683,FB-INT-2026-000124-IVR-000041,124,41,4.7,7.8,6.5,6.17,HOLD,At consequuntur fuga ipsa perferendis modi voluptatem.,2026-11-05T09:38:19+00:00
+684,FB-INT-2026-000351-IVR-000042,351,42,6.9,6.0,9.4,7.38,HIRE,Alias doloremque iste asperiores.,2026-11-03T06:16:31+00:00
+685,FB-INT-2026-000515-IVR-000037,515,37,8.8,6.6,3.1,6.43,HOLD,Ea temporibus pariatur quas veritatis praesentium.,2026-11-04T23:18:13+00:00
+686,FB-INT-2026-000476-IVR-000009,476,9,3.2,7.6,5.0,5.06,HOLD,Facere porro iusto fugiat harum ad minima.,2026-11-07T09:53:50+00:00
+687,FB-INT-2026-000560-IVR-000030,560,30,8.9,9.6,7.3,8.63,STRONG_HIRE,Unde corrupti dolore est a nam at.,2026-11-13T15:14:00+00:00
+688,FB-INT-2026-000106-IVR-000020,106,20,5.5,8.3,6.4,6.61,HOLD,Repudiandae ipsum assumenda animi.,2026-10-13T02:51:02+00:00
+689,FB-INT-2026-000501-IVR-000012,501,12,9.0,7.1,4.2,6.99,HOLD,Aperiam ut ipsa nulla quod suscipit repellendus.,2026-11-06T15:19:38+00:00
+690,FB-INT-2026-000567-IVR-000020,567,20,7.4,4.4,9.6,7.16,HIRE,Accusantium corporis quibusdam dicta sit laboriosam.,2026-11-12T11:49:03+00:00
+691,FB-INT-2026-000491-IVR-000010,491,10,7.4,4.9,4.9,5.9,HOLD,Fugit a aspernatur aspernatur explicabo vel autem.,2026-11-12T10:27:03+00:00
+692,FB-INT-2026-000563-IVR-000047,563,47,4.2,8.9,8.7,6.96,HOLD,Veniam atque necessitatibus dignissimos deleniti ratione.,2026-11-13T01:37:25+00:00
+693,FB-INT-2026-000597-IVR-000019,597,19,9.3,3.9,6.3,6.78,HOLD,Doloremque eveniet similique rerum.,2026-11-13T17:18:45+00:00
+694,FB-INT-2026-000496-IVR-000041,496,41,6.5,4.5,4.5,5.3,HOLD,Id itaque perspiciatis odit tempora.,2026-11-13T20:28:34+00:00
+695,FB-INT-2026-000364-IVR-000017,364,17,8.2,5.2,7.2,7.0,HIRE,Vero tempore distinctio reiciendis ipsam.,2026-10-28T18:07:47+00:00
+696,FB-INT-2026-000441-IVR-000017,441,17,3.2,3.1,3.9,3.38,NO_HIRE,Incidunt vero incidunt.,2026-11-02T10:35:33+00:00
+697,FB-INT-2026-000098-IVR-000012,98,12,4.2,6.2,4.1,4.77,NO_HIRE,Cupiditate veritatis deleniti incidunt distinctio.,2026-11-07T11:33:08+00:00
+698,FB-INT-2026-000568-IVR-000043,568,43,4.4,10.0,4.8,6.2,HOLD,Iusto ipsa nemo laboriosam consequatur ab occaecati.,2026-11-12T23:13:25+00:00
+699,FB-INT-2026-000589-IVR-000008,589,8,3.9,9.0,6.3,6.15,HOLD,Voluptatum iure id ex voluptatibus.,2026-11-13T21:54:33+00:00
+700,FB-INT-2026-000212-IVR-000039,212,39,5.4,4.6,4.0,4.74,NO_HIRE,Dicta quos quae veritatis corrupti debitis odit numquam.,2026-10-15T20:40:40+00:00
+701,FB-INT-2026-000514-IVR-000002,514,2,3.0,5.5,4.5,4.2,NO_HIRE,Harum nobis tempora sunt pariatur.,2026-11-13T20:55:20+00:00
+702,FB-INT-2026-000365-IVR-000037,365,37,9.9,9.8,8.6,9.48,STRONG_HIRE,Consectetur nisi aperiam error eos.,2026-11-12T01:11:55+00:00
+703,FB-INT-2026-000277-IVR-000037,277,37,9.3,6.7,6.6,7.71,HIRE,Id dolor amet modi repellat iusto aspernatur.,2026-11-09T10:02:42+00:00
+704,FB-INT-2026-000196-IVR-000025,196,25,7.7,9.7,9.0,8.69,STRONG_HIRE,Quaerat assumenda nam labore dignissimos laboriosam quae.,2026-10-25T19:39:23+00:00
+705,FB-INT-2026-000112-IVR-000025,112,25,9.0,9.5,3.0,7.35,HIRE,Minus inventore molestiae rem quidem vitae.,2026-09-03T21:55:46+00:00
+706,FB-INT-2026-000072-IVR-000009,72,9,7.9,7.9,3.3,6.52,HOLD,Dolores facilis excepturi reprehenderit beatae perspiciatis magnam.,2026-11-01T19:03:40+00:00
+707,FB-INT-2026-000075-IVR-000021,75,21,4.0,8.7,8.8,6.85,HOLD,Harum ad veniam vel.,2026-10-01T16:13:27+00:00
+708,FB-INT-2026-000336-IVR-000002,336,2,6.8,8.7,9.6,8.21,STRONG_HIRE,Expedita est labore iusto vero atque.,2026-11-13T23:59:29+00:00
+709,FB-INT-2026-000437-IVR-000046,437,46,3.9,4.3,5.8,4.59,NO_HIRE,Laborum eius animi ut.,2026-11-10T06:40:45+00:00
+710,FB-INT-2026-000121-IVR-000037,121,37,8.2,3.5,5.3,5.92,HOLD,Dolorum hic reprehenderit.,2026-11-08T11:56:23+00:00
+711,FB-INT-2026-000354-IVR-000041,354,41,8.0,5.5,8.3,7.34,HIRE,Assumenda quibusdam quis occaecati alias rem.,2026-11-12T02:32:34+00:00
+712,FB-INT-2026-000203-IVR-000008,203,8,5.3,8.3,9.8,7.55,HIRE,Dignissimos hic soluta voluptate.,2026-11-13T00:48:13+00:00
+713,FB-INT-2026-000189-IVR-000031,189,31,5.1,9.6,9.8,7.86,HIRE,Nihil dolor nihil sint natus fugiat veniam exercitationem.,2026-10-01T12:41:04+00:00
+714,FB-INT-2026-000043-IVR-000039,43,39,8.3,4.0,5.8,6.26,HOLD,Quaerat omnis debitis impedit aliquid.,2026-09-29T21:40:50+00:00
+715,FB-INT-2026-000575-IVR-000012,575,12,5.1,7.4,3.6,5.34,HOLD,Dolorem ratione maxime distinctio commodi.,2026-11-13T23:56:46+00:00
+716,FB-INT-2026-000024-IVR-000047,24,47,4.7,7.2,8.5,6.59,HOLD,Quod est velit molestiae iste aliquam voluptate.,2026-08-26T23:22:27+00:00
+717,FB-INT-2026-000276-IVR-000032,276,32,5.7,9.1,4.6,6.39,HOLD,Nesciunt eos facere commodi maiores dicta enim.,2026-10-19T13:56:09+00:00
+718,FB-INT-2026-000051-IVR-000025,51,25,8.1,4.1,7.1,6.6,HOLD,Vero recusandae quae nisi est provident vero nihil.,2026-08-14T07:43:44+00:00
+719,FB-INT-2026-000175-IVR-000011,175,11,3.2,5.6,3.7,4.07,NO_HIRE,Voluptatum quae ex illo.,2026-11-13T02:26:44+00:00
+720,FB-INT-2026-000422-IVR-000008,422,8,7.5,6.1,9.8,7.77,HIRE,Eaque non occaecati.,2026-11-05T06:15:41+00:00
+721,FB-INT-2026-000172-IVR-000010,172,10,6.7,8.5,8.5,7.78,HIRE,Minus ipsa consectetur fugiat.,2026-11-02T20:27:09+00:00
+722,FB-INT-2026-000488-IVR-000022,488,22,9.4,9.4,7.5,8.83,STRONG_HIRE,Culpa recusandae ab aut.,2026-11-13T05:28:24+00:00
+723,FB-INT-2026-000210-IVR-000008,210,8,9.6,7.6,8.5,8.67,STRONG_HIRE,Aspernatur illo modi accusamus ipsam delectus itaque.,2026-10-29T10:07:54+00:00
+724,FB-INT-2026-000409-IVR-000011,409,11,4.8,4.4,5.1,4.77,NO_HIRE,Commodi saepe eius at totam sit distinctio ipsa.,2026-11-12T12:33:40+00:00
+725,FB-INT-2026-000080-IVR-000024,80,24,6.7,4.0,9.5,6.73,HOLD,Nemo consequatur vitae ad labore quibusdam.,2026-10-14T23:49:55+00:00
+726,FB-INT-2026-000421-IVR-000038,421,38,9.0,8.7,7.4,8.43,STRONG_HIRE,Incidunt accusamus sapiente possimus ipsam.,2026-11-13T19:32:06+00:00
+727,FB-INT-2026-000053-IVR-000003,53,3,9.5,6.3,9.8,8.63,STRONG_HIRE,Veniam autem tempore amet aliquam harum saepe voluptatibus.,2026-11-13T23:04:44+00:00
+728,FB-INT-2026-000296-IVR-000046,296,46,7.7,6.7,6.1,6.92,HOLD,Doloribus corporis repellendus impedit temporibus accusamus corporis.,2026-10-31T22:28:31+00:00
+729,FB-INT-2026-000063-IVR-000020,63,20,4.5,4.2,8.1,5.49,HOLD,Nam alias porro vel.,2026-09-30T10:51:58+00:00
+730,FB-INT-2026-000019-IVR-000025,19,25,5.1,9.2,9.2,7.56,HIRE,Hic explicabo soluta delectus animi numquam ex.,2026-11-13T19:38:29+00:00
+731,FB-INT-2026-000451-IVR-000015,451,15,9.0,9.2,3.5,7.41,HIRE,Ad perferendis fugit voluptatem aliquid.,2026-11-12T18:01:49+00:00
+732,FB-INT-2026-000390-IVR-000032,390,32,5.5,8.1,9.6,7.51,HIRE,Veritatis quibusdam corporis accusantium vero quos.,2026-10-29T22:00:13+00:00
+733,FB-INT-2026-000526-IVR-000014,526,14,9.3,9.3,9.0,9.21,STRONG_HIRE,Officia a aperiam voluptatum nobis ipsum nobis.,2026-11-10T23:23:26+00:00
+734,FB-INT-2026-000575-IVR-000011,575,11,7.0,8.5,7.2,7.51,HIRE,Inventore quia sapiente amet quas voluptatibus.,2026-11-13T18:38:45+00:00
+735,FB-INT-2026-000362-IVR-000036,362,36,8.8,4.0,7.4,6.94,HOLD,Ut itaque qui perferendis quaerat sapiente.,2026-11-03T02:57:38+00:00
+736,FB-INT-2026-000161-IVR-000037,161,37,8.7,4.8,9.5,7.77,HIRE,Occaecati autem corrupti doloremque voluptatem.,2026-10-10T01:17:06+00:00
+737,FB-INT-2026-000274-IVR-000030,274,30,6.8,6.5,3.9,5.84,HOLD,Temporibus deleniti voluptatum rem odit quo eius.,2026-11-10T22:35:55+00:00
+738,FB-INT-2026-000532-IVR-000012,532,12,8.8,7.8,6.0,7.66,HIRE,Laboriosam deleniti neque nesciunt odio optio cupiditate.,2026-11-12T16:05:48+00:00
+739,FB-INT-2026-000503-IVR-000018,503,18,3.9,7.1,6.6,5.67,HOLD,Asperiores recusandae doloribus placeat fuga omnis suscipit nisi.,2026-11-13T19:12:55+00:00
+740,FB-INT-2026-000250-IVR-000019,250,19,8.8,5.2,8.0,7.48,HIRE,Excepturi id sapiente eaque nihil soluta hic quia.,2026-11-08T13:13:02+00:00
+741,FB-INT-2026-000217-IVR-000008,217,8,3.0,8.4,4.2,4.98,NO_HIRE,Natus neque aspernatur quod atque.,2026-11-01T15:33:37+00:00
+742,FB-INT-2026-000086-IVR-000047,86,47,9.3,6.5,8.5,8.22,STRONG_HIRE,Totam dolorem nisi nulla.,2026-10-31T05:46:40+00:00
+743,FB-INT-2026-000592-IVR-000036,592,36,8.9,4.0,9.5,7.61,HIRE,Error exercitationem iure suscipit minima aliquid debitis.,2026-11-13T19:20:34+00:00
+744,FB-INT-2026-000002-IVR-000016,2,16,8.0,5.7,6.6,6.89,HOLD,Necessitatibus enim doloribus distinctio at.,2026-10-16T07:41:51+00:00
+745,FB-INT-2026-000443-IVR-000020,443,20,3.2,6.0,3.0,3.98,NO_HIRE,Officia expedita porro esse excepturi.,2026-11-12T22:49:39+00:00
+746,FB-INT-2026-000454-IVR-000031,454,31,4.7,9.0,8.0,6.98,HOLD,Enim molestiae occaecati.,2026-11-12T19:44:42+00:00
+747,FB-INT-2026-000187-IVR-000040,187,40,3.3,7.1,9.6,6.33,HOLD,Debitis soluta deleniti quae voluptatibus corrupti.,2026-11-07T01:34:48+00:00
+748,FB-INT-2026-000142-IVR-000025,142,25,7.4,4.4,9.5,7.13,HIRE,Ea ut amet.,2026-09-29T20:36:25+00:00
+749,FB-INT-2026-000068-IVR-000020,68,20,7.9,4.2,4.5,5.77,HOLD,Error sed dolores dolores.,2026-11-12T14:13:34+00:00
+750,FB-INT-2026-000343-IVR-000047,343,47,3.5,3.6,6.9,4.55,NO_HIRE,Sequi blanditiis autem.,2026-11-05T20:12:38+00:00
+751,FB-INT-2026-000444-IVR-000022,444,22,5.7,8.6,4.8,6.3,HOLD,Veniam odio velit nesciunt non.,2026-11-10T10:05:59+00:00
+752,FB-INT-2026-000410-IVR-000014,410,14,7.3,9.6,4.6,7.18,HIRE,Odit vel ipsa eveniet.,2026-10-27T11:49:40+00:00
+753,FB-INT-2026-000261-IVR-000044,261,44,8.0,6.7,9.9,8.18,STRONG_HIRE,Praesentium quod quos necessitatibus minima error.,2026-11-13T02:48:00+00:00
+754,FB-INT-2026-000429-IVR-000024,429,24,5.1,5.5,6.0,5.49,HOLD,Aliquam officiis veniam rerum.,2026-11-11T23:10:35+00:00
+755,FB-INT-2026-000376-IVR-000048,376,48,5.2,3.1,9.0,5.71,HOLD,Quis ut ut enim.,2026-11-06T00:57:17+00:00
+756,FB-INT-2026-000140-IVR-000003,140,3,5.6,6.1,3.8,5.21,HOLD,Consequatur odio ea suscipit expedita.,2026-10-22T05:40:12+00:00
+757,FB-INT-2026-000325-IVR-000040,325,40,4.9,7.5,5.7,5.92,HOLD,Consequuntur ex incidunt officiis ipsa.,2026-11-07T09:05:54+00:00
+758,FB-INT-2026-000535-IVR-000039,535,39,5.3,7.6,8.2,6.86,HOLD,Neque laborum dolorem.,2026-11-13T13:18:13+00:00
+759,FB-INT-2026-000522-IVR-000030,522,30,9.7,4.4,3.2,6.16,HOLD,Placeat beatae optio itaque sequi inventore animi.,2026-11-11T08:23:11+00:00
+760,FB-INT-2026-000239-IVR-000025,239,25,3.7,9.0,7.5,6.43,HOLD,Cum id quos quaerat harum repellendus ab cumque.,2026-10-16T01:13:12+00:00
+761,FB-INT-2026-000415-IVR-000002,415,2,3.6,3.4,6.8,4.5,NO_HIRE,Blanditiis tenetur minus nostrum.,2026-11-12T12:19:47+00:00
+762,FB-INT-2026-000002-IVR-000029,2,29,6.4,7.4,3.2,5.74,HOLD,Dolor a unde porro id dicta.,2026-10-08T20:01:01+00:00
+763,FB-INT-2026-000444-IVR-000033,444,33,3.8,5.5,3.9,4.34,NO_HIRE,Facilis tenetur quaerat necessitatibus voluptas.,2026-11-12T23:31:41+00:00
+764,FB-INT-2026-000077-IVR-000009,77,9,6.1,5.7,3.4,5.17,HOLD,Iste dolores facilis distinctio similique nesciunt.,2026-09-20T08:18:27+00:00
+765,FB-INT-2026-000456-IVR-000042,456,42,4.9,5.4,5.1,5.11,HOLD,Magni ullam quas quae deserunt.,2026-11-13T04:22:28+00:00
+766,FB-INT-2026-000516-IVR-000029,516,29,7.5,7.2,8.0,7.56,HIRE,Nostrum pariatur maiores cum iure.,2026-11-12T06:06:46+00:00
+767,FB-INT-2026-000133-IVR-000044,133,44,7.4,9.2,4.9,7.19,HIRE,Enim unde aut temporibus.,2026-11-12T07:54:40+00:00
+768,FB-INT-2026-000167-IVR-000003,167,3,5.7,4.9,3.4,4.77,NO_HIRE,At iusto aperiam neque dignissimos iste.,2026-11-13T02:03:25+00:00
+769,FB-INT-2026-000414-IVR-000037,414,37,9.8,5.1,4.4,6.77,HOLD,Repudiandae nesciunt enim.,2026-11-10T11:12:19+00:00
+770,FB-INT-2026-000120-IVR-000036,120,36,9.4,6.1,6.1,7.42,HIRE,Cupiditate expedita ipsam laborum nostrum.,2026-11-08T21:33:05+00:00
+771,FB-INT-2026-000471-IVR-000015,471,15,8.3,9.6,4.4,7.52,HIRE,Maiores iure vitae amet doloribus.,2026-11-13T02:08:02+00:00
+772,FB-INT-2026-000198-IVR-000010,198,10,5.3,5.1,4.3,4.94,NO_HIRE,Aperiam nam aut aliquam magni nobis corrupti.,2026-11-03T15:05:05+00:00
+773,FB-INT-2026-000409-IVR-000038,409,38,8.5,7.4,7.9,7.99,HIRE,Sit esse perferendis facere harum.,2026-11-13T02:59:34+00:00
+774,FB-INT-2026-000083-IVR-000039,83,39,7.8,8.5,4.5,7.02,HIRE,Debitis repudiandae deserunt eligendi.,2026-11-08T15:59:12+00:00
+775,FB-INT-2026-000078-IVR-000023,78,23,4.9,7.5,3.4,5.23,HOLD,Repudiandae nobis in eveniet non similique.,2026-11-11T23:46:47+00:00
+776,FB-INT-2026-000249-IVR-000014,249,14,5.5,9.5,3.1,5.98,HOLD,Nemo nulla veniam error quae.,2026-11-12T10:35:00+00:00
+777,FB-INT-2026-000395-IVR-000025,395,25,4.1,5.4,7.0,5.36,HOLD,Eveniet facere eveniet.,2026-11-02T00:18:54+00:00
+778,FB-INT-2026-000029-IVR-000021,29,21,8.6,8.7,7.0,8.15,STRONG_HIRE,Modi consequuntur id velit error.,2026-07-15T05:05:40+00:00
+779,FB-INT-2026-000233-IVR-000019,233,19,3.5,8.3,9.3,6.68,HOLD,Veritatis earum quaerat dolorum.,2026-11-12T14:09:24+00:00
+780,FB-INT-2026-000045-IVR-000015,45,15,8.6,4.2,4.6,6.08,HOLD,Praesentium debitis labore delectus.,2026-11-13T21:47:10+00:00
+781,FB-INT-2026-000408-IVR-000018,408,18,5.4,3.8,3.3,4.29,NO_HIRE,Nesciunt autem ex officia animi.,2026-11-10T15:38:30+00:00
+782,FB-INT-2026-000292-IVR-000043,292,43,6.2,6.4,5.4,6.02,HOLD,Corrupti consequatur assumenda vel.,2026-11-11T11:43:51+00:00
+783,FB-INT-2026-000442-IVR-000049,442,49,7.0,4.0,9.3,6.79,HOLD,Rem similique perspiciatis quo quisquam nihil voluptatum.,2026-10-29T23:05:40+00:00
+784,FB-INT-2026-000259-IVR-000002,259,2,8.0,4.2,8.1,6.89,HOLD,Vero hic ratione quibusdam consequuntur beatae.,2026-11-01T02:17:05+00:00
+785,FB-INT-2026-000174-IVR-000036,174,36,4.3,6.1,10.0,6.55,HOLD,Illum dolore quidem expedita.,2026-10-10T19:59:52+00:00
+786,FB-INT-2026-000294-IVR-000001,294,1,3.9,7.7,3.9,5.04,HOLD,Nihil dolores doloribus dignissimos praesentium atque.,2026-10-13T03:28:22+00:00
+787,FB-INT-2026-000392-IVR-000014,392,14,7.7,5.6,6.5,6.71,HOLD,Ipsam quasi dolor expedita laboriosam provident.,2026-10-27T10:30:18+00:00
+788,FB-INT-2026-000004-IVR-000032,4,32,6.1,4.0,8.2,6.1,HOLD,Accusamus quis consectetur exercitationem qui.,2026-10-30T18:45:46+00:00
+789,FB-INT-2026-000530-IVR-000002,530,2,3.1,7.7,8.1,5.98,HOLD,Dolor aspernatur ex aliquid repudiandae tenetur facere.,2026-11-11T17:44:34+00:00
+790,FB-INT-2026-000304-IVR-000009,304,9,8.4,3.9,9.2,7.29,HIRE,Architecto dolorum animi.,2026-11-10T10:56:43+00:00
+791,FB-INT-2026-000396-IVR-000002,396,2,7.7,5.6,5.1,6.29,HOLD,Necessitatibus eligendi molestias voluptatibus necessitatibus perferendis minima.,2026-11-09T13:28:49+00:00
+792,FB-INT-2026-000169-IVR-000040,169,40,3.2,6.3,4.0,4.37,NO_HIRE,Possimus vero recusandae assumenda pariatur temporibus aut.,2026-08-30T00:33:02+00:00
+793,FB-INT-2026-000018-IVR-000040,18,40,5.2,7.3,3.8,5.41,HOLD,Voluptates debitis quae voluptas consequuntur earum sequi error.,2026-10-13T22:08:11+00:00
+794,FB-INT-2026-000344-IVR-000039,344,39,5.1,6.0,8.0,6.24,HOLD,Dolor numquam dignissimos exercitationem deserunt incidunt totam.,2026-11-12T17:08:06+00:00
+795,FB-INT-2026-000009-IVR-000040,9,40,9.8,5.6,5.2,7.16,HIRE,Magnam sunt corporis pariatur illum aut enim.,2026-10-23T12:27:11+00:00
+796,FB-INT-2026-000050-IVR-000027,50,27,5.7,7.8,5.0,6.12,HOLD,Veritatis magni repellat atque vel itaque.,2026-09-10T14:48:32+00:00
+797,FB-INT-2026-000292-IVR-000013,292,13,8.7,5.0,4.5,6.33,HOLD,Illo autem cupiditate accusamus ea.,2026-11-12T23:33:02+00:00
+798,FB-INT-2026-000411-IVR-000040,411,40,3.6,6.2,4.5,4.65,NO_HIRE,Minus quo doloribus ex veritatis mollitia deserunt.,2026-11-07T22:44:07+00:00
+799,FB-INT-2026-000331-IVR-000018,331,18,9.1,6.5,9.4,8.41,STRONG_HIRE,Suscipit possimus maxime temporibus omnis nam doloribus.,2026-11-13T00:29:26+00:00
+800,FB-INT-2026-000494-IVR-000018,494,18,8.3,6.5,3.6,6.35,HOLD,Impedit necessitatibus cumque perferendis quas consequatur.,2026-11-13T06:32:30+00:00
+801,FB-INT-2026-000007-IVR-000009,7,9,4.5,6.2,3.3,4.65,NO_HIRE,Reprehenderit officiis dignissimos non illum possimus accusantium.,2026-09-22T14:53:17+00:00
+802,FB-INT-2026-000153-IVR-000003,153,3,7.8,4.3,5.4,6.03,HOLD,Aliquid non quo neque.,2026-11-11T11:02:07+00:00
+803,FB-INT-2026-000557-IVR-000036,557,36,8.2,8.4,7.8,8.14,STRONG_HIRE,Blanditiis laudantium est impedit.,2026-11-11T23:08:48+00:00
+804,FB-INT-2026-000061-IVR-000046,61,46,9.0,3.4,5.5,6.27,HOLD,Quod magnam ex quae iste alias placeat.,2026-11-01T12:50:12+00:00
+805,FB-INT-2026-000096-IVR-000001,96,1,9.2,8.9,8.9,9.02,STRONG_HIRE,Fugit aut nihil corporis.,2026-09-13T13:00:11+00:00
+806,FB-INT-2026-000019-IVR-000015,19,15,5.8,4.7,3.9,4.9,NO_HIRE,Eum repudiandae illo iste illo doloremque.,2026-11-13T21:01:24+00:00
+807,FB-INT-2026-000255-IVR-000047,255,47,5.4,8.1,7.4,6.81,HOLD,Reprehenderit illum suscipit sed optio.,2026-10-03T16:59:40+00:00
+808,FB-INT-2026-000400-IVR-000019,400,19,8.4,3.6,6.6,6.42,HOLD,Explicabo tenetur molestias iure quasi occaecati.,2026-11-04T01:29:09+00:00
+809,FB-INT-2026-000310-IVR-000019,310,19,8.7,7.7,8.3,8.28,STRONG_HIRE,Cupiditate tenetur magni consectetur cupiditate voluptate nesciunt sunt.,2026-11-12T04:56:33+00:00
+810,FB-INT-2026-000569-IVR-000023,569,23,8.1,4.1,9.0,7.17,HIRE,Neque sequi ullam.,2026-11-11T21:21:29+00:00
+811,FB-INT-2026-000484-IVR-000012,484,12,3.2,3.1,6.5,4.16,NO_HIRE,Tenetur quia quo sapiente delectus aspernatur.,2026-11-13T14:22:00+00:00
+812,FB-INT-2026-000388-IVR-000036,388,36,8.2,3.9,6.3,6.34,HOLD,Nulla architecto iste veritatis odit.,2026-11-09T14:56:34+00:00
+813,FB-INT-2026-000191-IVR-000044,191,44,6.3,7.1,9.4,7.47,HIRE,In impedit unde vel ad.,2026-11-03T10:22:50+00:00
+814,FB-INT-2026-000351-IVR-000032,351,32,6.1,8.7,7.4,7.27,HIRE,Quisquam illum sequi officiis voluptate incidunt quod.,2026-11-09T08:50:24+00:00
+815,FB-INT-2026-000422-IVR-000019,422,19,5.5,6.4,4.9,5.59,HOLD,Nesciunt vero similique amet.,2026-11-02T04:58:31+00:00
+816,FB-INT-2026-000383-IVR-000004,383,4,4.1,3.1,3.3,3.56,NO_HIRE,Assumenda soluta ipsa quas.,2026-11-11T17:36:33+00:00
+817,FB-INT-2026-000041-IVR-000006,41,6,8.1,8.5,7.2,7.95,HIRE,Repellat maiores quas doloremque.,2026-09-24T00:38:52+00:00
+818,FB-INT-2026-000460-IVR-000011,460,11,8.9,6.3,6.9,7.52,HIRE,A dolorem provident error eligendi saepe.,2026-11-01T20:18:10+00:00
+819,FB-INT-2026-000142-IVR-000042,142,42,9.6,5.1,5.7,7.08,HIRE,Quo sit ducimus doloribus beatae.,2026-09-17T00:13:59+00:00
+820,FB-INT-2026-000525-IVR-000015,525,15,6.9,4.2,7.3,6.21,HOLD,Vitae aut iusto.,2026-11-09T09:25:38+00:00
+821,FB-INT-2026-000573-IVR-000013,573,13,3.6,8.2,3.1,4.83,NO_HIRE,Illum nesciunt ad doloremque suscipit.,2026-11-13T11:46:56+00:00
+822,FB-INT-2026-000265-IVR-000033,265,33,7.9,6.1,8.2,7.45,HIRE,Maiores placeat eum quo.,2026-10-21T15:40:01+00:00
+823,FB-INT-2026-000574-IVR-000003,574,3,4.8,8.2,4.3,5.67,HOLD,Quas quos odio similique exercitationem odit commodi.,2026-11-13T22:13:05+00:00
+824,FB-INT-2026-000133-IVR-000038,133,38,5.8,6.5,4.6,5.65,HOLD,Odit ab quos ipsa soluta nulla eos.,2026-11-13T22:40:28+00:00
+825,FB-INT-2026-000350-IVR-000020,350,20,5.2,4.0,8.8,5.92,HOLD,Facilis dignissimos nesciunt quas quia.,2026-11-09T14:10:49+00:00
+826,FB-INT-2026-000366-IVR-000021,366,21,6.3,6.3,4.1,5.64,HOLD,Nihil dolor totam ullam expedita labore assumenda.,2026-10-26T16:02:32+00:00
+827,FB-INT-2026-000148-IVR-000027,148,27,3.6,7.7,9.9,6.72,HOLD,Nostrum atque dignissimos ducimus cum aperiam sapiente.,2026-10-23T00:55:28+00:00
+828,FB-INT-2026-000159-IVR-000027,159,27,6.2,3.8,6.4,5.54,HOLD,Amet sit consectetur ea dolores aliquam repellat.,2026-11-05T23:14:38+00:00
+829,FB-INT-2026-000272-IVR-000027,272,27,6.1,7.4,3.6,5.74,HOLD,Alias doloribus culpa accusamus sit.,2026-11-03T06:37:24+00:00
+830,FB-INT-2026-000036-IVR-000013,36,13,6.2,9.4,5.1,6.83,HOLD,Nam amet nulla voluptatibus exercitationem aperiam nam.,2026-10-14T06:44:17+00:00
+831,FB-INT-2026-000521-IVR-000020,521,20,8.8,7.2,7.9,8.05,STRONG_HIRE,Quae itaque inventore praesentium.,2026-11-10T15:21:55+00:00
+832,FB-INT-2026-000545-IVR-000004,545,4,4.4,8.4,5.2,5.84,HOLD,In magni aut soluta quis harum ratione.,2026-11-12T13:56:20+00:00
+833,FB-INT-2026-000284-IVR-000038,284,38,5.3,8.7,4.0,5.93,HOLD,Rerum repellat non necessitatibus accusamus nihil.,2026-10-28T18:09:55+00:00
+834,FB-INT-2026-000572-IVR-000029,572,29,5.8,9.8,8.3,7.75,HIRE,Dolorem sapiente quo pariatur doloribus id sequi vero.,2026-11-12T21:11:47+00:00
+835,FB-INT-2026-000168-IVR-000032,168,32,7.1,6.1,5.1,6.2,HOLD,Asperiores dignissimos vero magnam vitae quam.,2026-10-30T16:06:35+00:00
+836,FB-INT-2026-000319-IVR-000023,319,23,9.7,3.3,4.2,6.13,HOLD,Maiores autem placeat commodi sequi.,2026-11-12T10:29:47+00:00
+837,FB-INT-2026-000195-IVR-000038,195,38,8.9,3.4,3.3,5.57,HOLD,Nulla quae dolores exercitationem.,2026-10-13T00:59:41+00:00
+838,FB-INT-2026-000436-IVR-000014,436,14,6.3,7.3,5.5,6.36,HOLD,Earum fuga hic natus eaque expedita distinctio.,2026-11-09T08:07:19+00:00
+839,FB-INT-2026-000189-IVR-000008,189,8,4.0,9.6,3.4,5.5,HOLD,Quasi laboriosam officiis asperiores.,2026-10-03T17:08:22+00:00
+840,FB-INT-2026-000264-IVR-000023,264,23,8.4,7.8,9.8,8.64,STRONG_HIRE,Accusantium harum amet culpa.,2026-11-09T20:39:06+00:00
+841,FB-INT-2026-000580-IVR-000003,580,3,6.7,3.1,6.7,5.62,HOLD,Minus unde necessitatibus consequuntur quos cum et.,2026-11-12T20:06:57+00:00
+842,FB-INT-2026-000295-IVR-000020,295,20,7.8,6.4,7.9,7.41,HIRE,Nam nihil tempore eum.,2026-10-30T16:11:41+00:00
+843,FB-INT-2026-000465-IVR-000002,465,2,4.3,8.9,5.2,5.95,HOLD,Perferendis maiores iure provident inventore distinctio distinctio.,2026-11-04T12:26:22+00:00
+844,FB-INT-2026-000309-IVR-000015,309,15,8.2,4.9,6.5,6.7,HOLD,Ex qui consequatur vitae pariatur.,2026-11-04T13:23:49+00:00
+845,FB-INT-2026-000322-IVR-000018,322,18,5.1,3.9,7.6,5.49,HOLD,Delectus natus quis fuga doloremque.,2026-11-04T03:21:14+00:00
+846,FB-INT-2026-000131-IVR-000001,131,1,6.2,8.2,9.4,7.76,HIRE,Consequuntur adipisci corrupti excepturi quia iusto voluptatibus reprehenderit.,2026-10-05T11:13:42+00:00
+847,FB-INT-2026-000297-IVR-000046,297,46,3.8,3.9,9.8,5.63,HOLD,Assumenda perferendis eaque fugiat.,2026-11-03T12:35:40+00:00
+848,FB-INT-2026-000423-IVR-000042,423,42,4.0,8.6,8.8,6.82,HOLD,Aliquid necessitatibus sequi dolor in est.,2026-11-11T19:38:04+00:00
+849,FB-INT-2026-000265-IVR-000007,265,7,8.7,6.2,5.1,6.87,HOLD,Voluptates pariatur recusandae repudiandae aperiam dolor inventore.,2026-10-08T05:24:46+00:00
+850,FB-INT-2026-000186-IVR-000043,186,43,6.9,8.1,6.2,7.05,HIRE,Accusamus fugiat iste iste reprehenderit earum.,2026-09-27T14:18:10+00:00
+851,FB-INT-2026-000119-IVR-000017,119,17,5.7,6.9,9.8,7.29,HIRE,Ab dignissimos sint sed vitae asperiores quasi placeat.,2026-09-13T22:55:59+00:00
+852,FB-INT-2026-000025-IVR-000022,25,22,9.5,6.5,8.0,8.15,STRONG_HIRE,Natus dolorum pariatur.,2026-07-08T05:24:41+00:00
+853,FB-INT-2026-000219-IVR-000022,219,22,8.5,3.8,4.5,5.89,HOLD,Similique rem voluptatum quibusdam omnis omnis.,2026-10-24T06:50:12+00:00
+854,FB-INT-2026-000185-IVR-000042,185,42,3.6,4.3,3.6,3.81,NO_HIRE,Cumque harum quia ad hic quisquam quisquam.,2026-09-08T18:16:31+00:00
+855,FB-INT-2026-000278-IVR-000031,278,31,8.9,7.4,5.5,7.43,HIRE,Earum minus laudantium totam minus temporibus provident voluptates.,2026-11-07T11:17:08+00:00
+856,FB-INT-2026-000291-IVR-000023,291,23,6.8,9.4,3.6,6.62,HOLD,Doloremque laborum fuga architecto dolores.,2026-10-22T08:22:28+00:00
+857,FB-INT-2026-000190-IVR-000010,190,10,4.0,5.0,8.6,5.68,HOLD,Aut harum ut quo dolores culpa corrupti.,2026-11-11T12:52:43+00:00
+858,FB-INT-2026-000456-IVR-000008,456,8,7.2,9.0,6.4,7.5,HIRE,Soluta facilis sunt optio architecto itaque voluptatibus tenetur.,2026-11-13T14:28:26+00:00
+859,FB-INT-2026-000556-IVR-000014,556,14,8.7,10.0,8.7,9.09,STRONG_HIRE,Consequatur deserunt laudantium consequatur dicta.,2026-11-13T21:19:06+00:00
+860,FB-INT-2026-000420-IVR-000040,420,40,5.6,5.9,3.3,5.0,HOLD,In ducimus quasi repellat nulla illum pariatur.,2026-11-04T20:43:57+00:00
+861,FB-INT-2026-000412-IVR-000039,412,39,3.9,5.4,3.2,4.14,NO_HIRE,Rerum quaerat in repudiandae corrupti optio fugit.,2026-11-07T14:54:23+00:00
+862,FB-INT-2026-000048-IVR-000016,48,16,8.0,6.0,7.7,7.31,HIRE,Maxime officiis suscipit optio.,2026-10-09T18:34:01+00:00
+863,FB-INT-2026-000160-IVR-000031,160,31,4.1,7.0,5.6,5.42,HOLD,Reprehenderit voluptatum cum ullam.,2026-11-08T02:49:37+00:00
+864,FB-INT-2026-000347-IVR-000015,347,15,9.4,5.7,3.0,6.37,HOLD,Quibusdam ut laboriosam excepturi.,2026-10-31T05:26:26+00:00
+865,FB-INT-2026-000071-IVR-000047,71,47,10.0,4.4,3.4,6.34,HOLD,Dolorum placeat quam et adipisci.,2026-09-12T16:09:58+00:00
+866,FB-INT-2026-000130-IVR-000016,130,16,7.3,5.8,3.3,5.65,HOLD,Odit magni soluta explicabo numquam eum.,2026-08-17T21:48:58+00:00
+867,FB-INT-2026-000204-IVR-000040,204,40,5.2,9.1,5.2,6.37,HOLD,Iste sapiente occaecati a deserunt officiis.,2026-10-26T19:33:52+00:00
+868,FB-INT-2026-000301-IVR-000020,301,20,5.1,6.6,5.0,5.52,HOLD,Sit blanditiis excepturi distinctio quis.,2026-11-08T03:55:30+00:00
+869,FB-INT-2026-000034-IVR-000001,34,1,9.7,9.4,5.7,8.41,STRONG_HIRE,Mollitia voluptatem assumenda placeat unde.,2026-11-06T14:34:06+00:00
+870,FB-INT-2026-000303-IVR-000008,303,8,6.3,7.1,7.6,6.93,HOLD,Quas perspiciatis laborum velit.,2026-11-08T21:29:18+00:00
+871,FB-INT-2026-000132-IVR-000030,132,30,3.7,4.1,6.8,4.75,NO_HIRE,Accusamus ullam itaque ea doloremque et debitis.,2026-11-12T01:51:12+00:00
+872,FB-INT-2026-000550-IVR-000021,550,21,9.6,9.2,6.4,8.52,STRONG_HIRE,Hic ex modi doloribus nulla.,2026-11-11T09:24:03+00:00
+873,FB-INT-2026-000305-IVR-000010,305,10,4.4,5.5,6.2,5.27,HOLD,Beatae reprehenderit maxime saepe numquam dolorem eaque.,2026-11-13T18:31:34+00:00
+874,FB-INT-2026-000300-IVR-000047,300,47,8.9,4.4,4.2,6.14,HOLD,Quisquam optio ea aliquid.,2026-10-31T00:43:58+00:00
+875,FB-INT-2026-000500-IVR-000046,500,46,3.3,9.9,3.3,5.28,HOLD,Voluptas vitae fugiat voluptatum quo impedit architecto.,2026-11-06T19:16:57+00:00
+876,FB-INT-2026-000216-IVR-000004,216,4,8.3,3.1,5.0,5.75,HOLD,Corrupti voluptate id odio maxime.,2026-10-30T16:28:36+00:00
+877,FB-INT-2026-000215-IVR-000025,215,25,3.8,6.0,8.4,5.84,HOLD,Autem maiores voluptate nisi magnam.,2026-11-09T15:43:19+00:00
+878,FB-INT-2026-000212-IVR-000021,212,21,6.0,10.0,3.8,6.54,HOLD,Corporis ratione laboriosam quisquam similique.,2026-09-24T01:23:13+00:00
+879,FB-INT-2026-000238-IVR-000025,238,25,9.7,7.2,4.3,7.33,HIRE,Nam totam tempora adipisci.,2026-11-04T16:26:05+00:00
+880,FB-INT-2026-000499-IVR-000044,499,44,4.5,9.7,3.9,5.88,HOLD,Id unde aliquam velit consectetur ducimus voluptatibus.,2026-11-08T17:50:44+00:00
+881,FB-INT-2026-000314-IVR-000012,314,12,4.0,9.8,3.7,5.65,HOLD,Ipsa perferendis tenetur veniam aliquid occaecati commodi.,2026-10-28T07:08:39+00:00
+882,FB-INT-2026-000053-IVR-000029,53,29,8.8,6.6,3.4,6.52,HOLD,Dolorem earum optio pariatur.,2026-11-05T04:43:17+00:00
+883,FB-INT-2026-000141-IVR-000036,141,36,3.6,9.9,7.6,6.69,HOLD,Corporis voluptatum eum porro distinctio.,2026-11-11T14:49:49+00:00
+884,FB-INT-2026-000506-IVR-000009,506,9,8.9,4.0,4.5,6.11,HOLD,Temporibus facere sed.,2026-11-11T17:08:09+00:00
+885,FB-INT-2026-000401-IVR-000042,401,42,3.3,4.8,4.3,4.05,NO_HIRE,Quis ratione similique cupiditate dolore necessitatibus.,2026-11-11T05:00:09+00:00
+886,FB-INT-2026-000505-IVR-000016,505,16,6.5,8.2,6.0,6.86,HOLD,Aliquam nemo officiis dolorum animi est adipisci.,2026-11-13T11:01:01+00:00
+887,FB-INT-2026-000538-IVR-000020,538,20,5.8,8.7,4.5,6.28,HOLD,Similique voluptas cumque.,2026-11-13T20:32:07+00:00
+888,FB-INT-2026-000498-IVR-000002,498,2,8.5,6.1,9.4,8.05,STRONG_HIRE,Totam molestiae inventore error deserunt.,2026-11-13T23:56:32+00:00
+889,FB-INT-2026-000508-IVR-000022,508,22,8.3,9.1,10.0,9.05,STRONG_HIRE,Velit tempore animi dignissimos officiis.,2026-11-09T23:26:04+00:00
+890,FB-INT-2026-000044-IVR-000044,44,44,8.7,9.8,9.0,9.12,STRONG_HIRE,Aliquid maxime fugiat expedita.,2026-10-25T15:48:16+00:00
+891,FB-INT-2026-000046-IVR-000031,46,31,6.1,4.1,4.1,4.9,NO_HIRE,Asperiores reprehenderit est ea.,2026-11-09T19:11:12+00:00
+892,FB-INT-2026-000087-IVR-000019,87,19,4.9,7.4,4.9,5.65,HOLD,Dolor modi maxime earum soluta praesentium maxime.,2026-09-21T04:23:42+00:00
+893,FB-INT-2026-000487-IVR-000014,487,14,9.4,4.3,9.8,7.99,HIRE,Nisi dignissimos quo quaerat cumque eum.,2026-11-13T11:18:16+00:00
+894,FB-INT-2026-000064-IVR-000047,64,47,5.9,5.5,7.3,6.2,HOLD,Iste illum porro a ratione earum.,2026-10-20T07:52:46+00:00
+895,FB-INT-2026-000054-IVR-000046,54,46,6.1,9.9,3.3,6.4,HOLD,Consequuntur repellat dolorem.,2026-08-15T07:12:35+00:00
+896,FB-INT-2026-000066-IVR-000039,66,39,8.9,9.0,8.9,8.93,STRONG_HIRE,Numquam temporibus dolorem labore.,2026-08-22T21:02:14+00:00
+897,FB-INT-2026-000199-IVR-000031,199,31,6.2,9.3,3.7,6.38,HOLD,Culpa sunt quod praesentium placeat nobis.,2026-10-11T22:09:20+00:00
+898,FB-INT-2026-000571-IVR-000004,571,4,7.1,6.6,8.0,7.22,HIRE,Illum explicabo perferendis.,2026-11-13T22:52:33+00:00
+899,FB-INT-2026-000157-IVR-000009,157,9,3.6,4.1,4.2,3.93,NO_HIRE,Nisi quo rerum aspernatur itaque modi praesentium expedita.,2026-10-27T23:56:03+00:00
+900,FB-INT-2026-000186-IVR-000044,186,44,3.6,7.1,7.0,5.67,HOLD,Ipsa necessitatibus at eaque perspiciatis nisi quidem mollitia.,2026-09-15T03:08:10+00:00
+901,FB-INT-2026-000391-IVR-000017,391,17,5.3,4.0,6.9,5.39,HOLD,Harum iusto nulla sequi nobis voluptatum.,2026-11-05T03:50:52+00:00
+902,FB-INT-2026-000267-IVR-000017,267,17,4.5,3.5,4.5,4.2,NO_HIRE,At nulla sit molestias neque ipsam repellendus provident.,2026-11-12T10:54:34+00:00
+903,FB-INT-2026-000253-IVR-000004,253,4,9.8,9.9,7.2,9.05,STRONG_HIRE,Culpa aliquid repudiandae sit et nemo.,2026-11-02T06:15:54+00:00
+904,FB-INT-2026-000247-IVR-000029,247,29,6.5,4.7,8.9,6.68,HOLD,Ex quam nobis ut nemo.,2026-11-13T11:56:51+00:00
+905,FB-INT-2026-000192-IVR-000002,192,2,6.6,7.9,6.4,6.93,HOLD,Eius minus minima deleniti provident suscipit.,2026-11-08T19:25:23+00:00
+906,FB-INT-2026-000109-IVR-000027,109,27,7.2,6.7,8.8,7.53,HIRE,Tempore impedit esse cum voluptas aperiam.,2026-09-28T04:23:38+00:00
+907,FB-INT-2026-000356-IVR-000024,356,24,9.7,5.2,6.9,7.51,HIRE,Nobis quibusdam commodi harum exercitationem magni assumenda veritatis.,2026-10-28T19:04:03+00:00
+908,FB-INT-2026-000134-IVR-000004,134,4,7.7,3.1,3.5,5.06,HOLD,Ipsa suscipit quidem numquam deleniti ratione.,2026-09-21T06:57:18+00:00
+909,FB-INT-2026-000557-IVR-000004,557,4,5.3,8.0,5.4,6.14,HOLD,Officiis sapiente magnam quo dignissimos.,2026-11-13T23:21:51+00:00
+910,FB-INT-2026-000094-IVR-000021,94,21,9.3,5.7,9.1,8.16,STRONG_HIRE,Consequatur magni aliquam ab cupiditate maxime sed.,2026-10-12T18:59:07+00:00
+911,FB-INT-2026-000391-IVR-000014,391,14,4.7,7.1,3.9,5.18,HOLD,Occaecati consequatur illo blanditiis.,2026-10-29T14:43:17+00:00
+912,FB-INT-2026-000263-IVR-000010,263,10,8.2,9.2,9.1,8.77,STRONG_HIRE,Suscipit harum vitae rem debitis praesentium nostrum.,2026-11-13T02:10:42+00:00
+913,FB-INT-2026-000087-IVR-000029,87,29,6.7,3.7,7.1,5.92,HOLD,Fuga harum id sapiente.,2026-10-15T10:55:43+00:00
+914,FB-INT-2026-000375-IVR-000018,375,18,6.1,4.9,3.0,4.81,NO_HIRE,Quam corrupti harum veniam sunt aliquid.,2026-11-03T13:10:15+00:00
+915,FB-INT-2026-000486-IVR-000030,486,30,6.6,3.1,6.8,5.61,HOLD,Reprehenderit consequuntur quasi explicabo.,2026-11-13T03:38:25+00:00
+916,FB-INT-2026-000184-IVR-000003,184,3,5.6,8.2,3.0,5.6,HOLD,Nisi cum eveniet perspiciatis deleniti repellat.,2026-10-10T00:40:08+00:00
+917,FB-INT-2026-000155-IVR-000012,155,12,5.6,5.7,9.2,6.71,HOLD,Quaerat esse impedit ullam perspiciatis ut.,2026-09-21T14:51:50+00:00
+918,FB-INT-2026-000122-IVR-000036,122,36,7.7,8.6,5.7,7.37,HIRE,Harum repellat aliquam corrupti optio nihil dicta.,2026-09-04T22:40:32+00:00
+919,FB-INT-2026-000249-IVR-000044,249,44,3.6,4.7,9.6,5.73,HOLD,Iste optio qui natus occaecati eaque.,2026-11-01T12:25:16+00:00
+920,FB-INT-2026-000323-IVR-000031,323,31,3.6,8.3,4.3,5.22,HOLD,Iure praesentium itaque ut recusandae commodi praesentium.,2026-11-11T04:02:48+00:00
+921,FB-INT-2026-000483-IVR-000001,483,1,9.3,7.8,5.8,7.8,HIRE,Minima itaque molestias libero quam nisi deserunt mollitia.,2026-11-13T14:17:40+00:00
+922,FB-INT-2026-000062-IVR-000013,62,13,9.3,8.2,6.7,8.19,STRONG_HIRE,Quod assumenda commodi impedit.,2026-10-28T16:50:50+00:00
+923,FB-INT-2026-000042-IVR-000038,42,38,7.3,3.7,6.6,6.01,HOLD,Autem deserunt optio placeat cum deserunt dolore.,2026-11-12T23:00:42+00:00
+924,FB-INT-2026-000406-IVR-000002,406,2,3.7,4.0,9.7,5.59,HOLD,Perferendis hic dignissimos quos fugiat.,2026-11-11T13:56:11+00:00
+925,FB-INT-2026-000178-IVR-000002,178,2,7.3,6.9,9.2,7.75,HIRE,In nihil ut a id.,2026-10-31T14:37:04+00:00
+926,FB-INT-2026-000251-IVR-000020,251,20,8.1,8.7,6.8,7.89,HIRE,Dolorum explicabo at maxime ipsum.,2026-10-30T06:02:32+00:00
+927,FB-INT-2026-000454-IVR-000033,454,33,8.8,6.5,3.9,6.64,HOLD,Neque labore impedit laudantium id cupiditate dolor.,2026-11-13T23:41:03+00:00
+928,FB-INT-2026-000326-IVR-000013,326,13,8.6,8.3,5.9,7.7,HIRE,Ipsa architecto aliquid ut repudiandae iste.,2026-10-15T16:26:02+00:00
+929,FB-INT-2026-000394-IVR-000036,394,36,9.5,9.5,7.2,8.81,STRONG_HIRE,Quisquam provident deserunt odio.,2026-10-25T05:25:07+00:00
+930,FB-INT-2026-000006-IVR-000049,6,49,6.6,9.4,5.6,7.14,HIRE,Sit suscipit deleniti.,2026-10-03T22:03:33+00:00
+931,FB-INT-2026-000105-IVR-000040,105,40,3.2,8.6,3.8,5.0,HOLD,Ad eius quod at pariatur.,2026-09-19T15:17:55+00:00
+932,FB-INT-2026-000362-IVR-000041,362,41,6.7,9.4,4.9,6.97,HOLD,Nihil dolorem possimus officiis soluta laudantium consectetur.,2026-11-12T17:04:31+00:00
+933,FB-INT-2026-000176-IVR-000009,176,9,9.7,7.1,9.4,8.83,STRONG_HIRE,Perferendis qui officia dicta enim.,2026-10-30T01:13:49+00:00
+934,FB-INT-2026-000547-IVR-000042,547,42,3.3,3.8,7.3,4.65,NO_HIRE,Commodi at saepe soluta ipsa.,2026-11-09T18:29:09+00:00
+935,FB-INT-2026-000328-IVR-000030,328,30,5.1,9.3,8.6,7.41,HIRE,Ab cupiditate eligendi.,2026-11-01T23:29:22+00:00
+936,FB-INT-2026-000478-IVR-000022,478,22,5.4,7.0,6.5,6.21,HOLD,Non voluptatibus cupiditate quibusdam ab fugit at.,2026-11-11T20:29:17+00:00
+937,FB-INT-2026-000570-IVR-000003,570,3,3.2,3.2,9.2,5.0,HOLD,Libero dicta qui rem voluptates quo.,2026-11-13T22:55:35+00:00
+938,FB-INT-2026-000104-IVR-000024,104,24,8.6,3.8,8.6,7.16,HIRE,Architecto ab excepturi quas dolorum.,2026-11-01T11:51:12+00:00
+939,FB-INT-2026-000244-IVR-000014,244,14,5.7,9.9,4.7,6.66,HOLD,Aut in dolores atque quibusdam.,2026-10-28T06:33:14+00:00
+940,FB-INT-2026-000368-IVR-000040,368,40,9.1,3.9,9.6,7.69,HIRE,Possimus id suscipit ipsum rerum perspiciatis expedita consequuntur.,2026-10-28T20:02:43+00:00
+941,FB-INT-2026-000382-IVR-000032,382,32,5.8,9.3,3.5,6.16,HOLD,Cupiditate animi soluta aut.,2026-11-08T03:10:50+00:00
+942,FB-INT-2026-000517-IVR-000010,517,10,9.5,6.3,8.5,8.24,STRONG_HIRE,Cumque non accusamus numquam harum.,2026-11-12T19:03:57+00:00
+943,FB-INT-2026-000473-IVR-000013,473,13,6.2,6.9,4.1,5.78,HOLD,Commodi enim explicabo.,2026-11-12T02:52:36+00:00
+944,FB-INT-2026-000255-IVR-000020,255,20,3.2,5.7,9.8,5.93,HOLD,Totam inventore quia repellendus corrupti recusandae nulla aliquam.,2026-10-14T16:23:14+00:00
+945,FB-INT-2026-000405-IVR-000040,405,40,8.9,5.6,7.6,7.52,HIRE,Quaerat ducimus nisi dicta velit cumque sunt.,2026-10-29T16:44:45+00:00
+946,FB-INT-2026-000471-IVR-000046,471,46,4.3,7.5,3.6,5.05,HOLD,Quia similique voluptatem soluta alias neque dignissimos.,2026-11-12T09:11:16+00:00
+947,FB-INT-2026-000476-IVR-000027,476,27,6.0,9.1,3.3,6.12,HOLD,Quasi quo molestias iure quo doloremque alias.,2026-11-08T03:12:25+00:00
+948,FB-INT-2026-000220-IVR-000032,220,32,5.5,8.0,5.0,6.1,HOLD,Ex beatae maiores corporis ipsa blanditiis reiciendis.,2026-10-01T15:21:55+00:00
+949,FB-INT-2026-000482-IVR-000030,482,30,8.9,3.5,5.8,6.35,HOLD,Molestias aut eaque magnam repudiandae dolorem.,2026-11-07T13:29:00+00:00
+950,FB-INT-2026-000220-IVR-000021,220,21,5.5,7.3,4.4,5.71,HOLD,Dolor vero rem.,2026-10-22T06:02:21+00:00
+951,FB-INT-2026-000345-IVR-000037,345,37,4.0,8.0,8.3,6.49,HOLD,Sint magni quae.,2026-10-30T02:25:00+00:00
+952,FB-INT-2026-000302-IVR-000040,302,40,7.6,9.6,9.4,8.74,STRONG_HIRE,Blanditiis eveniet ut dolore harum quis magnam distinctio.,2026-11-12T17:28:58+00:00
+953,FB-INT-2026-000562-IVR-000039,562,39,8.5,3.2,3.4,5.38,HOLD,Odit impedit eius.,2026-11-13T13:26:49+00:00
+954,FB-INT-2026-000210-IVR-000006,210,6,3.8,5.7,7.0,5.33,HOLD,Eius fugit facilis dolorum quibusdam.,2026-10-20T19:37:33+00:00
+955,FB-INT-2026-000256-IVR-000011,256,11,5.7,6.4,5.1,5.73,HOLD,Suscipit aperiam delectus optio.,2026-11-08T04:12:39+00:00
+956,FB-INT-2026-000052-IVR-000014,52,14,7.3,9.0,5.4,7.24,HIRE,Commodi nam distinctio illum.,2026-10-09T03:49:50+00:00
+957,FB-INT-2026-000253-IVR-000002,253,2,9.6,7.7,4.5,7.5,HIRE,Vero dicta quam ipsam.,2026-11-07T06:05:20+00:00
+958,FB-INT-2026-000549-IVR-000048,549,48,5.4,9.4,8.8,7.62,HIRE,Odio fuga modi placeat magni laboriosam architecto ab.,2026-11-12T17:36:27+00:00
+959,FB-INT-2026-000419-IVR-000014,419,14,6.8,8.0,8.7,7.73,HIRE,Ad velit ipsa impedit.,2026-11-11T21:01:06+00:00
+960,FB-INT-2026-000102-IVR-000020,102,20,9.2,4.4,6.7,7.01,HIRE,Pariatur voluptas suscipit eaque nesciunt dicta.,2026-10-30T19:52:23+00:00
+961,FB-INT-2026-000431-IVR-000037,431,37,7.4,3.5,9.2,6.77,HOLD,Totam fuga voluptatem.,2026-11-02T13:51:06+00:00
+962,FB-INT-2026-000378-IVR-000049,378,49,7.5,8.8,5.3,7.23,HIRE,Minima distinctio dolor.,2026-11-07T04:44:55+00:00
+963,FB-INT-2026-000224-IVR-000029,224,29,5.4,5.0,7.9,6.03,HOLD,Earum cum perspiciatis cum omnis.,2026-10-07T07:18:41+00:00
+964,FB-INT-2026-000581-IVR-000001,581,1,9.0,5.6,7.5,7.53,HIRE,Sapiente corrupti magni sapiente laudantium illum debitis.,2026-11-13T18:08:20+00:00
+965,FB-INT-2026-000245-IVR-000017,245,17,3.6,5.7,5.8,4.89,NO_HIRE,Accusantium doloribus totam in dignissimos rem dolor sed.,2026-11-07T21:47:43+00:00
+966,FB-INT-2026-000129-IVR-000039,129,39,7.4,5.0,3.5,5.51,HOLD,Soluta ipsa eligendi.,2026-10-25T00:34:21+00:00
+967,FB-INT-2026-000091-IVR-000013,91,13,4.7,7.8,7.6,6.5,HOLD,Veniam itaque quis pariatur.,2026-09-28T20:43:44+00:00
+968,FB-INT-2026-000080-IVR-000011,80,11,8.5,4.2,5.0,6.16,HOLD,Aperiam sit laboriosam veniam veniam nisi.,2026-11-02T21:00:47+00:00
+969,FB-INT-2026-000549-IVR-000014,549,14,4.3,9.2,9.0,7.18,HIRE,Voluptatibus totam at tenetur.,2026-11-11T15:13:58+00:00
+970,FB-INT-2026-000318-IVR-000002,318,2,9.1,4.2,6.3,6.79,HOLD,Et ea corrupti voluptas quas corporis nihil ea.,2026-10-30T17:42:34+00:00
+971,FB-INT-2026-000574-IVR-000006,574,6,4.2,5.9,7.3,5.64,HOLD,Porro id similique quam.,2026-11-13T21:19:41+00:00
+972,FB-INT-2026-000040-IVR-000006,40,6,6.2,3.8,8.4,6.14,HOLD,Placeat at minus.,2026-10-04T02:44:19+00:00
+973,FB-INT-2026-000096-IVR-000021,96,21,8.6,3.2,8.9,7.07,HIRE,Tempora aliquid veritatis quam illum laboriosam.,2026-10-21T05:23:58+00:00
+974,FB-INT-2026-000492-IVR-000007,492,7,4.8,9.2,7.6,6.96,HOLD,Itaque ullam consectetur quod molestias ducimus.,2026-11-13T21:11:41+00:00
+975,FB-INT-2026-000168-IVR-000022,168,22,6.8,8.1,4.0,6.35,HOLD,Ratione maxime rerum vel sapiente quasi nesciunt.,2026-10-29T22:47:03+00:00
+976,FB-INT-2026-000083-IVR-000013,83,13,5.2,9.7,7.2,7.15,HIRE,Id sunt voluptas voluptatem corrupti.,2026-11-01T00:26:23+00:00
+977,FB-INT-2026-000518-IVR-000031,518,31,4.7,7.9,9.1,6.98,HOLD,Placeat ea aperiam nihil maxime doloremque.,2026-11-09T22:33:20+00:00
+978,FB-INT-2026-000435-IVR-000033,435,33,7.6,7.3,7.7,7.54,HIRE,Dolores dolorum illum dicta minus.,2026-11-08T19:44:20+00:00
+979,FB-INT-2026-000076-IVR-000048,76,48,4.3,7.3,3.6,4.99,NO_HIRE,Dolorum molestiae alias incidunt dignissimos.,2026-07-29T18:16:28+00:00
+980,FB-INT-2026-000426-IVR-000019,426,19,8.2,8.9,5.4,7.57,HIRE,Commodi eos beatae porro accusantium.,2026-11-03T10:03:44+00:00
+981,FB-INT-2026-000275-IVR-000042,275,42,6.2,8.5,3.7,6.14,HOLD,Totam alias porro labore accusantium quis sunt.,2026-11-08T02:37:21+00:00
+982,FB-INT-2026-000088-IVR-000001,88,1,6.7,6.7,3.9,5.86,HOLD,Iusto corporis inventore.,2026-11-05T17:19:34+00:00
+983,FB-INT-2026-000353-IVR-000003,353,3,4.5,8.4,4.3,5.61,HOLD,Placeat cumque temporibus blanditiis itaque qui fugiat optio.,2026-10-23T14:04:38+00:00
+984,FB-INT-2026-000294-IVR-000049,294,49,7.4,8.2,6.4,7.34,HIRE,Fugit recusandae sed corrupti libero cupiditate.,2026-10-15T08:48:45+00:00
+985,FB-INT-2026-000438-IVR-000044,438,44,6.8,7.1,4.4,6.17,HOLD,Veniam est provident voluptatem cumque consequatur similique.,2026-10-31T12:59:39+00:00
+986,FB-INT-2026-000004-IVR-000022,4,22,3.0,4.9,6.0,4.47,NO_HIRE,Aperiam pariatur dolore nihil quaerat unde explicabo.,2026-10-19T11:45:44+00:00
+987,FB-INT-2026-000404-IVR-000033,404,33,6.4,9.7,6.4,7.39,HIRE,Dolor sit atque accusamus.,2026-10-27T05:26:00+00:00
+988,FB-INT-2026-000059-IVR-000012,59,12,4.0,3.6,8.7,5.29,HOLD,Provident adipisci iste possimus quo.,2026-08-26T10:27:53+00:00
+989,FB-INT-2026-000325-IVR-000032,325,32,3.6,3.4,8.6,5.04,HOLD,Odio consequatur iste ut error.,2026-11-08T00:15:13+00:00
+990,FB-INT-2026-000354-IVR-000042,354,42,7.7,9.2,5.7,7.55,HIRE,Dolore molestias vel enim perferendis.,2026-11-11T17:44:28+00:00
+991,FB-INT-2026-000020-IVR-000001,20,1,8.1,5.4,5.3,6.45,HOLD,Rerum libero praesentium fugit harum nobis.,2026-09-26T09:04:21+00:00
+992,FB-INT-2026-000198-IVR-000049,198,49,8.5,6.8,4.0,6.64,HOLD,Exercitationem nobis dignissimos dignissimos est nihil.,2026-09-19T14:43:24+00:00
+993,FB-INT-2026-000151-IVR-000022,151,22,6.5,5.9,6.5,6.32,HOLD,Corporis accusamus rem blanditiis aperiam quibusdam minus.,2026-10-22T17:41:41+00:00
+994,FB-INT-2026-000484-IVR-000037,484,37,7.1,7.3,9.1,7.76,HIRE,Magni laboriosam possimus culpa ut architecto enim.,2026-11-10T17:15:11+00:00
+995,FB-INT-2026-000596-IVR-000020,596,20,6.1,5.7,5.0,5.65,HOLD,Sequi occaecati consequatur sapiente sint.,2026-11-13T21:49:29+00:00
+996,FB-INT-2026-000469-IVR-000013,469,13,7.5,3.2,9.5,6.81,HOLD,Ratione eveniet accusamus dicta fugit quod nulla.,2026-11-11T01:21:43+00:00
+997,FB-INT-2026-000592-IVR-000024,592,24,3.6,6.6,7.5,5.67,HOLD,Architecto quibusdam unde.,2026-11-13T18:40:03+00:00
+998,FB-INT-2026-000559-IVR-000029,559,29,4.6,9.0,9.5,7.39,HIRE,Provident dolores eos quos accusantium.,2026-11-13T11:42:35+00:00
+999,FB-INT-2026-000222-IVR-000039,222,39,7.3,9.2,9.9,8.65,STRONG_HIRE,Consequuntur iusto dolor.,2026-10-31T01:11:25+00:00
+1000,FB-INT-2026-000256-IVR-000040,256,40,8.4,7.2,6.9,7.59,HIRE,Officiis omnis tempora ipsum.,2026-11-12T09:37:02+00:00

@@ -1,0 +1,288 @@
+{
+    "total_checks": 56,
+    "passed_checks": 56,
+    "failed_checks": 0,
+    "overall_status": "SUCCESS",
+    "results": [
+        {
+            "check": "Primary key - Departments",
+            "status": "PASS",
+            "details": "Column: department_id, Rows: 10"
+        },
+        {
+            "check": "Primary key - Requisitions",
+            "status": "PASS",
+            "details": "Column: requisition_id, Rows: 100"
+        },
+        {
+            "check": "Primary key - Skills",
+            "status": "PASS",
+            "details": "Column: skill_id, Rows: 50"
+        },
+        {
+            "check": "Primary key - Candidates",
+            "status": "PASS",
+            "details": "Column: candidate_id, Rows: 2000"
+        },
+        {
+            "check": "Primary key - Candidate Skills",
+            "status": "PASS",
+            "details": "Column: id, Rows: 9035"
+        },
+        {
+            "check": "Primary key - Resume Artifacts",
+            "status": "PASS",
+            "details": "Column: resume_id, Rows: 2327"
+        },
+        {
+            "check": "Primary key - Applications",
+            "status": "PASS",
+            "details": "Column: application_id, Rows: 3000"
+        },
+        {
+            "check": "Primary key - Screening Rules",
+            "status": "PASS",
+            "details": "Column: rule_id, Rows: 400"
+        },
+        {
+            "check": "Primary key - Interviewers",
+            "status": "PASS",
+            "details": "Column: interviewer_id, Rows: 50"
+        },
+        {
+            "check": "Primary key - Interviews",
+            "status": "PASS",
+            "details": "Column: interview_id, Rows: 600"
+        },
+        {
+            "check": "Primary key - Interview Assignments",
+            "status": "PASS",
+            "details": "Column: assignment_id, Rows: 1200"
+        },
+        {
+            "check": "Primary key - Feedback",
+            "status": "PASS",
+            "details": "Column: feedback_id, Rows: 1000"
+        },
+        {
+            "check": "Primary key - Offers",
+            "status": "PASS",
+            "details": "Column: offer_id, Rows: 150"
+        },
+        {
+            "check": "Primary key - Approval History",
+            "status": "PASS",
+            "details": "Column: approval_id, Rows: 150"
+        },
+        {
+            "check": "Primary key - Application Stage History",
+            "status": "PASS",
+            "details": "Column: id, Rows: 7559"
+        },
+        {
+            "check": "Foreign key - Requisition -> Department",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Interviewer -> Department",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Candidate Skill -> Candidate",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Candidate Skill -> Skill",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Resume Artifact -> Candidate",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Application -> Candidate",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Application -> Requisition",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Screening Rule -> Requisition",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Interview -> Application",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Assignment -> Interview",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Assignment -> Interviewer",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Feedback -> Interview",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Feedback -> Interviewer",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Offer -> Application",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Approval History -> Offer",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Foreign key - Stage History -> Application",
+            "status": "PASS",
+            "details": "Invalid references: 0"
+        },
+        {
+            "check": "Duplicate applications",
+            "status": "PASS",
+            "details": "Duplicate pairs: 0"
+        },
+        {
+            "check": "Duplicate interview assignments",
+            "status": "PASS",
+            "details": "Duplicate assignments: 0"
+        },
+        {
+            "check": "Duplicate interviewer feedback",
+            "status": "PASS",
+            "details": "Duplicate feedback records: 0"
+        },
+        {
+            "check": "Application status values",
+            "status": "PASS",
+            "details": "Invalid statuses: set()"
+        },
+        {
+            "check": "Requisition status values",
+            "status": "PASS",
+            "details": "Invalid statuses: set()"
+        },
+        {
+            "check": "Offer status values",
+            "status": "PASS",
+            "details": "Invalid statuses: set()"
+        },
+        {
+            "check": "Resume artifact file types",
+            "status": "PASS",
+            "details": "Invalid types: set()"
+        },
+        {
+            "check": "Resume artifact extraction status",
+            "status": "PASS",
+            "details": "Invalid statuses: set()"
+        },
+        {
+            "check": "Requisition salary range",
+            "status": "PASS",
+            "details": "Invalid salary ranges: 0"
+        },
+        {
+            "check": "Offer salary within approved band",
+            "status": "PASS",
+            "details": "Invalid offers: 0"
+        },
+        {
+            "check": "Screening weights total 100",
+            "status": "PASS",
+            "details": "Requisitions with invalid weights: 0"
+        },
+        {
+            "check": "Individual screening weights",
+            "status": "PASS",
+            "details": "Invalid rules: 0"
+        },
+        {
+            "check": "Application creation dates",
+            "status": "PASS",
+            "details": "Invalid applications: 0"
+        },
+        {
+            "check": "Interview start and end dates",
+            "status": "PASS",
+            "details": "Invalid interviews: 0"
+        },
+        {
+            "check": "Interview after application",
+            "status": "PASS",
+            "details": "Invalid interview sequences: 0"
+        },
+        {
+            "check": "Feedback submitted after interview",
+            "status": "PASS",
+            "details": "Invalid feedback dates: 0"
+        },
+        {
+            "check": "Offer joining dates",
+            "status": "PASS",
+            "details": "Invalid joining dates: 0"
+        },
+        {
+            "check": "Every application has history",
+            "status": "PASS",
+            "details": "Applications without history: 0"
+        },
+        {
+            "check": "Final history matches application status",
+            "status": "PASS",
+            "details": "Mismatches: 0"
+        },
+        {
+            "check": "Feedback belongs to assigned interviewer",
+            "status": "PASS",
+            "details": "Invalid feedback assignments: 0"
+        },
+        {
+            "check": "EDGE-01 Duplicate application scenario",
+            "status": "PASS",
+            "details": "Valid existing applications: 1"
+        },
+        {
+            "check": "EDGE-02 Unavailable interviewer",
+            "status": "PASS",
+            "details": "Overlapping: True, Already assigned: True, New assignment persisted: False"
+        },
+        {
+            "check": "EDGE-03 Missing feedback",
+            "status": "PASS",
+            "details": "Expected: 2, Actual: 1"
+        },
+        {
+            "check": "EDGE-04 Salary outside approved band",
+            "status": "PASS",
+            "details": "Attempted salary: 2460000.0, Maximum: 2050000.0"
+        },
+        {
+            "check": "EDGE-05 Closed requisition with active applications",
+            "status": "PASS",
+            "details": "Active applications: 22"
+        }
+    ]
+}

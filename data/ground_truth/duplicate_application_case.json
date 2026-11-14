@@ -1,0 +1,11 @@
+{
+    "scenario_id": "EDGE-02",
+    "scenario_name": "DUPLICATE_APPLICATION",
+    "description": "A candidate attempts to apply again for the same requisition.",
+    "candidate_id": 27,
+    "requisition_id": 38,
+    "existing_application_code": "APP-REQ-2026-000038-CAND-000027",
+    "attempted_at": "2026-11-14T00:00:00+00:00",
+    "expected_outcome": "REJECTED_BY_UNIQUE_CONSTRAINT",
+    "is_valid_application": false
+}

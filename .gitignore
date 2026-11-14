@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caches and test coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Local storage and Docker volume data
+postgres_data/
+*.sqlite3
+*.db
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

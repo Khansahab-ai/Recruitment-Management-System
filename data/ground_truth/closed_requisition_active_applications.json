@@ -1,0 +1,33 @@
+{
+    "scenario_id": "EDGE-05",
+    "scenario_name": "CLOSED_REQUISITION_WITH_ACTIVE_APPLICATIONS",
+    "requisition_id": 24,
+    "requisition_code": "REQ-2026-000024",
+    "active_application_ids": [
+        9,
+        34,
+        126,
+        331,
+        462,
+        828,
+        947,
+        1105,
+        1201,
+        1255,
+        1271,
+        1342,
+        1346,
+        1392,
+        1486,
+        1550,
+        1940,
+        2090,
+        2316,
+        2319,
+        2883,
+        2914
+    ],
+    "active_application_count": 22,
+    "expected_outcome": "FLAG_ACTIVE_APPLICATIONS_ON_CLOSED_REQUISITION",
+    "is_business_exception": true
+}

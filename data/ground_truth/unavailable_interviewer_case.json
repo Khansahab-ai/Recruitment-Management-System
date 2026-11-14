@@ -1,0 +1,15 @@
+{
+    "scenario_id": "EDGE-01",
+    "scenario_name": "INTERVIEWER_UNAVAILABLE",
+    "description": "An interviewer is already assigned to an interview during the requested time slot.",
+    "interviewer_id": 23,
+    "interviewer_code": "IVR-000023",
+    "conflicting_interview_id": 1,
+    "target_interview_id": 2,
+    "conflicting_start": "2026-02-03T01:51:02+00:00",
+    "conflicting_end": "2026-02-03T02:51:02+00:00",
+    "attempted_start": "2026-02-03T01:51:02+00:00",
+    "attempted_end": "2026-02-03T02:51:02+00:00",
+    "expected_outcome": "REJECTED_INTERVIEWER_UNAVAILABLE",
+    "assignment_persisted": false
+}

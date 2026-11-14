@@ -1,0 +1,252 @@
+[
+    {
+        "skill_id": 1,
+        "skill_name": "Python",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 2,
+        "skill_name": "Java",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 3,
+        "skill_name": "JavaScript",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 4,
+        "skill_name": "C++",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 5,
+        "skill_name": "C#",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 6,
+        "skill_name": "SQL",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 7,
+        "skill_name": "R",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 8,
+        "skill_name": "Go",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 9,
+        "skill_name": "TypeScript",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 10,
+        "skill_name": "PHP",
+        "category": "Programming"
+    },
+    {
+        "skill_id": 11,
+        "skill_name": "Machine Learning",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 12,
+        "skill_name": "Deep Learning",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 13,
+        "skill_name": "NLP",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 14,
+        "skill_name": "Computer Vision",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 15,
+        "skill_name": "Generative AI",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 16,
+        "skill_name": "LLMs",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 17,
+        "skill_name": "TensorFlow",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 18,
+        "skill_name": "PyTorch",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 19,
+        "skill_name": "Scikit-learn",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 20,
+        "skill_name": "LangChain",
+        "category": "AI_ML"
+    },
+    {
+        "skill_id": 21,
+        "skill_name": "Pandas",
+        "category": "Data"
+    },
+    {
+        "skill_id": 22,
+        "skill_name": "NumPy",
+        "category": "Data"
+    },
+    {
+        "skill_id": 23,
+        "skill_name": "Power BI",
+        "category": "Data"
+    },
+    {
+        "skill_id": 24,
+        "skill_name": "Tableau",
+        "category": "Data"
+    },
+    {
+        "skill_id": 25,
+        "skill_name": "Excel",
+        "category": "Data"
+    },
+    {
+        "skill_id": 26,
+        "skill_name": "Data Analysis",
+        "category": "Data"
+    },
+    {
+        "skill_id": 27,
+        "skill_name": "Statistics",
+        "category": "Data"
+    },
+    {
+        "skill_id": 28,
+        "skill_name": "Data Engineering",
+        "category": "Data"
+    },
+    {
+        "skill_id": 29,
+        "skill_name": "Spark",
+        "category": "Data"
+    },
+    {
+        "skill_id": 30,
+        "skill_name": "Data Visualization",
+        "category": "Data"
+    },
+    {
+        "skill_id": 31,
+        "skill_name": "AWS",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 32,
+        "skill_name": "Azure",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 33,
+        "skill_name": "GCP",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 34,
+        "skill_name": "Docker",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 35,
+        "skill_name": "Kubernetes",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 36,
+        "skill_name": "Git",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 37,
+        "skill_name": "Linux",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 38,
+        "skill_name": "CI/CD",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 39,
+        "skill_name": "Terraform",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 40,
+        "skill_name": "Jenkins",
+        "category": "Cloud_DevOps"
+    },
+    {
+        "skill_id": 41,
+        "skill_name": "FastAPI",
+        "category": "Web_Backend"
+    },
+    {
+        "skill_id": 42,
+        "skill_name": "Django",
+        "category": "Web_Backend"
+    },
+    {
+        "skill_id": 43,
+        "skill_name": "Flask",
+        "category": "Web_Backend"
+    },
+    {
+        "skill_id": 44,
+        "skill_name": "React",
+        "category": "Web_Backend"
+    },
+    {
+        "skill_id": 45,
+        "skill_name": "Node.js",
+        "category": "Web_Backend"
+    },
+    {
+        "skill_id": 46,
+        "skill_name": "REST APIs",
+        "category": "Web_Backend"
+    },
+    {
+        "skill_id": 47,
+        "skill_name": "PostgreSQL",
+        "category": "Web_Backend"
+    },
+    {
+        "skill_id": 48,
+        "skill_name": "MongoDB",
+        "category": "Web_Backend"
+    },
+    {
+        "skill_id": 49,
+        "skill_name": "Redis",
+        "category": "Web_Backend"
+    },
+    {
+        "skill_id": 50,
+        "skill_name": "Microservices",
+        "category": "Web_Backend"
+    }
+]
