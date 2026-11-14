@@ -12,10 +12,11 @@ An end-to-end, enterprise-grade Recruitment Management System built with **FastA
 5. [Local Setup Guide (Step-by-Step for New Users)](#5-local-setup-guide-step-by-step-for-new-users)
    - [Method 1: Docker Compose (Quickest & Recommended)](#method-1-docker-compose-quickest--recommended)
    - [Method 2: Local Python & Virtual Environment](#method-2-local-python--virtual-environment)
-6. [Running the Test Suite & Verification](#6-running-the-test-suite--verification)
-7. [System Architecture & Ports](#7-system-architecture--ports)
-8. [Troubleshooting & Common Questions](#8-troubleshooting--common-questions)
-9. [Project Directory Map](#9-project-directory-map)
+6. [How to Test the Web Dashboard (Simple Step-by-Step Guide)](#6-how-to-test-the-web-dashboard-simple-step-by-step-guide)
+7. [Running the Test Suite & Verification](#7-running-the-test-suite--verification)
+8. [System Architecture & Ports](#8-system-architecture--ports)
+9. [Troubleshooting & Common Questions](#9-troubleshooting--common-questions)
+10. [Project Directory Map](#10-project-directory-map)
 
 ---
 
@@ -212,7 +213,106 @@ Now open **[http://localhost:3000](http://localhost:3000)** in your browser!
 
 ---
 
-## 6. Running the Test Suite & Verification
+## 6. How to Test the Web Dashboard (Simple Step-by-Step Guide)
+
+Open your browser at **[http://localhost:3000](http://localhost:3000)**. Use the tabs across the top to test each workflow:
+
+### Quick 5-Minute Testing Checklist:
+
+```
+[1. Dashboard Tab]     Check KPIs & Visual Recruitment Funnel
+[2. Screening Tab]     Run Criteria Evaluation for Application #1
+[3. Interviews Tab]    Click "+ Schedule Round" to advance candidate to INTERVIEW
+[4. Feedback Tab]      Submit 3-Score Ratings & HIRE Recommendation
+[5. Offers Tab]        Test Salary Band Policy Guardrail (EDGE-04)
+[6. Audit Tab]         Review Injected Anomalies & Ground-Truth Matches
+```
+
+---
+
+### Test 1: Check Live Dashboard & Hiring Funnel
+1. Click the **"Dashboard"** tab.
+2. **What to look for**:
+   - The top cards display live metrics: **100+ Requisitions**, **3,000+ Applications**, **600+ Interviews**, and **Offer Acceptance Rate (%)**.
+   - The visual **Recruitment Funnel** shows volume drop-offs from `APPLIED` $\rightarrow$ `SCREENING` $\rightarrow$ `INTERVIEW` $\rightarrow$ `OFFER`.
+   - The **Department Performance** table details openings, applications, and time-to-hire across Engineering, Product, Sales, and Marketing.
+
+---
+
+### Test 2: Test Structured Candidate Screening
+1. Click the **"Screening"** tab.
+2. Enter **Application ID: `1`** (or `5`) into the input box.
+3. Click the blue **"Evaluate Application"** button.
+4. **What to look for**:
+   - The screening engine calculates a weighted job fit score (0–100) based strictly on job criteria (Skills match, Experience, Education) with non-bias exclusions.
+   - An itemized breakdown table shows evidence, weight %, raw score, and pass/fail status.
+
+---
+
+### Test 3: Schedule an Interview Round
+1. Click the **"Interview Panels"** tab.
+2. Click the **"+ Schedule Round"** button at the top right.
+3. Enter:
+   * **Application ID**: `1`
+   * **Round Name**: Select `Technical Round 1` or `Coding Assessment`
+   * Start and End times are pre-filled automatically.
+4. Click **"Schedule Round"**.
+5. **What to look for**:
+   - A success alert confirms the created round code (e.g. `INT-2026-000601`).
+   - The candidate automatically advances from `SCREENING` to the `INTERVIEW` stage in the applications table.
+
+---
+
+### Test 4: Submit Structured Interview Feedback
+1. Click the **"Feedback"** tab.
+2. Click the **"+ Submit Feedback"** button.
+3. Enter:
+   * **Interview ID**: `1`
+   * **Interviewer ID**: `1`
+   * Ratings (0-10): Technical (`9`), Problem Solving (`8.5`), Communication (`8`)
+   * **Recommendation**: Select `STRONG_HIRE` or `HIRE`
+   * **Comments**: e.g., "Demonstrated strong distributed systems knowledge."
+4. Click **"Submit Feedback"**.
+5. **What to look for**:
+   - The overall weighted score is calculated and stored.
+   - The feedback code (e.g. `FB-1-1`) appears in the Feedback table.
+
+---
+
+### Test 5: Test the Salary Band Guardrail (EDGE-04)
+*This demonstrates that the system prevents offers that exceed or fall below the approved budget.*
+
+1. Click the **"Offers & Approvals"** tab.
+2. Click **"+ Propose Offer"**.
+3. **Negative Test (Salary Band Policy Violation)**:
+   * **Application ID**: `21` *(DevOps Engineer — Requisition salary band: ₹600,000 to ₹800,000)*
+   * **Offered Annual Salary (INR)**: Enter `5000` *(or `2000000`, which is outside the band)*
+   * Click **"Propose Offer"**.
+   * **Result**: The system blocks the offer with an alert:
+     ```text
+     Offer Policy Blocked:
+     Offered salary 5,000.00 is outside the approved salary band [600,000.00 - 800,000.00] for requisition REQ-2026-000009
+     ```
+4. **Positive Test (Compliant Offer Proposal)**:
+   * Change **Offered Annual Salary (INR)** to `700000` *(within ₹600k–₹800k)*.
+   * Click **"Propose Offer"**.
+   * **Result**: The offer is successfully proposed with status **`PENDING_APPROVAL`**.
+5. **Executive Approval**:
+   * Find the newly proposed offer in the table.
+   * Click the green **"Approve"** button. The offer transitions to `APPROVED`, the candidate moves to `OFFER` stage, and an approval event is logged in `offer_approval_history`!
+
+---
+
+### Test 6: Explore Injected Anomaly Audit & Ground Truth
+1. Click the **"Audit / Exceptions"** tab.
+2. **What to look for**:
+   - Displays real-time detection of the 5 injected edge cases (interviewer double-booking, duplicate candidate applications, skipped feedback advancements, out-of-band salaries, and closed requisitions with active applications).
+   - Each card displays the issue severity (`CRITICAL` or `WARNING`), affected entity ID, and policy explanation.
+   - Click **"Re-scan Database"** to see the system audit all tables on demand.
+
+---
+
+## 7. Running the Test Suite & Verification
 
 The project includes automated validation checks and a full integration test suite.
 
@@ -248,7 +348,7 @@ Executes all end-to-end API tests across all workflows, conflict detection, scre
 
 ---
 
-## 7. System Architecture & Ports
+## 8. System Architecture & Ports
 
 | Service | Port | Description |
 | :--- | :---: | :--- |
@@ -259,7 +359,7 @@ Executes all end-to-end API tests across all workflows, conflict detection, scre
 
 ---
 
-## 8. Troubleshooting & Common Questions
+## 9. Troubleshooting & Common Questions
 
 ### 1. Port Already in Use (e.g. 5432, 8000, 3000)
 If you already have a local PostgreSQL or process using port 5432:
@@ -286,7 +386,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ---
 
-## 9. Project Directory Map
+## 10. Project Directory Map
 
 ```
 RecruitmentManagementSystem/
